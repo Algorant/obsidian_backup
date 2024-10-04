@@ -19,6 +19,10 @@ scheduled today
 		- [ ] get payoff amount
 		- [ ] Temporarily removed is possible?
 		- [ ] Payoff amount: 12,516.50 approx
+	- [ ] New ballpark numbers
+		- [ ] 9.875%
+		- [ ] 2k to close
+		- [ ] 923/month
 - [ ] Shop Time tonight
 	- [ ] Put battery On
 	- [ ] Cut out platforms for robots
