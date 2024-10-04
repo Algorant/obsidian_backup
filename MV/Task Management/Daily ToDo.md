@@ -51,10 +51,10 @@ scheduled today
 - [ ] Make platform for Axidraw to eliminate discrepancies
 	- [ ] 21x20
 #### Shop
-- [ ] Build Workout Board
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
-- [ ] Install Lights?
+- [ ] Install Battery
+- [ ] Build Workout Board
 - [ ] Build new [[Table Saw Table]]
 	- [ ] Index it to the right side to retain fence capabilities
 	- [ ] Cut MDF parts for front
