@@ -17,11 +17,11 @@ scheduled today
 	- [ ] ucc email: ucc@serviceexperts.com
 		- [ ] On subject line: Ivan Santos 10012419
 		- [ ] get payoff amount
-- [ ] Set up initial [[corne]] config
-- [ ] Get actual dimensions for robot platforms
 - [ ] Shop Time tonight
 	- [ ] Put battery On
 	- [ ] Cut out platforms for robots
+- [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
+- [ ] Set up initial [[corne]] config
 - [ ] Create '/meeting' macro or shortcut or quickadd thing
 	- [ ] Date fill in as same day
 	- [ ] Points
