@@ -199,8 +199,7 @@
 28. Mistborn 4
 29. Mistborn 5
 30. Mistborn 6
-
-
+ok
 Mistborn 7
 Yumi
 Sunlit man

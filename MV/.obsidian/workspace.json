@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Notes/bodin list.md",
+                "file": "Daily Notes/October 3rd 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Notes/bodin list.md",
+                "file": "Daily Notes/October 3rd 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Notes/bodin list.md",
+                "file": "Daily Notes/October 3rd 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Notes/bodin list.md"
+                "file": "Daily Notes/October 3rd 2024.md"
               }
             }
           }
@@ -169,33 +169,35 @@
   },
   "active": "c7ca981963083da8",
   "lastOpenFiles": [
+    "Daily Notes/October 2nd 2024.md",
+    "Daily Notes/October 1st 2024.md",
+    "Daily Notes/Archive/Sept 2024/September 1st 2024.md",
+    "Daily Notes/Archive/August 2024/August 1st 2024.md",
+    "Daily Notes/Archive/Sept 2024",
+    "Daily Notes/Archive/August 2024",
+    "Dashboards/🧑 People Dashboard.md",
+    "Dashboards/🦸 Graphic Novel Dashboard.md",
+    "Dashboards/🗄️ Projects Dashboard.md",
+    "Dashboards/📺 TV Dashboard.md",
+    "Dashboards/📰 Article Dashboard.md",
+    "Dashboards/📖 Books Dashboard.md",
+    "Dashboards/💭 Thoughts Dashboard.md",
+    "Dashboards/💬 Quotes Dashboard.md",
+    "Dashboards/👨‍🍳 Recipe Board.md",
+    "Dashboards/🎶 Music Dashboard.md",
+    "Dashboards/🎮  Games Dashboard.md",
+    "New Notes/Shopping List.md",
+    "New Notes/novi typing.md",
+    "New Notes/Movieclub selections.md",
+    "New Notes/Movie List with Lisa.md",
+    "New Notes/Books Read By Year.md",
+    "New Notes/Bodin Typing Page.md",
+    "New Notes/bodin list.md",
     "New Notes/Art for House.md",
     "Daily Notes/October 3rd 2024.md",
     "Obsidian",
     "Projects/Tech/Robochumba/axicli.md",
     "Work/Medtronic/Meeting Notes/Socket Tracing/Thursday Workstream Meetings.md",
-    "Projects/FF/3kp League.md",
-    "Task Management/Daily ToDo.md",
-    "Daily Notes/October 2nd 2024.md",
-    "Task Management/Work ToDo.md",
-    "Task Management/Archive/Daily ToDo (Archive).md",
-    "New Notes/Movies/The Shining.md",
-    "Daily Notes/October 1st 2024.md",
-    "Work/Medtronic/Projects/Socket Tracing/Socket Tracing - Testing Suite.md",
-    "Work/Medtronic/Projects/Socket Tracing/Socket Tracing.md",
-    "Work/Medtronic/Projects/Socket Tracing/Socket Tracing - Refactor.md",
-    "Work/Medtronic/Projects/Socket Tracing/Socket Tracing - Documentation.md",
-    "Task Management/Archive/Work ToDo (Archive).md",
-    "Work/Medtronic/Glossary/Knime.md",
-    "New Notes/Ephemeral/Shopping List.md",
-    "New Notes/Movieclub selections.md",
-    "Knowledge Base/Computers/Software/Neovim/Lazyvim Config.md",
-    "Knowledge Base/Computers/Linux/Distros/WSL/Fresh Win 11 Install.md",
-    "Knowledge Base/Computers/Linux/Distros/WSL/Docker ArchWSL.md",
-    "Knowledge Base/Entities/Characters/Obi-Wan.md",
-    "Knowledge Base/Computers/Software/OBS.md",
-    "Knowledge Base/Computers/Languages/Rust/rust_50.md",
-    "Knowledge Base/Computers/Languages/Rust/Rust Workspace.md",
     "Work/Medtronic/Projects/Socket Tracing",
     "Work/Medtronic/Projects/VA Projects",
     "Work/Medtronic/Projects/Archive",
@@ -204,8 +206,6 @@
     "Daily Notes/Archive/July 2024",
     "Knowledge Base/Computers/Domains/Software Engineering",
     "Knowledge Base/Computers/Languages/C",
-    "Work/Medtronic/Meeting Notes/Socket Tracing",
-    "Projects/3kp",
     "Misc/Media/Pasted image 20240319093702.png",
     "Dashboards/Canvas/Task Canvas.canvas",
     "Misc/Media/pngtree-an-old-bookcase-in-a-library-image_2642908.png",
