@@ -8,7 +8,8 @@
 ---
 
 ## Tasks
-- [ ] Add clients 
+- [x] Add clients 
+- [ ] Create [[ACM Master DB]] template and mapping
 - [ ] Update [[Philips]] and [[Testing Suite]]
 - [ ] Refactor into Components
 - [ ] Show functionality in [[Knime]]

@@ -17,6 +17,8 @@ scheduled today
 	- [ ] ucc email: ucc@serviceexperts.com
 		- [ ] On subject line: Ivan Santos 10012419
 		- [ ] get payoff amount
+		- [ ] Temporarily removed is possible?
+		- [ ] Payoff amount: 12,516.50 approx
 - [ ] Shop Time tonight
 	- [ ] Put battery On
 	- [ ] Cut out platforms for robots
