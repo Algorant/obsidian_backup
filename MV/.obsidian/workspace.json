@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "984e293c7df03a8c",
+        "id": "5c42ed16c57c526d",
         "type": "tabs",
         "children": [
           {
-            "id": "c871d297a8fb616e",
+            "id": "7d828a23053dcffa",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/October 3rd 2024.md",
+                "file": "Daily Notes/October 4th 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "c7ca981963083da8",
+            "id": "b9dfeb2c119c6b19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/October 3rd 2024.md",
+                "file": "Task Management/Daily ToDo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f47afba42c2230a",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/October 3rd 2024.md",
+                "file": "Task Management/Daily ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/October 3rd 2024.md",
+                "file": "Task Management/Daily ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/October 3rd 2024.md"
+                "file": "Task Management/Daily ToDo.md"
               }
             }
           }
@@ -167,8 +168,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c7ca981963083da8",
+  "active": "b9dfeb2c119c6b19",
   "lastOpenFiles": [
+    "Daily Notes/October 4th 2024.md",
+    "Daily Notes/October 3rd 2024.md",
     "Daily Notes/October 2nd 2024.md",
     "Daily Notes/October 1st 2024.md",
     "Daily Notes/Archive/Sept 2024/September 1st 2024.md",
@@ -194,10 +197,8 @@
     "New Notes/Bodin Typing Page.md",
     "New Notes/bodin list.md",
     "New Notes/Art for House.md",
-    "Daily Notes/October 3rd 2024.md",
     "Obsidian",
     "Projects/Tech/Robochumba/axicli.md",
-    "Work/Medtronic/Meeting Notes/Socket Tracing/Thursday Workstream Meetings.md",
     "Work/Medtronic/Projects/Socket Tracing",
     "Work/Medtronic/Projects/VA Projects",
     "Work/Medtronic/Projects/Archive",

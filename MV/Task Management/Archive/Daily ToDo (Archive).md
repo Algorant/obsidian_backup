@@ -765,3 +765,7 @@ scheduled today
 - [x] Hours
 - [x] finish movie
 - [x] things for [[Roth]] baby 
+#### October 4th 2024
+- [x] [[Bodin|Bo]] Bike Riding
+- [x] Pay Figure 
+- [x] call service experts after payoff 

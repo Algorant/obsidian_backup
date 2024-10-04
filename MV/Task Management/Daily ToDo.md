@@ -16,10 +16,12 @@ scheduled today
 - [ ] check on loan
 	- [ ] ucc email: ucc@serviceexperts.com
 		- [ ] On subject line: Ivan Santos 10012419
-		- [ ] They only respond by email
-- [x] call service experts after payoff 
-- [ ] Pay Figure
+		- [ ] get payoff amount
 - [ ] Set up initial [[corne]] config
+- [ ] Get actual dimensions for robot platforms
+- [ ] Shop Time tonight
+	- [ ] Put battery On
+	- [ ] Cut out platforms for robots
 - [ ] Create '/meeting' macro or shortcut or quickadd thing
 	- [ ] Date fill in as same day
 	- [ ] Points
@@ -79,8 +81,9 @@ scheduled today
 	- [ ] Have rofi open browser things
 	- [ ] Modify shortcuts for spotify, scratchpad, other things etc
 - [ ] Learning [[Rust]]
+	- [ ] [[100 Exercises in Rust]]
 	- [ ] [[rust_50]]
-	- [ ] [[Rust Command Line]]
+	- [ ] [[Command Line Rust]]
 	- [ ] [[Roguelike in Rust]]
 	- [ ] [[Rust By Practice]] 
 ##### Neovim
@@ -107,7 +110,6 @@ scheduled today
 	- [x] Handheld gaming thing
 	- [ ] Tablet ideas
 - [ ] Kids passports
-- [x] [[Bodin|Bo]] Bike Riding
 - [ ] [[Bodin|Bo]] Rollerblading
 - [ ] [[Nova]] reading
 #### The Boys
