@@ -432,7 +432,7 @@ Pommels of the Undying Spark (EQUIP)
 Zipline down
 
 
-==
+===--
 
 EPISODE 13 END
 
