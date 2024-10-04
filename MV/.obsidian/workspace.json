@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ef6c091b4e6ccc",
+        "id": "984e293c7df03a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "38c2f4069d89c929",
+            "id": "c871d297a8fb616e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -153,7 +153,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "38c2f4069d89c929",
+  "active": "c871d297a8fb616e",
   "lastOpenFiles": [
     "Obsidian",
     "Projects/Tech/Robochumba/axicli.md",
