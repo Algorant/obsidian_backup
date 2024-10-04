@@ -1,0 +1,2 @@
+- Run the notebook, it should find all the relevant new daily reports, aggregate them, and output one file
+- The code is broken to upload to Z Drive, but just do it manually

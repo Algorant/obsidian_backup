@@ -1,0 +1,1 @@
+An item of magical power in [[The Wheel of Time]]. 

@@ -1,0 +1,233 @@
+{
+  "palette": [
+    {
+      "id": "A5TgdFf5Ksa-8ehHnlY-i",
+      "name": "green",
+      "value": "#98971a"
+    },
+    {
+      "id": "VgaB1qKlteS6FFtNrmTFB",
+      "name": "blue",
+      "value": "#458588"
+    },
+    {
+      "id": "_1ZNNTwX-vQjFHSSGFSyX",
+      "name": "red",
+      "value": "#cc241d"
+    },
+    {
+      "id": "U4ZK8vqJl-TTNrT-HCQJ_",
+      "name": "aqua",
+      "value": "#689d7e"
+    },
+    {
+      "id": "QdtL3mYn1mAlcjY5Yz8Lx",
+      "name": "purple",
+      "value": "#b16286"
+    },
+    {
+      "id": "frtPcjV3ZnJZstUjFPo6C",
+      "name": "orange",
+      "value": "#d65d0e"
+    },
+    {
+      "id": "T7QufG97UKZUlHz66J_0N",
+      "name": "yellow",
+      "value": "#d79921"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Daily Notes",
+      "color": "A5TgdFf5Ksa-8ehHnlY-i"
+    },
+    {
+      "path": "Dashboards",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "Knowledge Base",
+      "color": "_1ZNNTwX-vQjFHSSGFSyX"
+    },
+    {
+      "path": "Misc",
+      "color": "U4ZK8vqJl-TTNrT-HCQJ_"
+    },
+    {
+      "path": "New Notes",
+      "color": "QdtL3mYn1mAlcjY5Yz8Lx"
+    },
+    {
+      "path": "Projects",
+      "color": "frtPcjV3ZnJZstUjFPo6C"
+    },
+    {
+      "path": "Task Management",
+      "color": "T7QufG97UKZUlHz66J_0N"
+    },
+    {
+      "path": "Work",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "Dashboards/Canvas",
+      "color": "T7QufG97UKZUlHz66J_0N"
+    },
+    {
+      "path": "Daily Notes/Archive",
+      "color": "U4ZK8vqJl-TTNrT-HCQJ_"
+    },
+    {
+      "path": "Knowledge Base/Computers",
+      "color": "frtPcjV3ZnJZstUjFPo6C"
+    },
+    {
+      "path": "Knowledge Base/Entities",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "Knowledge Base/Finances",
+      "color": "QdtL3mYn1mAlcjY5Yz8Lx"
+    },
+    {
+      "path": "Knowledge Base/Food",
+      "color": "U4ZK8vqJl-TTNrT-HCQJ_"
+    },
+    {
+      "path": "Knowledge Base/Lists & Inventories",
+      "color": "A5TgdFf5Ksa-8ehHnlY-i"
+    },
+    {
+      "path": "Knowledge Base/Media",
+      "color": "T7QufG97UKZUlHz66J_0N"
+    },
+    {
+      "path": "Knowledge Base/Parenting",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "Knowledge Base/People",
+      "color": "QdtL3mYn1mAlcjY5Yz8Lx"
+    },
+    {
+      "path": "Knowledge Base/Skills",
+      "color": "frtPcjV3ZnJZstUjFPo6C"
+    },
+    {
+      "path": "Knowledge Base/Thoughts",
+      "color": "_1ZNNTwX-vQjFHSSGFSyX"
+    },
+    {
+      "path": "Misc/Banners",
+      "color": "QdtL3mYn1mAlcjY5Yz8Lx"
+    },
+    {
+      "path": "Misc/Excalidraw",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "Misc/Media",
+      "color": "frtPcjV3ZnJZstUjFPo6C"
+    },
+    {
+      "path": "Misc/Periodic Notes",
+      "color": "_1ZNNTwX-vQjFHSSGFSyX"
+    },
+    {
+      "path": "Misc/Tags",
+      "color": "T7QufG97UKZUlHz66J_0N"
+    },
+    {
+      "path": "Misc/Templates",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "New Notes/Movies",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "New Notes/Music",
+      "color": "frtPcjV3ZnJZstUjFPo6C"
+    },
+    {
+      "path": "New Notes/People",
+      "color": "_1ZNNTwX-vQjFHSSGFSyX"
+    },
+    {
+      "path": "Projects/FF",
+      "color": "A5TgdFf5Ksa-8ehHnlY-i"
+    },
+    {
+      "path": "Projects/Tech/Homelab",
+      "color": "_1ZNNTwX-vQjFHSSGFSyX"
+    },
+    {
+      "path": "Projects/House",
+      "color": "QdtL3mYn1mAlcjY5Yz8Lx"
+    },
+    {
+      "path": "Projects/Shop",
+      "color": "frtPcjV3ZnJZstUjFPo6C"
+    },
+    {
+      "path": "Projects/SideHustles",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "Projects/Tech",
+      "color": "U4ZK8vqJl-TTNrT-HCQJ_"
+    },
+    {
+      "path": "Projects/Video",
+      "color": "T7QufG97UKZUlHz66J_0N"
+    },
+    {
+      "path": "Projects/Woodworking",
+      "color": "A5TgdFf5Ksa-8ehHnlY-i"
+    },
+    {
+      "path": "Projects/Writing",
+      "color": "QdtL3mYn1mAlcjY5Yz8Lx"
+    },
+    {
+      "path": "Task Management/Archive",
+      "color": "_1ZNNTwX-vQjFHSSGFSyX"
+    },
+    {
+      "path": "Work/Alex",
+      "color": "frtPcjV3ZnJZstUjFPo6C"
+    },
+    {
+      "path": "Work/Medtronic",
+      "color": "A5TgdFf5Ksa-8ehHnlY-i"
+    },
+    {
+      "path": "Knowledge Base/Finances/Bills",
+      "color": "frtPcjV3ZnJZstUjFPo6C"
+    },
+    {
+      "path": "Knowledge Base/Finances/Cards",
+      "color": "_1ZNNTwX-vQjFHSSGFSyX"
+    },
+    {
+      "path": "Knowledge Base/Finances/Expenses",
+      "color": "VgaB1qKlteS6FFtNrmTFB"
+    },
+    {
+      "path": "Knowledge Base/Finances/Investments",
+      "color": "A5TgdFf5Ksa-8ehHnlY-i"
+    },
+    {
+      "path": "Knowledge Base/Finances/Loans",
+      "color": "T7QufG97UKZUlHz66J_0N"
+    },
+    {
+      "path": "New Notes/Ephemeral",
+      "color": "T7QufG97UKZUlHz66J_0N"
+    },
+    {
+      "path": "Daily Notes/Weekly Planning",
+      "color": "_1ZNNTwX-vQjFHSSGFSyX"
+    }
+  ]
+}

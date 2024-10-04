@@ -1,0 +1,3 @@
+- A #cli tool that replaces `cat` 
+- Gives colors and other things like that
+- 

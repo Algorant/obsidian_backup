@@ -1,0 +1,2 @@
+- A One Stop shop #CLI tool to manipulate and convert audio and video files.
+- Difficult to memorize or remember syntax, just ask [[ChatGPT]] to do it for you.

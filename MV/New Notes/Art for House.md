@@ -1,0 +1,6 @@
+- [The Mask By Rozzi Roomian](https://www.rozziroomian.com/the-mask)
+- [Hiroshi Nagai - Reddit Plane Example](https://www.reddit.com/r/VaporwaveAesthetics/comments/nu5jbp/from_japanese_painter_hiroshi_nagai/)
+- [Christ in the Desert / Wilderness](https://en.wikipedia.org/wiki/Christ_in_the_Desert)
+- [Minus Home run meteor comic](https://comicvine.gamespot.com/a/uploads/original/0/6827/1069931-baseballawesome.jpg)
+- Navajo CPU weave print
+- Gustav Klimt get something 

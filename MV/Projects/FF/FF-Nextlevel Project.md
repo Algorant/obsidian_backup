@@ -1,0 +1,69 @@
+
+### Things to Figure out
+
+- Cold email list
+	- Industry People
+		- JJ Zachiarisen
+		- Denny Carter
+		- Patrick Daughtery
+		- Evan Silva
+		- Brandon Funston
+		- Jeff Bell
+		- Jake Ciely
+		- The Athletic
+		- Christopher Harris
+		- Sigmund Bloom
+		- Chris Raybon
+		- Al Zeidenfeld
+		- Brett Kollmann
+		- QB School  Guy
+	- Companies
+		- Establish The Run
+		- Harris Football
+		- NumberFire
+		- RotoWorld
+		- ESPN
+		- Apex
+		- Fantasypros
+		- Fantasysharks
+		- 4for4
+	- Sites (for playing the games)
+		- Sleeper
+		- Fantrax
+		- Yahoo
+		- ESPN
+		-  MFL
+		- CBS
+		- Fleaflicker
+		- NFL
+		- Draftkings
+		- Fanduel
+		- Underdog
+
+---
+#### Questions/Topics
+- Formats and the name for them
+	- START10? S10 for short
+		- QB/2RB/3WR/3FLX/1SF
+	- 10, 12, 14, 16 teams? 
+- What site to use, alternatives?
+- I think we come up with our own domain, but ask someone else to use their stuff.
+	- Like have start10.com (or whatever catchy thing), but have their system as a backend or host and have the site say so at the bottom.
+- What payment method to use
+	- Contact Leaguesafe for partnership?
+	- Contact Apex and their parent company for input?
+	- Contact Fantasypros?
+	- Stripe or Square? 
+	- Bitcoin?
+- Where to advertise or promote
+	- Twitter
+	- Sleeper
+	- Youtube
+	- Friends/Family
+	- Discord
+	- Instagram 
+	- Facebook
+	- Tiktok
+- Mobile Friendly vs Mobile First
+- Auction or Snake or both?
+- Could create some kind of overlay app

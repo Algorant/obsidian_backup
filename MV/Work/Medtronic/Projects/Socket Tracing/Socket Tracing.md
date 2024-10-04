@@ -1,0 +1,93 @@
+
+
+---
+## Links
+- [[Socket Tracing - Refactor]]
+- [[Socket Tracing - Meetings]]
+- [[Socket Tracing - Documentation]]
+- [[Socket Tracing - Testing Suite]]
+- 
+
+---
+## Misc
+
+- Test Suite Info
+	- [ ] Modify Testing
+		- [ ] Test 1 Function needs the check for if consumables total is 0. I just did a quick and dirty fix for Thursday meeting
+	- [x] Summarize Automation
+		- [ ] Just certify large amount with testing
+		- [ ] Add full dataset
+		- [ ] Test 3
+			- [ ] Only OEM accounts, high threshold fuzzy match
+		- [ ] Test 5
+			- [ ] If no IDN_NM, and the other two requirements, then pass
+			- [ ] else, check
+			- [ ] Also, need full dataset
+		- [ ] All test passing guys
+			- MID 758: Yellow light
+			- Mid 2771984 and
+			- Mid 247297 have lots of hardware and no consumables
+			- 848927 no consumables
+			- Certify the good ones with mids and automation + allison
+		- IF consumables standalone + OEM = 0, yellow flag
+		- [ ] Check childrens hospital of wisconsin for 0 beds/procedures
+	- [x] programmatize Allison's Tests
+		- [ ] Some Tests causing dups, do a check after every add on refactor
+		- [ ] Do a data refresh
+		- Observations/Notes/Questions
+			- How to update?
+			- Go over 200?
+			- Jing said Install Base OEM to start?
+				- OEM
+			- Other useful metrics
+				- OEM and Standalone 0
+				- How many Cust_NM or CUST_MID in both install bases?
+		- [x] Test 1: Consumables Match
+			- I added last 12 months consumables. What should that match to?
+			- Use 'Audit files for test cases 6.4.24' file
+			- [ ] use fiscal_rel_month = 12
+			- [ ] needs to = only mdt, not OEM
+			- [ ] will prob need test 1a/1b to include OEM
+		- [x] Test 2: Other Customers
+			- I did a basic check for the first word of the Title. If there is nothing else it passes, else it says to "Check". Not red flag, just yellow or orange.
+			- [x] First Element + City + State, then
+		- [ ] Test 3: OEM Match
+			- [ ] OEM Name vs MID name, do fuzzy match with high percentage
+			- [ ] OEM names largely incomplete, will just have to rely on test 6
+			- What needs to be matched?
+		- [x] Test 4: Install Base check
+			- [x] Allison will provide me alternate source to match from
+			- [x] Get cust ID and join comparing the cols
+		- [ ] Test 5: IDN Level ??
+			- [ ] Check for word logistics at IDN level
+			- [ ] If cust_typ column is IDNSC - Self dist Regl, will fail
+			- [ ] If there is a customer whose name matches idn name, but there are multiple idn names under it, (atlantic somethign but ton of medical centers)
+		- [x] Test 6: Mid Name Clean
+			- [ ] Has 3 basic checks
+				- [ ] Does it have blocked
+				- [ ] Does it have a number in it (but not VA)
+				- [ ] Is it only one word
+			- [ ] Check for "Duplicate", taken from glbl_main?
+		- [ ] Test 7: Check MID address
+			- Same as test 3 and 
+			- Same as test 3, what is best source. I can match exactly or fuzzy with high threshold
+			- Propose changing these to Test 6a and 6b
+		- [x] Test 8: Beds and procedures (8a and 8b?)
+			- Note: SDS Table is empty for procedures, so only checks beds
+			- Doesn't really apply to non-hospitals. Are we filtering those?
+			- [x] sds_dhc_overview in SDS_MAIN
+			- [x] Take hospital_ID, number_beds, 
+			- [x] Query from last wednesday
+		- [ ] Test 9: Reasonable Calcs (a b c d)
+			- No negatives, not over 100 for the percentage,
+			- ratio should be not too much more than 1.0
+			- Allison notes
+				- sedation consumables cannot be more than 100%
+				- if sedation vs procedure % is above 100, needs a check
+				- Check zero, check negatives
+				- if IB/Bed is above 1.25, needs a check
+				- usage rate: if above 50 cons/socket/mo, flag it
+		- Come up with score based on criteria
+		- Other useful metrics
+		- How to update?
+			- replace sedation percentages, with total consumables, then when you hover you will see direct consumables vs philips consumables

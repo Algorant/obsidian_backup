@@ -1,0 +1,1 @@
+The central hub of the [[Aes Sedai]] in [[The Wheel of Time]]

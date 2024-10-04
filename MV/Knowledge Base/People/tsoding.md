@@ -1,0 +1,1 @@
+A s-tier coder that streams on twitch, usually in lower level languages like C, but he can do anything.

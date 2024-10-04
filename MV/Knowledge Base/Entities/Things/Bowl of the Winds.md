@@ -1,0 +1,1 @@
+A [[ter'angreal]] of considerable power in [[The Wheel of Time]]

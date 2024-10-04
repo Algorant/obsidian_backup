@@ -1,0 +1,7 @@
+- Add [[Molina]] stuff before you forget
+- Add [[ACG]] things 
+- Mention overlap with data science tasks
+- Come up with metrics for reports
+- Support the #sunsetting of various projects, still need upkeep and maintenance, as well as plan for 
+- Part of the new plans for next generation metrics at the company.
+- Led a new greenfield project into the #va things, requires #security-clearance

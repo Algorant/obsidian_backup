@@ -1,0 +1,12 @@
+Notes
+- sisko
+- black and white long intro 
+- what happened to furlong 
+- prob less racists than ever but feels like there's more than ever 
+- face of righteousness after curb stomp 
+- alternate endings
+	- reddit and other places
+		- shaving his head with the same smile
+		- director wanted him to die instead they kill the brother
+		- made him not popular
+- hate is baggage, hate is other people's baggage

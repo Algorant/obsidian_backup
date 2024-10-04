@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"file","file":"Task Management/Daily ToDo.md","id":"0b848783d4b9b41e","x":-780,"y":-1100,"width":640,"height":789,"color":"6"},
+		{"type":"file","file":"Task Management/Work ToDo.md","id":"7df9d2723fafb5a2","x":-130,"y":-1100,"width":630,"height":789,"color":"2"},
+		{"type":"file","file":"Task Management/Obsidian ToDo.md","id":"36b2ceca7e70da14","x":-380,"y":-311,"width":440,"height":711,"color":"#165874"},
+		{"type":"file","file":"Task Management/House ToDo.md","id":"ca2d0cf83c94e5fb","x":60,"y":-311,"width":440,"height":711,"color":"5"},
+		{"type":"file","file":"Task Management/Shop ToDo.md","id":"3587a48ff17fcb9c","x":-780,"y":-311,"width":400,"height":711,"color":"3"}
+	],
+	"edges":[]
+}

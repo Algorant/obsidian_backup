@@ -1,0 +1,16 @@
+- [ ] New Treasury
+		- monthly withdrawal and yearly report
+- [ ] New Chatbot
+	- [ ] I will revamp this
+- [ ] Channel Consolidation
+	- [ ] relegation to be done every 6 months
+	- [ ] first time you need 1 person to say no
+	- [ ] next time you need majority
+- [ ] Plan Next Round Now
+	- [ ] music? show again?
+- [ ] New Trip Planning Committee
+	- [ ] plan for next year
+		- [ ] best time
+		- [ ] best locality
+		- [ ] activity / family
+		- [ ] estimated cost

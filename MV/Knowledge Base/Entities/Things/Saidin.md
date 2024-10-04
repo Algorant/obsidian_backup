@@ -1,0 +1,1 @@
+The magical ability of men in [[The Wheel of Time]]

@@ -1,0 +1,3 @@
+- I am a data engineer by trade. I've been doing it for 3 years now.
+- Useful skills are [[Python]], [[SQL]], and modern [[ETL]] tools.
+- 

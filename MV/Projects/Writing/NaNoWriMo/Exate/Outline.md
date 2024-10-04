@@ -1,0 +1,229 @@
+# [[Table of Contents]]
+
+---
+
+##  Influences
+- [[Venom]] 
+- [[Carnage]] 
+- [[The Thing]] 
+- [[Ready Player One]] 
+- [[Death Note]] 
+- [[No Country For Old Men]]
+
+## Possible [[Settings]]
+- VR landscape
+- High school
+- Small town
+	- [[Leauge City, Texas]]
+	- USA? Probably
+	- Modern day-ish
+	- You know central florida and texas, near space stations
+- Comic book shop
+- Ramen place
+- [[MC]] home
+- [[LI]] home
+- Mall or Fair
+- Space station
+- Ship in flight
+- Holodeck
+- Debrief Room
+- Ship or Vessel (passing time while exploring galaxy)
+
+## Characters
+- [[The Symbiote / Thing]]
+	- axe hands
+	- terminator 2 Icicles
+	- beheading, impaling, ripping in half
+	- complete imitation of others
+		- Needs a tell, what would it be?
+			- Does not have knowledge of external things
+			- Influences: Yeerks, etc
+- Main Character [[MC]]
+	- Male
+	- [[MC]] will be their initials
+		- M: Micah, Mycah, Mal, Malachi
+		- C: Cartwright, Chronos
+	- Intelligent, Brave, no nonsense
+- Main Secondary Character  [[LI]]
+	- Female
+	- [[LI]] will be initials
+	- Deliberately no romance, but play with it a bit
+	- Intelligent, Better with social situations, faux popular
+	- Can detect easier
+- Minor side characters: 
+	- [[Rod]]
+	- [[Rubin]]
+	- [[George]]
+	- [[Jeff]]
+	- Younger siblings (put one in danger)
+	- Bring up friend but keep them out of it
+
+## Themes and Conflicts
+- Big bad is terrifying (boring)
+- [[LI]] gives some insight here
+- [[MC]] is socially awkward, say or think funny things, work on it
+## Main Plot Points
+- [[Prologue]] (approx 2.2k words)
+	- [x] Crash landing
+	- [x] [[x8]] description
+	- [x] Violence or creepiness
+	- [x] Cruelty to animals
+	- [x] Knows what it needs to find (the [[Talisman]])
+	- [x] [[MC]] introduced
+- [[Projects/Writing/NaNoWriMo/Exate/Chapters/Chapter 1|Chapter 1]] (approx 10k words)
+	- [x] Introduce [[Talisman]], maybe dead parent or something. Grandparent? Uncle. 
+	- [x] School, then [[LI]] introduced
+	- [x] After school, comic book shop dialogue, mention venom and the thing
+	- [x] On way home, first encounter, weird glitch (matrix deja vu) at same time (gets on bus)
+	- [x] switch to symbiote, get observed, make it some thieves, commiserate with them but kill one and mingle with the other
+- [[Projects/Writing/NaNoWriMo/Exate/Chapters/Chapter 2|Chapter 2]] (approx 20k words)
+	- [[Honky Tonk, Part I]]
+		- [x] Next day, friday and day off
+		- [x] Some kinda fair/honky tonk/farmer's market thing
+		- [x] [[Cornhole]], [[Texas]] stuff
+			- [x] Make it tournament, whatever
+				- [x] He plays with [[Rod]]
+				- [x] They end up losing (foreshadowing?)
+			- [x] [[LI]] is there, but off to the side
+			- [x] [[Rubin]] too, he sees them talking
+			- [x] Realize he faces them in the finals. Did he forget they are related? #deja-vu
+			- [x] have rubin switch hands
+			- [x] drive in separate cars over to mall, food trucks wrapped up
+	- [x] [[Mall Scene, Part II]]
+		- [x] They all go out to eat, [[x8]] begins carnage
+		- [x] Knock out communication
+		- [x] go to arcade
+		- [x] Kill [[George]] 
+		- [x] [[Rubin]] turns back into benevolent symbiote, inhabits [[George]]s dad
+		- [x] shoots parts of itself out
+		- [x] Kill uncle [[Rod]]
+		- [x] Dudes with guns, useless, texas style
+		- [x] [[LI]] asks [[Rod]] for his badge, and gives him a gun
+		- [x] Police are useless (kill some)
+		- [x] Have it lose it's Host
+		- [x] Other adults, useless
+		- [x] [[LI]] takes [[Rod]]'s keycard
+		- [x] [[MC]] pass out 
+			- [x] knocked out by something, hit by large metal object
+- [ ] [[Chapter 3]]
+	- [ ] [[The House]]
+		- [x] Wake up at [[LI]] house
+		- [x] Didn't see [[MC]] as threat, insulting
+		- [x] Bring rubin back
+		- [x] Loss of [[Talisman]]
+		- [x] Introduction to Good [[Symbiote]], still need a name
+			- [x] bright yellow
+			- [x] offshoot cousins, big schizm
+			- [x] mostly find hosts and enhance their abilties
+			- [x] ask willingly, never take a host without permissions or against their will
+		- [x] Explain synergistic effects, solo vs with a host
+		- [x] [[LI]] works to develop a plan
+		- [x] Going to find nearest space station, Houston
+	- [ ] [[Houston Station]]
+		- [x] They arrive at space station, pure carnage
+		- [x] Get vehicles hurled at them
+		- [x] [[LI]] has the good [[Symbiote]], able to stop most of the onslaught
+		- [ ] Use uncle [[Rod]]s keycard
+		- [ ] make it to landing platform
+		- [ ] Good Symbiote Ripped off
+		- [ ] Use weakness against it
+		- [ ] take the elevator up
+		- [ ]  find them fighting, she is getting the symbiote ripped off, thrown across the room
+		- [ ] Emotional scene, "kill that fucker", [[LI]] dies
+	- [ ] [[The Takeoff]]
+		- [ ] Get onto ship and take off
+		- [ ] Use [[Zag]]
+		- [ ] Get separated
+		- [ ] Tape recorder
+		- [ ] [[Zag]] uses telepathy, incapacitates both over loudspeaker
+		- [ ] In space, have a fight, use weakness
+		- [ ] Get talisman and put in airlock
+		- [ ] Eject sunward after putting in coordinates (telepathy)
+- [[Chapter 4]] (approx 10k words)
+	- [[Debrief, Part I]]
+		- Government agent debriefing (morphs into sim debriefing)
+			- How did I even get here
+			- Wait, why is everything weird
+			- What did you just say?
+			- My initials were MC? Like main character? Come on
+			- They can appear at any time
+		- Fun conversation ensues
+			- Corny things in it (you made my wife the love interest?)
+			- You made [[Rod]] my uncle? Why did you kill my parents. I'm not spiderman or batman wtf
+			- Ruby Rubin Rod?
+			- Ok you knocked out communication but uh..nobody had cell phones?
+			- The news didn't pick this up? mayhem at the mall the night before?
+			- How long to Antares?
+			- Cornhole, she doesnt even play cornhole?
+			- The talisman, deus ex machina?
+			- Houston space center? they don't shoot rockets dumbass
+			- I found it in a pawn shop the week before we left Earth
+			- Wow like the spinning top in Inception?
+			- matrix glitch, notice the cat?
+			- Listen man, I was strapped for time
+			- Lets get some food
+			- Talk of the enemy and what allies exist
+			- Where's [[LI]] now? She woke up yesterday from hers, and jumped into the next one, should keep her occupied
+			- Where [[Rubin]] and [[George]]
+			- Come up with cool premise
+			- Do you think these exercises do anything?
+	- [[The Twist, Part II]]
+		- Mention something that wasn't in the sim
+		- Suddenly gets decapitated
+		- Turns out [[x8]] infiltrates the ship and was real
+		- Needs to be defeated
+		- Has to find [[LI]] on the ship
+		- Wakes her up
+		- Its go time, power armor, to the gills
+		- Zero grav fight
+		- captured and thrown into the sun
+	- [[A new adventure awaits, Part III]]
+		- sorta happy ending
+- [[Epilogue]] (approx 2k words)
+	- Sad, failure for [[x8]]
+	- Gets absorbed into the whole
+	- Waiting at their destination (Antares)
+	- We will be ready
+	- Part of the rules of engagement for the schizm, simulations first
+	- Set the bait, begin the hunt
+	- 
+
+
+##  Notes
+- Need to go into murder scenes
+- Attempt to Create artwork after publishing if there is time
+- As they happen in pov of the creature vs someone else coming up on them
+	- MGS Ninja hallway
+	- Kill teacher, others
+	- Symbiote cannot be reasoned with, another will land
+- Minimal dialogue, look at other styles
+	- [[James Joyce]]
+	- [[Cormack McCarthy]]
+	- [[Hemmingway]]
+	- [[Jose Saramago]]
+- Mostly internal, thoughts prose
+- Necessary dialogue should be expository about the world or whats happening or whats next
+- Write this for you, or people who think like you
+- Matrix Deja Vu's
+	- TV will cover the news, weird Ad during video 
+- Need name for good symbiote, [[x8]] still kinda sucks
+- References
+	- put [[Terminator 2]] on a tv somewhere
+	- talk about [[Venom]] in the coffee shop
+	- mention [[The Thing]] at least once, original or remake discussion between [[MC]] and [[LI]]
+- more music references
+- Have [[LI]] and [[Rubin]] have whispered conversation at times
+- Have [[x8]] be the villain that is waiting at destination (Antares?)
+- Go into history of them landing on earth, discovering their technology, starting world war before being discovered
+- This simulation is just practice
+- Create a glossary for terms unfamiliar
+	- [[x8]] terminology
+	- Antares
+	- The Games and Movies referenced
+- Mention the Fox remains found later
+- Find a reason for why [[x8]] is in the program, probably mention it later in the epilogue.
+- Bring itching sensation back, maybe when trying to take [[MC]]? Interrupted
+- Think about rewriting [[Jeff]] to be part of the ship. Say something weird, maybe a sentence or two
+- Link [[Lexicon]] everywhere
+- Link [[The Principle]] everywhere
+- Add him making launch sequence, maybe by [[Rod]]

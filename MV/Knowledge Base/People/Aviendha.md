@@ -1,0 +1,1 @@
+An [[Aiel]] who is able to channel the [[One Power]].

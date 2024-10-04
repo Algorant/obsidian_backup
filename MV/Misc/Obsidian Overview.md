@@ -1,0 +1,54 @@
+#### Things to cover in #impromptuzoom
+- [x] Everything is a #markdown file.  
+- [x] It's saved locally. 
+- [x] Just start writing shit. It can be as complicated as you wanna make it. 
+- [x] [[My First Note| First Note]] 
+- [[Links]] vs #Tags 
+	- Example:
+		- [[Atomic Habits]] is a #book by [[James Clear]] 
+	- Links are paler or sorta greyed out until you create it. Hard to see with this theme, but if you hover you can see the difference.
+	- Links are for permanent ideas that can be connected. Tags are more for searching or metadata type stuff. 
+	- Something like "formal vs informal" or "important vs fleeting" is good heuristic.
+- #Vault System
+	- Backing up 
+		- Can use [[Github]] or any other storage service like [[Dropbox]], [[Google Drive]], etc.
+- [[Core Plugins]]
+	- [x] [[Sync]] 
+	- [[Daily Notes]]
+	- [[Templates]]
+		- For adding media
+			- Show [[🎥 Movie]], [[🎮 Game]], [[📖 Book]]
+		- For capturing things on the go or wherever:
+			- Show #quickadd style Templates:
+				- Thought, Video, Tweet, and remember to add Link
+	- [[Canvas]]
+		- My [[Task Canvas.canvas|Task Canvas]]
+		- My [[Media Canvas.canvas|Media Canvas]]
+- [[Community Plugins]]
+	- [[Themes]]
+		- [[Minimal Theme]]
+			- [[Minimal Theme]] #customization
+				- Show #dracula and #gruvbox. Maybe #catpuccin
+	- [[Calendar]]
+		- basic calendar, can open to the right, works well with daily notes and will be useful when I explore [[Tasks]] more
+	- [[Obsidian Git]]
+	- [[Outliner]]
+		- for a more #roam -like experience
+		- tab, indent, move up and down
+	- [[Dataview]]
+		- Show power of queries with [[🎥 Movies Dashboard]] or [[🎮  Games Dashboard]] along with [[Dataview Snippets]]
+	- [[Better Wordcount]]
+		- Replaces Core plugin
+	- [[QuickAdd]]
+		- Show templates for adding
+			- #tweets, #videos, #thoughts, #quotes, #links , #todo s
+	- [[Archiver]]
+		- Can do a quick `/` command and keep track of what I've gotten done at work, around the house, or over time in general.
+	- [[Periodic Notes]]
+		- Figure out how to use weekly, monthly, yearly notes if needed.
+- [[My Personal Hotkeys]] | Basic flow example
+
+---
+#### Misc Tips
+
+Use alias when there will be a namespace collision, maybe.  For example a book adapted into #tv-show or #movie 

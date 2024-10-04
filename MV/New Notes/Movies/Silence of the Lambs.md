@@ -1,0 +1,16 @@
+#### Notes: 
+- Incredible intro
+- [[Anthony Hopkins]] is so great
+- The deaths-head moth
+- First principles! 
+	- He kills women
+		- No that is incidental
+	- bla bla lba
+		- No! He covets
+- Would you fuck me? I'd fuck me. I'd fuck me so hard.
+	- I thought this was from mallrats/Kevin smith movie
+- Nice tuck
+- Nightvision scene so well done, entire last part really
+- I'm having a friend for dinner
+- the meaning of the title of the movie
+- my experience not knowing that he was already trapped

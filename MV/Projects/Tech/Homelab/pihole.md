@@ -1,0 +1,6 @@
+- Watched this [video](https://www.youtube.com/watch?v=gAPZ-KI4JIc)
+- He had some scripts, including the [[docker-compose]] file for [[pihole]]
+	- Found [here](https://github.com/bigbeartechworld/big-bear-video-assets/blob/main/how-to-install-pihole-on-portainer/docker-compose-pihole.yml)
+- Once you have it up, you have to point your router to it using DHCP and the first static DNS server (point it to the ip the pihole is running on, no port needed)
+- In the #docker-compose file there is a variable WEBPASSWORD which is where you set the pw, change using portainer
+- 

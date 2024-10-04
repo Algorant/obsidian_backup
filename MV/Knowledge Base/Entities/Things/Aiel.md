@@ -1,0 +1,1 @@
+A race/group of people in the world of [[The Wheel of Time]].  Known for their battle prowess and their red hair.

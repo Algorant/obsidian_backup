@@ -1,0 +1,1 @@
+A race or group of people in [[The Wheel of Time]]. They come as foreigners across a vast sea and begin to conquer the main continent.

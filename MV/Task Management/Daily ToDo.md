@@ -1,0 +1,121 @@
+
+---
+### Recurring
+```tasks
+scheduled today
+```
+
+
+## Quick Links
+
+[[Blog]]
+
+---
+#### General
+
+- [ ] check on loan
+	- [ ] ucc email: ucc@serviceexperts.com
+		- [ ] On subject line: Ivan Santos 10012419
+		- [ ] They only respond by email
+- [x] call service experts after payoff 
+- [ ] Pay Figure
+- [ ] Set up initial [[corne]] config
+- [ ] Create '/meeting' macro or shortcut or quickadd thing
+	- [ ] Date fill in as same day
+	- [ ] Points
+	- [ ] Questions
+	- [ ] Tasks
+- [ ] look into opthalmology appt 
+- [ ] buy hot water filter
+- [ ] buy rug for office, smaller one
+	- [ ] 7x10 is perfect size, 8x6 is good too 
+
+
+#### HoneyDos
+- [ ] caulk bathtub 
+- [ ] check ceiling leak
+- [ ] hang bird feeder 
+
+#### RoboChumba
+- [ ] [[Pulsz]] templates
+	- [ ] Envelopes
+	- [ ] Cards
+- [ ] Add commands to shell script
+	- [ ] Raise and lower pen
+		- [ ] Return Home
+		- [ ] Enable or Disable Motors
+- [ ] Make platform for Axidraw to eliminate discrepancies
+	- [ ] 21x20
+#### Shop
+- [ ] Build Workout Board
+- [ ] Fix spacing on the casters
+- [ ] Add locks to modular tables
+- [ ] Install Lights?
+- [ ] Build new [[Table Saw Table]]
+	- [ ] Index it to the right side to retain fence capabilities
+	- [ ] Cut MDF parts for front
+	- [ ] Get dimensions for back
+- GoHelper tools
+	- 3D square
+	- Thin rip jig
+	- Honing guide
+	-  #woodworking #giftideas
+#### Patio / Outdoor
+- [ ] graffiti remover for patio
+- [ ] Look into powerful pressure washer from funny carpenter [video](https://youtu.be/1uxSc7z5op8?si=jWCol5TJ98pq0HoT)
+- [ ] Finish [[Picnic Table]] 
+#### Blog / Projects
+- [ ] Explore [[Zola]]
+- [ ] Update [[Github]] site
+- [ ] Create [[x8|Exate]] Site
+- [ ] Create blog
+	- [ ] Create schedule for blog updates
+	- [ ] One topic per week
+#### Comptuer / Desktop 
+- [ ] Make custom layout on [[corne]]
+- [ ] remap caps-lock
+- [ ] Buy larger HDDs and create a #nas
+- [ ] [[Hyprland]] / Laptop 
+	- [ ] Have rofi open browser things
+	- [ ] Modify shortcuts for spotify, scratchpad, other things etc
+- [ ] Learning [[Rust]]
+	- [ ] [[rust_50]]
+	- [ ] [[Rust Command Line]]
+	- [ ] [[Roguelike in Rust]]
+	- [ ] [[Rust By Practice]] 
+##### Neovim
+- [ ] Things to configure
+	- [x] flash
+	- [ ] Harpoon
+	- [ ] Whichkey 
+	- [x] Surround
+	- [ ] dadbod
+	- [ ]  
+- [ ] need functionality to highlight functions python treesitter
+	- [ ] seems like I need to configure treesitter-textobjects
+	- [ ] use this [video](https://www.youtube.com/watch?v=CEMPq_r8UYQ)
+#### Kiddos
+- [ ] Activities with [[Bodin|Bo]]
+	- [ ] Music ?
+		- [ ] Keyboard?
+	- [ ] Spanish
+		- [ ] Workbook or App
+	- [ ] [turing tumble](https://upperstory.com/turingtumble/)  thing, learn computers by doing
+	- [ ]  [[Snatoms]]
+	- [ ] Crunch Labs
+	- [ ] KiwiCo  
+	- [x] Handheld gaming thing
+	- [ ] Tablet ideas
+- [ ] Kids passports
+- [x] [[Bodin|Bo]] Bike Riding
+- [ ] [[Bodin|Bo]] Rollerblading
+- [ ] [[Nova]] reading
+#### The Boys
+- [ ] Reviews
+	- [ ] Toilet seat with built-in review
+	- [ ] Sodastream review 
+	- [ ] Derek topics review
+	- [ ] Peloton Review
+	- [ ] Espresso Machine Review
+
+---

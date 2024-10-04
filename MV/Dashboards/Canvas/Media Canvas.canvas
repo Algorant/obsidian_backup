@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"Dashboards/🎥 Movies Dashboard.md","id":"69bbc4bd51498c5b","x":-1080,"y":-1000,"width":880,"height":480,"color":"5"},
+		{"type":"file","file":"Dashboards/🎮  Games Dashboard.md","id":"5506ab7984d59466","x":-1080,"y":-320,"width":880,"height":520,"color":"5"},
+		{"id":"e756c36dbd3d0e22","x":-1080,"y":360,"width":880,"height":520,"color":"5","type":"file","file":"Dashboards/📺 TV Dashboard.md"},
+		{"type":"file","file":"Dashboards/📖 Books Dashboard.md","id":"7d209f118b691e69","x":800,"y":-1000,"width":760,"height":480,"color":"1"},
+		{"id":"9839123262c24e1f","x":800,"y":-320,"width":760,"height":520,"color":"1","type":"file","file":"Dashboards/📰 Article Dashboard.md"},
+		{"type":"file","file":"Dashboards/🎶 Music Dashboard.md","id":"f8db691e7154744b","x":0,"y":360,"width":680,"height":520,"color":"#275f82"},
+		{"id":"9fd8648fdb3de603","x":800,"y":360,"width":760,"height":520,"color":"1","type":"file","file":"Dashboards/🦸 Graphic Novel Dashboard.md"},
+		{"id":"bce8da0bc1958c23","x":0,"y":-1000,"width":680,"height":480,"color":"#275f82","type":"file","file":"Dashboards/🎙️ Podcast Dashboard.md"}
+	],
+	"edges":[]
+}

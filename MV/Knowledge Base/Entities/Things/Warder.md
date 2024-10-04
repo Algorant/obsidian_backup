@@ -1,0 +1,1 @@
+A man who guards and protects [[Aes Sedai]] in [[The Wheel of Time]]. They are sworn and bonded to each other using a magical ritual, and are both given synesthetic abilities such as being able to feel where each other are.

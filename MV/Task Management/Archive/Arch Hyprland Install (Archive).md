@@ -1,0 +1,54 @@
+
+#### October 5th 2023
+- [x] aliases in nushell
+- [x] add atuin and sync
+- [x] add starship
+#### October 6th 2023
+- [x] figure out  connection 
+#### October 8th 2023
+- [x] [[waybar]] customization
+	- [x] wlogout button
+	- [x] colors
+	- [x] Make it hover display above programs
+	- [x] hover over workspaces look wrong
+- [x] [[rofi]]
+	- [x] get just icons
+	- [x] edit fontsize
+	- [x] make more transparent
+	- [x] add  as on-click thing for internet
+- [x] [[hyprland]]
+	- [x] change the borders to match colorscheme
+	- [x] transparency
+#### October 9th 2023
+- [x] simple screenshot tool
+	- [x] [[grimblast]] works well
+	- [x] Make basic script and add to [[hyprland]] config
+		- [x] one for fullscreen then one for slurp location
+- [x] [[nu]] 
+	- [x] lag on exiting programs/commands
+	- [x] add aliases
+		- [x] for different config files
+		- [x] for batcat 
+- [x] [[gnu stow]]
+	- [x] [[hyprland]]
+	- [x] [[waybar]]
+	- [x] [[wlogout]]
+	- [x] [[sddm]]
+	- [x] [[waypaper]]
+	- [x] theme colors (gruvbox) 
+- [x] customize [[sddm]] chili theme 
+	- [x] remove or dampen blur
+	- [x] wallpaper 
+- [x] [[sddm]]
+	- [x] set chili theme
+	- [x] make it nice background
+- [x] change atuin to not be there pressing up, just ctrl+r
+- [x] Set up simple zsh config
+	- [x] add [[fastfetch]]
+	- [x] add [[Starship]]
+	- [x] add aliases
+		- [x] [[bat]]
+		- [x] [[lsd]]
+		- [x] [[tree]]
+	- [x] add [[atuin]]
+	- [x] add [[zsh-autocompletion]] 

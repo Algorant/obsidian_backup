@@ -1,0 +1,15 @@
+- Didn't recognize Robert Duval, or Pacino, or Diane Keaton
+- I have a special practice. I have one client. #goals 
+- Trope of the new guy on the block
+	- boardwalk, the wire, sopranos even
+- Scenes
+	- Horse scene was gnarly
+	- Hospital scene super tense
+	- Field with statue of Liberty in background, great scene
+	- It's 1946, not in the 5 families, so a kinda period piece
+- Sayings?
+	- Leave the gun, take the cannoli
+	- Sleeping with the fishes? Is that from this?
+- Poor sick driver guy
+- Compelling five families scene
+- Last scene, cop guy closes the door

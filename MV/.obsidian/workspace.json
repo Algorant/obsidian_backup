@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "15a0501efc998e32",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ef6c091b4e6ccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c2f4069d89c929",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/October 3rd 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cc60d49870d5fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb60ae8eda856da6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5694dde33e4d795b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c38111f201a3a5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4802f960df06929f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f47afba42c2230a",
+    "type": "split",
+    "children": [
+      {
+        "id": "94fbee9160f61e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ab07bcae88c02c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/October 3rd 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "add048cffcdf5db0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/October 3rd 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8056c06183836b0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b12e34acfac56b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/October 3rd 2024.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "38c2f4069d89c929",
+  "lastOpenFiles": [
+    "Obsidian",
+    "Projects/Tech/Robochumba/axicli.md",
+    "Work/Medtronic/Meeting Notes/Socket Tracing/Thursday Workstream Meetings.md",
+    "Projects/FF/3kp League.md",
+    "Task Management/Daily ToDo.md",
+    "Daily Notes/October 3rd 2024.md",
+    "Daily Notes/October 2nd 2024.md",
+    "Task Management/Work ToDo.md",
+    "Task Management/Archive/Daily ToDo (Archive).md",
+    "New Notes/Movies/The Shining.md",
+    "Daily Notes/October 1st 2024.md",
+    "Work/Medtronic/Projects/Socket Tracing/Socket Tracing - Testing Suite.md",
+    "Work/Medtronic/Projects/Socket Tracing/Socket Tracing.md",
+    "Work/Medtronic/Projects/Socket Tracing/Socket Tracing - Refactor.md",
+    "Work/Medtronic/Projects/Socket Tracing/Socket Tracing - Documentation.md",
+    "Task Management/Archive/Work ToDo (Archive).md",
+    "Work/Medtronic/Glossary/Knime.md",
+    "New Notes/Ephemeral/Shopping List.md",
+    "New Notes/Movieclub selections.md",
+    "Knowledge Base/Computers/Software/Neovim/Lazyvim Config.md",
+    "Knowledge Base/Computers/Linux/Distros/WSL/Fresh Win 11 Install.md",
+    "Knowledge Base/Computers/Linux/Distros/WSL/Docker ArchWSL.md",
+    "Knowledge Base/Entities/Characters/Obi-Wan.md",
+    "Knowledge Base/Computers/Software/OBS.md",
+    "Knowledge Base/Computers/Languages/Rust/rust_50.md",
+    "Knowledge Base/Computers/Languages/Rust/Rust Workspace.md",
+    "Work/Medtronic/Projects/Socket Tracing",
+    "Work/Medtronic/Projects/VA Projects",
+    "Work/Medtronic/Projects/Archive",
+    "Misc/Media/Pasted Image 20240922160939_335.png",
+    "Knowledge Base/Media/Games/Game Notes/Street Fighter 6",
+    "Daily Notes/Archive/July 2024",
+    "Knowledge Base/Computers/Domains/Software Engineering",
+    "Knowledge Base/Computers/Languages/C",
+    "Work/Medtronic/Meeting Notes/Socket Tracing",
+    "Projects/3kp",
+    "Projects/Tech/Keyboards",
+    "Misc/Media/Pasted image 20240319093702.png",
+    "Dashboards/Canvas/Task Canvas.canvas",
+    "Misc/Media/pngtree-an-old-bookcase-in-a-library-image_2642908.png",
+    "Misc/Media/Pasted image 20230814091957.png",
+    "Misc/Banners/emil-widlund-xrbbXIXAWY0-unsplash.jpg",
+    "Misc/Media/71QaArYs96L._AC_UF1000,1000_QL80_.jpg",
+    "Misc/Media/81fE0AXnzmL._AC_UF1000,1000_QL80_.jpg",
+    "Misc/Media/Pasted image 20230619154548.png",
+    "Misc/Media/Pasted image 20230623232220.png",
+    "Misc/Media/Cowboy_Bebop_key_visual 1.jpg",
+    "Dashboards/Canvas/Media Canvas.canvas"
+  ]
+}

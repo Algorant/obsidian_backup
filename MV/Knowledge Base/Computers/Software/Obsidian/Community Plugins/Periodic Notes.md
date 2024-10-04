@@ -1,0 +1,1 @@
+A [[Community Plugins|Community Plugin]] that helps me make weekly, monthly, and yearly notes if needed. 

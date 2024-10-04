@@ -1,0 +1,516 @@
+{
+  "choices": [
+    {
+      "id": "3c2e4ff7-6727-454f-a0cb-6a4b64fcb8d1",
+      "name": "Captures to Daily",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "cbf6df58-71cb-44ee-a687-f91c012ebc43",
+          "name": "🐦 Tweet ",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Daily Notes/{{DATE:MMMM Do YYYY}}.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- Description:: - \n- Link::[Tweet]({{value}})\n- Tags:: #tweet\n- Embed:: \n\t- ![]({{value}})\n\\n --- \\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### Tweet",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "ec76eac0-3012-4bac-8764-0b1f0a089876",
+          "name": "🎞️ Youtube Video",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Daily Notes/{{DATE:MMMM Do YYYY}}.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- Description:: - \n- Link:: [Video]({{value}})\n- Tags:: #youtube\n- Embed:: \n\t- ![]({{value}})\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### Video",
+            "insertAtEnd": false,
+            "considerSubsections": true,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "6d593f51-8444-4909-9fc4-01a53fc9ea66",
+          "name": "🔗Link",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Daily Notes/{{DATE:MMMM Do YYYY}}.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- {{value}}{{value}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### Links",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "bc26b6b0-0255-4a58-a3c5-0be33537cfe2",
+          "name": "💭 Thought",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Daily Notes/{{DATE:MMMM Do YYYY}}.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- {{Value}} | [[#Tags]] \\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Thoughts",
+            "insertAtEnd": false,
+            "considerSubsections": true,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "263a55f7-d482-4798-b1d0-5d5a72da0512",
+      "name": "ToDo",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "a68155d0-c4bc-44bf-96a3-bc92e762bbce",
+          "name": "✔️ Daily ToDo",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Task Management/Daily ToDo.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{value}}\\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Primary",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "e511c7dc-039d-4762-a6b8-d4ac5964b7f0",
+          "name": "🔨 Shop ToDo",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Task Management/Shop ToDo.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{value}}\\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Primary",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "4ef8c157-0e8a-4f01-a67d-ccfe7ebc59ce",
+          "name": "⚕️Work ToDo",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Task Management/Work ToDo.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{value}}\\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Primary",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "918e2b98-4471-4751-8c18-a359ebfe005d",
+          "name": "🏠 House ToDo",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Task Management/House ToDo.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{value}}\\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## Primary",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "682227fc-f5fb-4189-b50f-d67d7e511250",
+      "name": "Dataview Snippets",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "a026ab88-26d2-4e8c-9b47-5a51b0e58bdc",
+          "name": "🔍Dataview - 🎥 Movie Starring Actor",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "### Movies \n```dataview\nTABLE WITHOUT ID\nfile.link AS \"Film\", director, starring, rating, summary, tags\nFROM \"Knowledge Base/Media/Movies\"\nWHERE contains(starring, [[{{value}}]])\n```"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### Dataview",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "4c7e6ced-bd04-4cb8-ba93-739f89f6aea4",
+          "name": "🔍Dataview - 📖 Books By Author",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "### Books By Author\n\n```dataview\nTABLE WITHOUT ID\nfile.link AS \"Title\", author, year-published, year-read, series, rating, tags, summary\nFROM \"Knowledge Base/Media/Books\"\nWHERE contains(author, [[{{value}}]])\n```"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "#### Dataview",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "a2763baf-3b52-4f8f-8281-2fe1b78c89ac",
+          "name": "🔍Dataview - 📖 Podcast by Person",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "### Podcast\n\n```dataview\nTABLE WITHOUT ID\nfile.link AS \"Podcast\", hosted-by, link, summary, tags\nFROM \"Knowledge Base/Media/Podcasts\"\nWHERE contains(hosted-by, [[{{value}}]])\n```"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "#### Dataview",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "ce01e199-8c16-4e6e-8bc1-49b7c19bd99e",
+          "name": "🔍Dataview - 📖 TV Shows Starring",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "### TV Shows\n\n```dataview\nTABLE WITHOUT ID\nfile.link AS \"Name\", created-by, starring, original-release as \"release year\", seasons, episodes, status, rating, summary, tags\nFROM \"Knowledge Base/Media/TV Shows\"\nWHERE contains(starring, [[{{value}}]])\n```"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "#### Dataview",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "e93f629c-25be-4062-8c40-b4994e2448a9",
+      "name": "Misc",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "3d45f72f-a5cc-4c5b-985e-5d0a7623c3a3",
+          "name": "💬  Quotes",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Knowledge Base/💬 Quotes.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "*\"{{value}}\"* | [[#quote-author]] | [[#quote-source]] "
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "#### QuickAdd",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": true
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Misc/Templates/QuickAdd",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}
