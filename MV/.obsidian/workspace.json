@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "533e6d6828a6db19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Management/Work ToDo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b9dfeb2c119c6b19",
             "type": "leaf",
             "state": {
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Task Management/Work ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Task Management/Work ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Management/Daily ToDo.md"
+                "file": "Task Management/Work ToDo.md"
               }
             }
           }
@@ -168,9 +181,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b9dfeb2c119c6b19",
+  "active": "533e6d6828a6db19",
   "lastOpenFiles": [
     "Daily Notes/October 4th 2024.md",
+    "Task Management/Daily ToDo.md",
     "Daily Notes/October 3rd 2024.md",
     "Daily Notes/October 2nd 2024.md",
     "Daily Notes/October 1st 2024.md",
@@ -198,7 +212,6 @@
     "New Notes/bodin list.md",
     "New Notes/Art for House.md",
     "Obsidian",
-    "Projects/Tech/Robochumba/axicli.md",
     "Work/Medtronic/Projects/Socket Tracing",
     "Work/Medtronic/Projects/VA Projects",
     "Work/Medtronic/Projects/Archive",

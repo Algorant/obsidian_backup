@@ -488,3 +488,11 @@
 - [x] Create update for meeting
 - [x] Write script for [[VA Work]] on Friday/over weekend 
 - [x] Create task planner for [[MCMS]] activities
+#### October 4th 2024
+- [x] reconcile [[IDN]]
+	- [x] TODO
+		- [x] START WITH 4 ACCOUNTS
+			- [x] STANFORD, ATLANTIC, YALE, INTERMOUNTAIN
+	- [x] TODO
+		- [x] Likely need source (where that info came from) as well as cust_id
+		- [x] [[IDN]] level: needs to be idn number, applied to all mids and cust_ids

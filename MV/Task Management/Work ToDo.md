@@ -8,14 +8,7 @@
 ---
 
 ## Tasks
-- [ ] reconcile [[IDN]]
-	- [ ] TODO
-		- [ ] START WITH 4 ACCOUNTS
-			- [ ] STANFORD, ATLANTIC, YALE, INTERMOUNTAIN
-	- [ ] TODO
-		- [ ] Likely need source (where that info came from) as well as cust_id
-		- [ ] [[IDN]] level: needs to be idn number, applied to all mids and cust_ids
-- [ ] Add clients
+- [ ] Add clients 
 - [ ] Update [[Philips]] and [[Testing Suite]]
 - [ ] Refactor into Components
 - [ ] Show functionality in [[Knime]]
