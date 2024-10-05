@@ -13,7 +13,7 @@ scheduled today
 ---
 #### General
 
-- [ ] check on loan
+- [x] check on loan
 	- [ ] ucc email: ucc@serviceexperts.com
 		- [ ] On subject line: Ivan Santos 10012419
 		- [ ] get payoff amount
@@ -24,8 +24,9 @@ scheduled today
 		- [ ] 2k to close
 		- [ ] 923/month
 - [ ] Shop Time tonight
-	- [ ] Put battery On
+	- [x] Put battery On
 	- [ ] Cut out platforms for robots
+		- [ ] 18 across by 24 long
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 - [ ] Set up initial [[corne]] config
 - [ ] Create '/meeting' macro or shortcut or quickadd thing
