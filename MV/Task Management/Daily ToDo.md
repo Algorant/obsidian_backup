@@ -13,21 +13,9 @@ scheduled today
 ---
 #### General
 
-- [x] check on loan
-	- [ ] ucc email: ucc@serviceexperts.com
-		- [ ] On subject line: Ivan Santos 10012419
-		- [ ] get payoff amount
-		- [ ] Temporarily removed is possible?
-		- [ ] Payoff amount: 12,516.50 approx
-	- [ ] New ballpark numbers
-		- [ ] 9.875%
-		- [ ] 2k to close
-		- [ ] 923/month
-- [ ] Shop Time tonight
-	- [x] Put battery On
-	- [ ] Cut out platforms for robots
-		- [ ] 18 across by 24 long
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
+- [ ] Set up usb switch
+- [ ] Buy some rockstars
 - [ ] Set up initial [[corne]] config
 - [ ] Create '/meeting' macro or shortcut or quickadd thing
 	- [ ] Date fill in as same day

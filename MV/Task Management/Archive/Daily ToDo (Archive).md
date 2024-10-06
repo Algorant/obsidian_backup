@@ -769,3 +769,18 @@ scheduled today
 - [x] [[Bodin|Bo]] Bike Riding
 - [x] Pay Figure 
 - [x] call service experts after payoff 
+#### October 5th 2024
+- [x] Shop Time tonight 
+	- [x] Put battery On
+	- [x] Cut out platforms for robots
+		- [x] 18 across by 24 long
+- [x] check on loan
+	- [x] ucc email: ucc@serviceexperts.com
+		- [x] On subject line: Ivan Santos 10012419
+		- [x] get payoff amount
+		- [x] Temporarily removed is possible?
+		- [x] Payoff amount: 12,516.50 approx
+	- [x] New ballpark numbers
+		- [x] 9.875%
+		- [x] 2k to close
+		- [x] 923/month
