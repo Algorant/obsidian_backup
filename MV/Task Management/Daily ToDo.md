@@ -14,7 +14,7 @@ scheduled today
 #### General
 
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
-- [ ] Set up usb switch
+- [x] Set up usb switch
 - [ ] Buy some rockstars
 - [ ] Set up initial [[corne]] config
 - [ ] Create '/meeting' macro or shortcut or quickadd thing
@@ -23,6 +23,8 @@ scheduled today
 	- [ ] Questions
 	- [ ] Tasks
 - [ ] look into opthalmology appt 
+- [ ] Hurricane prep
+	- [ ] patio furniture in garage or house
 - [ ] buy hot water filter
 - [ ] buy rug for office, smaller one
 	- [ ] 7x10 is perfect size, 8x6 is good too 
@@ -46,7 +48,7 @@ scheduled today
 #### Shop
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
-- [ ] Install Battery
+- [x] Install Battery
 - [ ] Build Workout Board
 - [ ] Build new [[Table Saw Table]]
 	- [ ] Index it to the right side to retain fence capabilities

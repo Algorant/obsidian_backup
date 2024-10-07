@@ -60,9 +60,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db75c6d6ec448067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Tech/Robochumba/axicli.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+                "file": "Task Management/Daily ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+                "file": "Task Management/Daily ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md"
+                "file": "Task Management/Daily ToDo.md"
               }
             }
           }
@@ -194,12 +207,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e16b14f2cf0514b",
+  "active": "b9dfeb2c119c6b19",
   "lastOpenFiles": [
+    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+    "Projects/Tech/Robochumba/axicli.md",
     "Task Management/Daily ToDo.md",
     "Daily Notes/October 5th 2024.md",
     "Task Management/Work ToDo.md",
-    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
     "Daily Notes/October 4th 2024.md",
     "Daily Notes/October 3rd 2024.md",
     "Daily Notes/October 2nd 2024.md",
@@ -223,7 +237,6 @@
     "New Notes/novi typing.md",
     "New Notes/Movieclub selections.md",
     "New Notes/Movie List with Lisa.md",
-    "New Notes/Books Read By Year.md",
     "Obsidian",
     "Work/Medtronic/Projects/Socket Tracing",
     "Work/Medtronic/Projects/VA Projects",
