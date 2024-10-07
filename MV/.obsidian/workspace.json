@@ -73,9 +73,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e47b4a6967f2b70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -104,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "anbernic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Task Management/Daily ToDo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,11 +212,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b9dfeb2c119c6b19",
+  "active": "7c38111f201a3a5c",
   "lastOpenFiles": [
     "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
-    "Projects/Tech/Robochumba/axicli.md",
     "Task Management/Daily ToDo.md",
+    "Projects/Tech/Robochumba/axicli.md",
     "Daily Notes/October 5th 2024.md",
     "Task Management/Work ToDo.md",
     "Daily Notes/October 4th 2024.md",
