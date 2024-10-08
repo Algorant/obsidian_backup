@@ -3,6 +3,8 @@
 - [ ] [[streamlit]] refactor
 	- [ ] Home
 	- [ ] Players
+		- [ ] Get league links:
+			- [ ] league_id, league_url from full_league_data
 	- [ ] Leagues
 - [ ] See if you can get Roster on the Side when a league is clicked.
 	- [ ] will need logic for if league is sleeper or mfl
