@@ -2,9 +2,10 @@
 ## Refactor Todo
 - [ ] [[streamlit]] refactor
 	- [ ] Home
-	- [ ] Players
-		- [ ] Get league links:
-			- [ ] league_id, league_url from full_league_data
+	- [x] Players
+		- [ ] Add player status to df (will require refactor to api calls)
+		- [x] Get league links:
+			- [x] league_id, league_url from full_league_data
 	- [ ] Leagues
 - [ ] See if you can get Roster on the Side when a league is clicked.
 	- [ ] will need logic for if league is sleeper or mfl
