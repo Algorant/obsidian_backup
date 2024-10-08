@@ -4,6 +4,7 @@
 	- [ ] Home
 	- [x] Players
 		- [ ] Add player status to df (will require refactor to api calls)
+		- [ ] see if you can add the league_name as the link name instead of the url
 		- [x] Get league links:
 			- [x] league_id, league_url from full_league_data
 	- [ ] Leagues
