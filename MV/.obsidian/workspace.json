@@ -4,78 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5c42ed16c57c526d",
+        "id": "56f214e828ae4a01",
         "type": "tabs",
         "children": [
           {
-            "id": "7d828a23053dcffa",
+            "id": "269ed979d05af3bc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/October 4th 2024.md",
+                "file": "Daily Notes/October 8th 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b9dfeb2c119c6b19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task Management/Daily ToDo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "533e6d6828a6db19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task Management/Work ToDo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e16b14f2cf0514b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db75c6d6ec448067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Tech/Robochumba/axicli.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+                "file": "Daily Notes/October 8th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+                "file": "Daily Notes/October 8th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md"
+                "file": "Daily Notes/October 8th 2024.md"
               }
             }
           }
@@ -208,9 +155,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e16b14f2cf0514b",
+  "active": "269ed979d05af3bc",
   "lastOpenFiles": [
+    "Daily Notes/October 8th 2024.md",
     "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+    "Daily Notes/October 7th 2024.md",
     "Task Management/Daily ToDo.md",
     "Projects/Tech/Robochumba/axicli.md",
     "Daily Notes/October 5th 2024.md",
@@ -236,8 +185,6 @@
     "Dashboards/🎮  Games Dashboard.md",
     "New Notes/Shopping List.md",
     "New Notes/novi typing.md",
-    "New Notes/Movieclub selections.md",
-    "New Notes/Movie List with Lisa.md",
     "Obsidian",
     "Work/Medtronic/Projects/Socket Tracing",
     "Work/Medtronic/Projects/VA Projects",
