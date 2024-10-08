@@ -9,6 +9,8 @@ scheduled today
 ## Quick Links
 
 [[Blog]]
+[[League Organization API]]
+
 
 ---
 #### General

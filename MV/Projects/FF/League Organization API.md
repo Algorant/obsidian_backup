@@ -1,16 +1,12 @@
 
 ## Refactor Todo
+- [ ] [[streamlit]] refactor
+	- [ ] Home
+	- [ ] Players
+	- [ ] Leagues
 - [ ] See if you can get Roster on the Side when a league is clicked.
 	- [ ] will need logic for if league is sleeper or mfl
 		- [ ] get for id in rosters, get the name, pipe to list, show it as df
-- [ ] create update.py
-	- [x] update (weekly)
-	- [ ] update full (all data)
-	- [ ] update duck_db
-	- [x] add 'Last updated' column with timestamp
-	- [x] create function that gets that value
-- [ ] create records by week 
-	- [ ] in week table?
 ---
 #### Next Steps
 - Create analysis

@@ -40,3 +40,12 @@
 		- [x] 1 graph, 1 bar or circle per position, and the top 5 for each with their amount or %age
 		- [x] Bin everything below threshold as "Other"
 	- [x] load in stats
+#### October 8th 2024
+- [x] create records by week 
+	- [x] in week table?
+- [x] create update.py
+	- [x] update (weekly)
+	- [x] update full (all data) 
+	- [x] update duck_db
+	- [x] add 'Last updated' column with timestamp
+	- [x] create function that gets that value
