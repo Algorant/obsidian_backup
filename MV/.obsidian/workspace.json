@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9b1b4365306924b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Management/Daily ToDo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/October 8th 2024.md",
+                "file": "Task Management/Daily ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/October 8th 2024.md",
+                "file": "Task Management/Daily ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/October 8th 2024.md"
+                "file": "Task Management/Daily ToDo.md"
               }
             }
           }
@@ -155,7 +169,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "269ed979d05af3bc",
+  "active": "9b1b4365306924b7",
   "lastOpenFiles": [
     "Daily Notes/October 8th 2024.md",
     "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
