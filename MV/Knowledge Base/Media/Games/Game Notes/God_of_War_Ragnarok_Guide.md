@@ -58,7 +58,7 @@ Throw it on the golden rocks to access red chest:
 
 Go grab another fire bomb
 East to the ledge throw down fire bomb on golden rocks below
-Go back and open the South gate
+Go back and open the South gate 
 Grab a Firebomb and go South then West over the gap
 Throw Firebomb at the Golden Rocks
 Grapple over and open red chest:
