@@ -17,7 +17,7 @@ scheduled today
 
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 - [x] Set up usb switch
-- [ ] Buy some rockstars
+- [x] Buy some rockstars
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
 	- [ ] look into adding roms
