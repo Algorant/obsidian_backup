@@ -1,13 +1,10 @@
 
 ## Refactor Todo
-- [ ] [[streamlit]] refactor
-	- [ ] Home
+- [x] [[streamlit]] refactor
 	- [x] Players
 		- [ ] Add player status to df (will require refactor to api calls)
-		- [ ] see if you can add the league_name as the link name instead of the url
-		- [x] Get league links:
-			- [x] league_id, league_url from full_league_data
 	- [ ] Leagues
+		- [ ] Get relevant info for individual leagues, record, standings, etc
 - [ ] See if you can get Roster on the Side when a league is clicked.
 	- [ ] will need logic for if league is sleeper or mfl
 		- [ ] get for id in rosters, get the name, pipe to list, show it as df

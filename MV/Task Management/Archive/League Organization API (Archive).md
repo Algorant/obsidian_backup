@@ -49,3 +49,7 @@
 	- [x] update duck_db
 	- [x] add 'Last updated' column with timestamp
 	- [x] create function that gets that value
+#### October 10th 2024
+- [x] Get league links: 
+	- [x] league_id, league_url from full_league_data
+- [x] Home
