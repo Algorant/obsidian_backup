@@ -784,3 +784,9 @@ scheduled today
 		- [x] 9.875%
 		- [x] 2k to close
 		- [x] 923/month
+#### October 10th 2024
+- [x] Install Battery
+- [x] Make platform for Axidraw to eliminate discrepancies
+	- [x] 21x20
+- [x] Buy some rockstars 
+- [x] Set up usb switch

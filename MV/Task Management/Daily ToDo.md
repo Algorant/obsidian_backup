@@ -18,8 +18,6 @@ scheduled today
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 - [ ] Follow up with United INS and brandi
 - [ ] Change [[Obsidian]] hue for logo to [[gruvbox]] green?
-- [x] Set up usb switch
-- [x] Buy some rockstars
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
 	- [ ] look into adding roms
@@ -37,6 +35,7 @@ scheduled today
 - [ ] buy rug for office, smaller one
 	- [ ] 7x10 is perfect size, 8x6 is good too 
 
+---
 
 #### HoneyDos
 - [ ] caulk bathtub 
@@ -51,12 +50,9 @@ scheduled today
 	- [ ] Raise and lower pen
 	- [ ] Enable or Disable Motors
 	- [ ] Return Home
-- [x] Make platform for Axidraw to eliminate discrepancies
-	- [x] 21x20
 #### Shop
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
-- [x] Install Battery
 - [ ] Build Workout Board
 - [ ] Build new [[Table Saw Table]]
 	- [ ] Index it to the right side to retain fence capabilities
