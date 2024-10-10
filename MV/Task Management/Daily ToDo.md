@@ -16,6 +16,8 @@ scheduled today
 #### General
 
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
+- [ ] Follow up with United INS and brandi
+- [ ] Change [[Obsidian]] hue for logo to [[gruvbox]] green?
 - [x] Set up usb switch
 - [x] Buy some rockstars
 - [ ] mess with [[Anbernic]] stuff
@@ -47,10 +49,10 @@ scheduled today
 	- [ ] Cards
 - [ ] Add commands to shell script
 	- [ ] Raise and lower pen
-		- [ ] Return Home
-		- [ ] Enable or Disable Motors
-- [ ] Make platform for Axidraw to eliminate discrepancies
-	- [ ] 21x20
+	- [ ] Enable or Disable Motors
+	- [ ] Return Home
+- [x] Make platform for Axidraw to eliminate discrepancies
+	- [x] 21x20
 #### Shop
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables

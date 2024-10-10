@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "d539c9f2349961a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Notes/gruvbox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5156aee877704a10",
             "type": "leaf",
             "state": {
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+                "file": "New Notes/gruvbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+                "file": "New Notes/gruvbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md"
+                "file": "New Notes/gruvbox.md"
               }
             }
           }
@@ -182,11 +195,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5156aee877704a10",
+  "active": "d539c9f2349961a6",
   "lastOpenFiles": [
     "Task Management/Daily ToDo.md",
-    "Daily Notes/October 10th 2024.md",
+    "New Notes/gruvbox.md",
     "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+    "Daily Notes/October 10th 2024.md",
     "Daily Notes/October 9th 2024.md",
     "Projects/FF/League Organization API.md",
     "Daily Notes/October 8th 2024.md",
@@ -211,7 +225,6 @@
     "Dashboards/💭 Thoughts Dashboard.md",
     "Dashboards/💬 Quotes Dashboard.md",
     "Dashboards/👨‍🍳 Recipe Board.md",
-    "Dashboards/🎶 Music Dashboard.md",
     "Obsidian",
     "Work/Medtronic/Projects/Socket Tracing",
     "Work/Medtronic/Projects/VA Projects",
