@@ -108,6 +108,7 @@ scheduled today
 	- [ ] Spanish
 		- [ ] Workbook or App
 	- [ ] [turing tumble](https://upperstory.com/turingtumble/)  thing, learn computers by doing
+	- [ ] Live periodic table
 	- [ ]  [[Snatoms]]
 	- [ ] Crunch Labs
 	- [ ] KiwiCo  
