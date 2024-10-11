@@ -17,6 +17,7 @@ scheduled today
 
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 - [ ] Follow up with United INS and brandi
+- [ ] 
 - [ ] Change [[Obsidian]] hue for logo to [[gruvbox]] green?
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
@@ -90,6 +91,7 @@ scheduled today
 ##### Neovim
 - [ ] Things to configure
 	- [x] flash
+	- [ ] blink for [[cmp]]
 	- [ ] Harpoon
 	- [ ] Whichkey 
 	- [x] Surround
