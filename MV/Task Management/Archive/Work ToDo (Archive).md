@@ -496,3 +496,6 @@
 	- [x] TODO
 		- [x] Likely need source (where that info came from) as well as cust_id
 		- [x] [[IDN]] level: needs to be idn number, applied to all mids and cust_ids
+#### October 11th 2024
+- [x] Look for other prime IDN accounts
+- [x] Add clients 

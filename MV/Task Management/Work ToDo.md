@@ -8,15 +8,13 @@
 ---
 
 ## Tasks
-- [x] Add clients 
-- [ ] Look for other prime IDN accounts
 - [ ] Update task planner
 	- [ ] Audit (account update list) by tuesday the 15th
 - [ ] Make dashboard work checklist
 - [ ] Create [[ACM Master DB]] template and mapping
 - [ ] Update [[Philips]] and [[Testing Suite]]
 - [ ] Refactor into Components
-- [ ] Show functionality in [[Knime]]
+- [ ] Show functionality in [[Knime]] 
 - [ ] meet with mallory once completed
 - [ ] Update [[Philips]] consumables data and apply the override file
 	- [ ] Apply on comparison string, might need multiple

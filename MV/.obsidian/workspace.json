@@ -47,22 +47,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ae7b683fbd36ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FF/League Organization API.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FF/League Organization API.md",
+                "file": "Task Management/Daily ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/FF/League Organization API.md",
+                "file": "Task Management/Daily ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FF/League Organization API.md"
+                "file": "Task Management/Daily ToDo.md"
               }
             }
           }
@@ -195,16 +182,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ae7b683fbd36ec8",
+  "active": "1eeae18f4e7c935c",
   "lastOpenFiles": [
+    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+    "Projects/FF/League Organization API.md",
     "Daily Notes/October 11th 2024.md",
     "Task Management/Archive/League Organization API (Archive).md",
     "Task Management/Daily ToDo.md",
     "New Notes/gruvbox.md",
     "Daily Notes/October 10th 2024.md",
-    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
     "Daily Notes/October 9th 2024.md",
-    "Projects/FF/League Organization API.md",
     "Daily Notes/October 8th 2024.md",
     "Daily Notes/October 7th 2024.md",
     "Projects/Tech/Robochumba/axicli.md",

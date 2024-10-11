@@ -92,6 +92,7 @@ scheduled today
 - [ ] Things to configure
 	- [x] flash
 	- [ ] blink for [[cmp]]
+	- [ ] mini.indentlines
 	- [ ] Harpoon
 	- [ ] Whichkey 
 	- [x] Surround
