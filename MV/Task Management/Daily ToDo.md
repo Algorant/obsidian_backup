@@ -90,14 +90,16 @@ scheduled today
 	- [ ] [[Rust By Practice]] 
 ##### Neovim
 - [ ] Things to configure
+	- [ ] Terminal / toggleterm
 	- [x] flash
-	- [ ] blink for [[cmp]]
+		- [ ] learn the hotkeys better
+	- [ ] Harpoon 
+	- [x] blink for [[cmp]]
 	- [ ] mini.indentlines
-	- [ ] Harpoon
-	- [ ] Whichkey 
 	- [x] Surround
+		- [ ] learn hotkeys better
+	- [ ] Whichkey update
 	- [ ] dadbod
-	- [ ]  
 - [ ] need functionality to highlight functions python treesitter
 	- [ ] seems like I need to configure treesitter-textobjects
 	- [ ] use this [video](https://www.youtube.com/watch?v=CEMPq_r8UYQ)
