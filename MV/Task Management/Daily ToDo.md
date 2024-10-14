@@ -18,21 +18,17 @@ scheduled today
 - [ ] Follow up with Brandi for increase then call mrcooper
 - [ ] Work do mallory prototype first, then work on [[Socket Tracing]]
 - [ ] move peloton upstairs
-- [ ] 
-- [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
-- [ ] 
 - [ ] Change [[Obsidian]] hue for logo to [[gruvbox]] green?
+- [ ] look into opthalmology appt 
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
 	- [ ] look into adding roms
 		- [ ] nes, snes, n64 collections to start
-- [ ] Set up initial [[corne]] config
 - [ ] Create '/meeting' macro or shortcut or quickadd thing
 	- [ ] Date fill in as same day
 	- [ ] Points
 	- [ ] Questions
 	- [ ] Tasks
-- [ ] look into opthalmology appt 
 - [ ] Hurricane prep
 	- [ ] patio furniture in garage or house
 - [ ] buy hot water filter
@@ -54,6 +50,7 @@ scheduled today
 	- [ ] Raise and lower pen
 	- [ ] Enable or Disable Motors
 	- [ ] Return Home
+- [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 #### Shop
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
