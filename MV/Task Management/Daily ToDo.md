@@ -16,10 +16,11 @@ scheduled today
 #### General
 
 - [ ] Follow up with Brandi for increase then call mrcooper
-- [ ] Work do mallory prototype first, then work on [[Socket Tracing]]
+- [ ] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
 - [ ] move peloton upstairs
 - [ ] Change [[Obsidian]] hue for logo to [[gruvbox]] green?
 - [ ] look into opthalmology appt 
+- [ ] hours
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
 	- [ ] look into adding roms
