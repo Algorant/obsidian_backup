@@ -15,23 +15,19 @@ scheduled today
 ---
 #### General
 
-- [ ] Follow up with Brandi for increase then call mrcooper
+- [x] Follow up with Brandi for increase then call mrcooper
 - [ ] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
+- [ ] order stamps
 - [ ] move peloton upstairs
-- [ ] Change [[Obsidian]] hue for logo to [[gruvbox]] green?
-- [ ] look into opthalmology appt 
 - [ ] hours
+- [ ] look into opthalmology appt 
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
 	- [ ] look into adding roms
 		- [ ] nes, snes, n64 collections to start
-- [ ] Create '/meeting' macro or shortcut or quickadd thing
-	- [ ] Date fill in as same day
-	- [ ] Points
-	- [ ] Questions
-	- [ ] Tasks
-- [ ] Hurricane prep
-	- [ ] patio furniture in garage or house
+
+- [x] Hurricane prep
+	- [x] patio furniture in garage or house
 - [ ] buy hot water filter
 - [ ] buy rug for office, smaller one
 	- [ ] 7x10 is perfect size, 8x6 is good too 
@@ -104,6 +100,12 @@ scheduled today
 - [ ] need functionality to highlight functions python treesitter
 	- [ ] seems like I need to configure treesitter-textobjects
 	- [ ] use this [video](https://www.youtube.com/watch?v=CEMPq_r8UYQ)
+##### Obsidian
+- [ ] Create '/meeting' macro or shortcut or quickadd thing
+	- [ ] Date fill in as same day
+	- [ ] Points
+	- [ ] Questions
+	- [ ] Tasks
 #### Kiddos
 - [ ] Activities with [[Bodin|Bo]]
 	- [ ] Music ?
