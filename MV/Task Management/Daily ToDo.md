@@ -15,8 +15,11 @@ scheduled today
 ---
 #### General
 
+- [ ] Follow up with Brandi for increase then call mrcooper
+- [ ] Work do mallory prototype first, then work on [[Socket Tracing]]
+- [ ] move peloton upstairs
+- [ ] 
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
-- [ ] Follow up with United INS and brandi
 - [ ] 
 - [ ] Change [[Obsidian]] hue for logo to [[gruvbox]] green?
 - [ ] mess with [[Anbernic]] stuff
