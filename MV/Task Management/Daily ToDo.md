@@ -16,6 +16,12 @@ scheduled today
 #### General
 
 - [x] Follow up with Brandi for increase then call mrcooper
+- [ ] Bills
+	- [ ] [[CSIDFL]]
+	- [ ] [[FPL]]
+	- [ ] [[Service Experts]]
+	- [ ] [[CBR]]
+	- [ ] [[HOA]]
 - [ ] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
 - [ ] order stamps
 - [ ] move peloton upstairs
