@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Daily Notes/October 10th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Daily Notes/October 10th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Management/Daily ToDo.md"
+                "file": "Daily Notes/October 10th 2024.md"
               }
             }
           }
@@ -182,11 +181,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1eeae18f4e7c935c",
+  "active": "f43afb7c4e0e96a6",
   "lastOpenFiles": [
+    "Task Management/Daily ToDo.md",
     "Daily Notes/October 14th 2024.md",
     "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
-    "Task Management/Daily ToDo.md",
     "Projects/FF/League Organization API.md",
     "Daily Notes/October 11th 2024.md",
     "Task Management/Archive/League Organization API (Archive).md",

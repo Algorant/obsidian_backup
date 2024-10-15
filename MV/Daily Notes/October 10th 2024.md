@@ -12,6 +12,8 @@ LIMIT 5
 ---
 ## Journal
 
+Sun eater Series #book-rec Daniel Greene
+
 ---
 ## Mind-dump
 
