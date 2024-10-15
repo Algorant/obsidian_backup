@@ -24,8 +24,10 @@ scheduled today
 	- [ ] [[HOA]]
 - [ ] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
 - [ ] order stamps
-- [ ] move peloton upstairs
-- [ ] hours
+- [ ] buy ziplocks
+- [ ] buy roach spray 
+- [x] move peloton upstairs
+- [x] hours
 - [ ] look into opthalmology appt 
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
