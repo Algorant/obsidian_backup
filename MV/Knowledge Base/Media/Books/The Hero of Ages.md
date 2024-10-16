@@ -9,7 +9,7 @@ rating:
 recommended-by: 
 tags: 
 aliases:
-  - Mistborn 3
+  - Mistborn Book 3
 ---
 
 ---

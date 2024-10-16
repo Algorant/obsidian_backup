@@ -9,8 +9,8 @@ rating:
 recommended-by: 
 tags: 
 aliases:
+  - Mistborn Book 1
   - The Final Empire
-  - Mistborn 1
 ---
 
 ---

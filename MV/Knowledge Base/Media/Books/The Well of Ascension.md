@@ -9,7 +9,7 @@ rating:
 recommended-by: 
 tags: 
 aliases:
-  - Mistborn 2
+  - Mistborn Book 2
 ---
 
 ---

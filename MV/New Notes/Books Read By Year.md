@@ -183,22 +183,25 @@
 12. [[Forward the Foundation]]
 13. [[Yellowface]]
 14. [[There Is No Antimemetics Division]]
-15. [[Mistborn|Mistborn 1]]
-16. [[The Hero of Ages|Mistborn 2]]
-17. [[The Hero of Ages|Mistborn 3]]
+15. [[Mistborn|Mistborn Book 1]] [[Mistborn|The Final Empire]]
+16. [[The Well of Ascension|Mistborn Book 2]] [[The Well of Ascension]]
+17. [[The Hero of Ages|Mistborn Book 3]] [[The Hero of Ages]]
 18. [[Warbreaker]]
 19. [[Tress of the Emerald Sea]]
 20. [[The Way of Kings]]
 21. [[Words of Radiance]]
 22. [[Edgedancer]]
 23. [[Oathbringer]]
-24. Dawnguard
-25. Elantris 
-26. Rhythm of war
-27. Arcanum unbound 
-28. Mistborn 4
-29. Mistborn 5
-30. Mistborn 6
+24. [[Dawnshard]]
+25. [[Elantris]]
+26. [[Rhythm of War]]
+27. [[Arcanum Unbounded The Cosmere Collection]]
+28. [[The Alloy of Law|Mistborn Book 4]] [[The Alloy of Law]]
+29. [[Shadows of Self|Mistborn Book 5]] [[Shadows of Self]]
+30. [[The Bands of Mourning|Mistborn Book 6]] [[The Bands of Mourning]]
+31. [[The Lost Metal|Mistborn Book 7]] [[The Lost Metal]]
+32. [[Yumi and the Nightmare Painter]]
+33. [[The Sunlit Man]] [[The Well of Ascension]]
 ok
 Mistborn 7
 Yumi

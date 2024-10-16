@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Management/Daily ToDo.md"
+                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md"
               }
             }
           }
@@ -182,10 +182,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1eeae18f4e7c935c",
+  "active": "5156aee877704a10",
   "lastOpenFiles": [
-    "Daily Notes/October 10th 2024.md",
+    "New Notes/Books Read By Year.md",
+    "Knowledge Base/Media/Books/The Well of Ascension.md",
+    "Knowledge Base/Media/Books/The Hero of Ages.md",
+    "Knowledge Base/Media/Books/Mistborn.md",
+    "Knowledge Base/Media/Books/The Lost Metal.md",
+    "Knowledge Base/Media/Books/The Sunlit Man.md",
+    "Knowledge Base/Media/Books/Yumi and the Nightmare Painter.md",
+    "Knowledge Base/Media/Books/The Bands of Mourning.md",
+    "Knowledge Base/Media/Books/Shadows of Self.md",
+    "Knowledge Base/Media/Books/The Alloy of Law.md",
+    "Knowledge Base/Media/Books/THE ALLOY OF LAW.md",
+    "Knowledge Base/Media/Books/Arcanum Unbounded The Cosmere Collection.md",
+    "Knowledge Base/Media/Books/Rhythm of War.md",
+    "Knowledge Base/Media/Books/Elantris.md",
+    "Knowledge Base/Media/Books/Dawnshard.md",
     "Task Management/Daily ToDo.md",
+    "Daily Notes/October 10th 2024.md",
     "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
     "Daily Notes/October 14th 2024.md",
     "Projects/FF/League Organization API.md",
@@ -195,23 +210,8 @@
     "Daily Notes/October 9th 2024.md",
     "Daily Notes/October 8th 2024.md",
     "Daily Notes/October 7th 2024.md",
-    "Projects/Tech/Robochumba/axicli.md",
-    "Daily Notes/October 5th 2024.md",
-    "Task Management/Work ToDo.md",
-    "Daily Notes/October 4th 2024.md",
-    "Daily Notes/October 3rd 2024.md",
-    "Daily Notes/October 2nd 2024.md",
-    "Daily Notes/October 1st 2024.md",
-    "Daily Notes/Archive/Sept 2024/September 1st 2024.md",
-    "Daily Notes/Archive/August 2024/August 1st 2024.md",
     "Daily Notes/Archive/Sept 2024",
     "Daily Notes/Archive/August 2024",
-    "Dashboards/🧑 People Dashboard.md",
-    "Dashboards/🦸 Graphic Novel Dashboard.md",
-    "Dashboards/🗄️ Projects Dashboard.md",
-    "Dashboards/📺 TV Dashboard.md",
-    "Dashboards/📰 Article Dashboard.md",
-    "Dashboards/📖 Books Dashboard.md",
     "Obsidian",
     "Work/Medtronic/Projects/Socket Tracing",
     "Work/Medtronic/Projects/VA Projects",
