@@ -15,27 +15,23 @@ scheduled today
 ---
 #### General
 
-- [x] Follow up with Brandi for increase then call mrcooper
 - [ ] Bills
 	- [ ] [[CSIDFL]]
 	- [ ] [[FPL]]
 	- [ ] [[Service Experts]]
 	- [ ] [[CBR]]
 	- [ ] [[HOA]]
+	- [ ] [[Figure Lending]]
+	- [ ] [[Tesla]]
 - [ ] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
-- [ ] order stamps
 - [ ] buy ziplocks
 - [ ] buy roach spray 
-- [x] move peloton upstairs
-- [x] hours
-- [ ] look into opthalmology appt 
+- [ ] look into opthalmology appt  
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
 	- [ ] look into adding roms
 		- [ ] nes, snes, n64 collections to start
 
-- [x] Hurricane prep
-	- [x] patio furniture in garage or house
 - [ ] buy hot water filter
 - [ ] buy rug for office, smaller one
 	- [ ] 7x10 is perfect size, 8x6 is good too 

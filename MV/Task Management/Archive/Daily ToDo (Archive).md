@@ -790,3 +790,10 @@ scheduled today
 	- [x] 21x20
 - [x] Buy some rockstars 
 - [x] Set up usb switch
+#### October 16th 2024
+- [x] Hurricane prep
+	- [x] patio furniture in garage or house
+- [x] hours
+- [x] move peloton upstairs
+- [x] order stamps
+- [x] Follow up with Brandi for increase then call mrcooper
