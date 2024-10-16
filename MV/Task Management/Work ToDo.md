@@ -8,13 +8,10 @@
 ---
 
 ## Tasks
-- [x] Update task planner
-	- [x] Audit (account update list) by tuesday the 15th
 - [ ] Make dashboard work checklist
-- [x] Create [[ACM Master DB]] template and mapping
+	- [ ] Create QA_Verification Page in [[OEM Data Modeling]] file
+	- [ ] Try Example Row and Fill it out with sql data
 - [ ] Update [[Philips]] and [[Testing Suite]]
-- [x] Refactor into Components
-- [x] Show functionality in [[Knime]] 
 - [ ] meet with mallory once completed
 - [ ] Update [[Philips]] consumables data and apply the override file
 	- [ ] Apply on comparison string, might need multiple

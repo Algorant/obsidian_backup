@@ -499,3 +499,9 @@
 #### October 11th 2024
 - [x] Look for other prime IDN accounts
 - [x] Add clients 
+#### October 16th 2024
+- [x] Show functionality in [[Knime]] 
+- [x] Refactor into Components 
+- [x] Create [[ACM Master DB]] template and mapping
+- [x] Update task planner
+	- [x] Audit (account update list) by tuesday the 15th
