@@ -10,8 +10,14 @@
 ## Tasks
 - [ ] Make dashboard work checklist
 	- [ ] Create QA_Verification Page in [[OEM Data Modeling]] file
-	- [ ] Try Example Row and Fill it out with sql data
+	- [ ] Re-Run Philips Consumables and refactor to script
+	- [ ] Re-Run Testing Suite on ACM prod usage and refactor to script
 	- [ ] Status report 
+- [ ] ACM Re-factor
+	- [ ] Try Example Row and Fill it out with sql data
+	- [ ] Fill out sql updates in sql ide
+	- [ ] Get SQL Updates and run from python local
+	- [ ] add to script
 - [ ] Update [[Philips]] and [[Testing Suite]]
 - [ ] meet with mallory once completed
 - [ ] Update [[Philips]] consumables data and apply the override file
