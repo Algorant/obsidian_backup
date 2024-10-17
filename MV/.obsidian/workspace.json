@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+                "file": "Task Management/Daily ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+                "file": "Task Management/Daily ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md"
+                "file": "Task Management/Daily ToDo.md"
               }
             }
           }
@@ -182,8 +182,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5156aee877704a10",
+  "active": "1eeae18f4e7c935c",
   "lastOpenFiles": [
+    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+    "Task Management/Daily ToDo.md",
+    "Daily Notes/October 10th 2024.md",
     "New Notes/Books Read By Year.md",
     "Knowledge Base/Media/Books/The Well of Ascension.md",
     "Knowledge Base/Media/Books/The Hero of Ages.md",
@@ -199,9 +202,6 @@
     "Knowledge Base/Media/Books/Rhythm of War.md",
     "Knowledge Base/Media/Books/Elantris.md",
     "Knowledge Base/Media/Books/Dawnshard.md",
-    "Task Management/Daily ToDo.md",
-    "Daily Notes/October 10th 2024.md",
-    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
     "Daily Notes/October 14th 2024.md",
     "Projects/FF/League Organization API.md",
     "Daily Notes/October 11th 2024.md",

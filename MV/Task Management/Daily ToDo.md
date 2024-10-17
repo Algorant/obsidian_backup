@@ -91,7 +91,7 @@ scheduled today
 	- [ ] [[Rust By Practice]] 
 ##### Neovim
 - [ ] Things to configure
-	- [ ] Terminal / toggleterm
+	- [x] Terminal / toggleterm
 	- [x] flash
 		- [ ] learn the hotkeys better
 	- [ ] Harpoon 
