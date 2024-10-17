@@ -95,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1eeae18f4e7c935c",
+  "active": "5694dde33e4d795b",
   "lastOpenFiles": [
     "Untitled",
     "Daily Notes/October 17th 2024.md",

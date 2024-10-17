@@ -25,12 +25,10 @@ scheduled today
 	- [ ] [[Figure Lending]]
 	- [ ] [[Tesla]]
 - [ ] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
-- [x] buy ziplocks
-- [x] buy roach spray 
 - [ ] look into opthalmology appt  
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
-	- [ ] look into adding roms
+	- [ ] look into adding roms 
 		- [ ] nes, snes, n64 collections to start
 - [ ] buy hot water filter
 

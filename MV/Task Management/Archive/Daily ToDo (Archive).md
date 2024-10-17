@@ -797,3 +797,6 @@ scheduled today
 - [x] move peloton upstairs
 - [x] order stamps
 - [x] Follow up with Brandi for increase then call mrcooper
+#### October 17th 2024
+- [x] buy roach spray 
+- [x] buy ziplocks
