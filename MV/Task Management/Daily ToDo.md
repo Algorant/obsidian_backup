@@ -15,6 +15,7 @@ scheduled today
 ---
 #### General
 
+- [ ] Talk to David about [[HELOC]] restructure
 - [ ] Bills
 	- [ ] [[CSIDFL]]
 	- [ ] [[FPL]]
@@ -24,17 +25,14 @@ scheduled today
 	- [ ] [[Figure Lending]]
 	- [ ] [[Tesla]]
 - [ ] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
-- [ ] buy ziplocks
-- [ ] buy roach spray 
+- [x] buy ziplocks
+- [x] buy roach spray 
 - [ ] look into opthalmology appt  
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
 	- [ ] look into adding roms
 		- [ ] nes, snes, n64 collections to start
-
 - [ ] buy hot water filter
-- [ ] buy rug for office, smaller one
-	- [ ] 7x10 is perfect size, 8x6 is good too 
 
 ---
 

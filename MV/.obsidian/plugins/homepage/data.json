@@ -17,7 +17,24 @@
       "commands": [],
       "alwaysApply": false,
       "hideReleaseNotes": false
+    },
+    "Mobile Homepage": {
+      "value": "Home",
+      "kind": "Nothing",
+      "openOnStartup": true,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Default view",
+      "revertView": true,
+      "openWhenEmpty": true,
+      "refreshDataview": false,
+      "autoCreate": true,
+      "autoScroll": false,
+      "pin": true,
+      "commands": [],
+      "alwaysApply": false,
+      "hideReleaseNotes": false
     }
   },
-  "separateMobile": false
+  "separateMobile": true
 }

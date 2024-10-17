@@ -1,7 +1,6 @@
 [
   "obsidian-banners",
   "better-word-count",
-  "dataview",
   "periodic-notes",
   "obsidian-minimal-settings",
   "obsidian-file-color",
@@ -15,5 +14,5 @@
   "obsidian-hider",
   "obsidian-style-settings",
   "homepage",
-  "obsidian-excalidraw-plugin"
+  "dataview"
 ]
