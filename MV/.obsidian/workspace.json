@@ -8,27 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f43afb7c4e0e96a6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/October 10th 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1eeae18f4e7c935c",
+            "id": "b5fc2f1c3f700bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Daily Notes/October 18th 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf0bfbe3eea67ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/October 18th 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Daily Notes/October 18th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Daily Notes/October 18th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Management/Daily ToDo.md"
+                "file": "Daily Notes/October 18th 2024.md"
               }
             }
           }
@@ -183,11 +181,14 @@
   },
   "active": "5694dde33e4d795b",
   "lastOpenFiles": [
-    "Untitled",
-    "Daily Notes/October 17th 2024.md",
-    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+    "Daily Notes/October 18th 2024.md",
     "Task Management/Daily ToDo.md",
     "Daily Notes/October 10th 2024.md",
+    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+    "Knowledge Base/Computers/Software/Prowlarr.md",
+    "New Notes/myanonymouse.md",
+    "Untitled",
+    "Daily Notes/October 17th 2024.md",
     "New Notes/Books Read By Year.md",
     "Knowledge Base/Media/Books/The Well of Ascension.md",
     "Knowledge Base/Media/Books/The Hero of Ages.md",
@@ -207,8 +208,6 @@
     "Projects/FF/League Organization API.md",
     "Daily Notes/October 11th 2024.md",
     "Task Management/Archive/League Organization API (Archive).md",
-    "New Notes/gruvbox.md",
-    "Daily Notes/October 9th 2024.md",
     "Daily Notes/Archive/Sept 2024",
     "Daily Notes/Archive/August 2024",
     "Obsidian",
@@ -219,7 +218,6 @@
     "Knowledge Base/Media/Games/Game Notes/Street Fighter 6",
     "Daily Notes/Archive/July 2024",
     "Knowledge Base/Computers/Domains/Software Engineering",
-    "Knowledge Base/Computers/Languages/C",
     "Misc/Media/Pasted image 20240319093702.png",
     "Dashboards/Canvas/Task Canvas.canvas",
     "Misc/Media/pngtree-an-old-bookcase-in-a-library-image_2642908.png",
