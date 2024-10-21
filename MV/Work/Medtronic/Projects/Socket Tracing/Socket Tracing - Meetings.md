@@ -2,6 +2,11 @@
 #### 2024-10-21 [[Socket Tracing]] Meeting 
 - Discussed Audit Log
 	- There was an unaligned under Baxter
+	- On Trend Line
+		- remove certified filter
+		- basically shows only philips data
+		- these are the level sets
+		- 
 
 #### 2024/07/24 [[Socket Tracing]] Meeting
 - Questions for Meeting for BIS/INVOS/NELLCOR dashboard
