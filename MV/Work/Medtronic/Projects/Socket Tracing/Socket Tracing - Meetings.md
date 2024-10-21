@@ -1,3 +1,8 @@
+
+#### 2024-10-21 [[Socket Tracing]] Meeting 
+- Discussed Audit Log
+	- There was an unaligned under Baxter
+
 #### 2024/07/24 [[Socket Tracing]] Meeting
 - Questions for Meeting for BIS/INVOS/NELLCOR dashboard
 	- What would you like to see?
