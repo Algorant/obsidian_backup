@@ -8,6 +8,8 @@
 ---
 
 ## Tasks
+- [ ] Make [[BIS INVOS TABLE AND DASHBOARD]] plan
+	- [ ] 
 - [ ] Make dashboard work checklist
 	- [ ] Create QA_Verification Page in [[OEM Data Modeling]] file
 	- [ ] Re-Run Philips Consumables and refactor to script
