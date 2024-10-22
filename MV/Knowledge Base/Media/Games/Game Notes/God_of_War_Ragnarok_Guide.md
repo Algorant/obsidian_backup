@@ -3343,7 +3343,7 @@ Opposite wall to find one of those Triskel Locks we couldn’t open till now
 Open it with the help of Freya
 Move up, use 3 Max Sigils to burn the vines
 D-Pad up to Switch to Sonic Arrows
-Shoot the sound stone
+Shoot the sound stone 
 Row until the boat dock
 Loot artefact on the ground:
           Skrnir’s Crest
