@@ -16,6 +16,12 @@ scheduled today
 #### General
 
 - [ ] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
+- [ ] [[🎥 Movieclub Movies]]
+	- [ ] Agenda
+	- [ ] [[Roth]], [[Stephen]], and [[Ben]] presentations
+	- [ ] Stack rank year in review
+	- [ ] Plan for next year
+		- [ ] Movies again? then new genre
 - [ ] Bills
 	- [ ] [[CSIDFL]]
 	- [x] [[FPL]]
