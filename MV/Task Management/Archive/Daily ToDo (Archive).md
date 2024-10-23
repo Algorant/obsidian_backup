@@ -800,3 +800,7 @@ scheduled today
 #### October 17th 2024
 - [x] buy roach spray 
 - [x] buy ziplocks
+#### October 22nd 2024
+- [x] look into opthalmology appt  
+- [x] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
+- [x] Talk to David about [[HELOC]] restructure

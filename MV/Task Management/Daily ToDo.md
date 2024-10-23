@@ -15,17 +15,15 @@ scheduled today
 ---
 #### General
 
-- [ ] Talk to David about [[HELOC]] restructure
+- [ ] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
 - [ ] Bills
 	- [ ] [[CSIDFL]]
-	- [ ] [[FPL]]
+	- [x] [[FPL]]
 	- [ ] [[Service Experts]]
 	- [ ] [[CBR]]
 	- [ ] [[HOA]]
 	- [ ] [[Figure Lending]]
-	- [ ] [[Tesla]]
-- [ ] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
-- [ ] look into opthalmology appt  
+	- [x] [[Tesla]]
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware
 	- [ ] look into adding roms 
