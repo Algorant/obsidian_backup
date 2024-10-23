@@ -23,11 +23,11 @@ scheduled today
 	- [ ] Plan for next year
 		- [ ] Movies again? then new genre
 - [ ] Bills
-	- [ ] [[CSIDFL]]
+	- [x] [[CSIDFL]]
 	- [x] [[FPL]]
 	- [ ] [[Service Experts]]
 	- [ ] [[CBR]]
-	- [ ] [[HOA]]
+	- [x] [[HOA]]
 	- [ ] [[Figure Lending]]
 	- [x] [[Tesla]]
 - [ ] mess with [[Anbernic]] stuff
