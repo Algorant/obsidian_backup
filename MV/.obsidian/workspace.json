@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily ToDo"
+              "title": "Backlinks for God_of_War_Ragnarok_Guide"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily ToDo"
+              "title": "Outgoing links from God_of_War_Ragnarok_Guide"
             }
           },
           {
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Management/Daily ToDo.md"
+                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily ToDo"
+              "title": "Outline of God_of_War_Ragnarok_Guide"
             }
           }
         ]
@@ -200,11 +200,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aacc4cb80293af0f",
+  "active": "0c0723cc24c336cc",
   "lastOpenFiles": [
+    "Task Management/Daily ToDo.md",
     "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
     "New Notes/Movies/1776.md",
-    "Task Management/Daily ToDo.md",
     "Daily Notes/October 22nd 2024.md",
     "Daily Notes/October 19th 2024.md",
     "Daily Notes/October 21st 2024.md",

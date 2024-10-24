@@ -15,7 +15,10 @@ scheduled today
 ---
 #### General
 
-- [ ] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
+- [x] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
+- [ ] Buy night lights for kids room
+- [ ] [[Wild Kratts]] show tickets
+- [ ] Plan out [[Streetlight Manifesto]] trip
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
 	- [ ] [[Roth]], [[Stephen]], and [[Ben]] presentations
