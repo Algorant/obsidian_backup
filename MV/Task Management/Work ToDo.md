@@ -9,7 +9,6 @@
 
 ## Tasks
 - [ ] Make [[BIS INVOS TABLE AND DASHBOARD]] plan
-- [ ] 
 - [ ] Make dashboard work checklist
 	- [ ] Create QA_Verification Page in [[OEM Data Modeling]] file
 	- [ ] Re-Run Philips Consumables and refactor to script
@@ -23,12 +22,9 @@
 	- [ ] Fill out sql updates in sql ide
 	- [ ] Get SQL Updates and run from python local
 	- [ ] add to script
-- [ ] Update [[Philips]] and [[Testing Suite]]
-- [ ] meet with mallory once completed
 - [ ] Update [[Philips]] consumables data and apply the override file
 	- [ ] Apply on comparison string, might need multiple
 	- [ ] Alternatively: name and cust_id combo
-- [ ] Learn who is mirth expert now?
 - [ ] Get location of salesforce data from [[Allison]]
 - [[BIS INVOS TABLE AND DASHBOARD]]
 	- Documentation
