@@ -16,6 +16,7 @@ scheduled today
 #### General
 
 - [x] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
+- [ ] Follow up on [[HELOC]]
 - [ ] Buy night lights for kids room
 - [ ] [[Wild Kratts]] show tickets
 - [ ] Plan out [[Streetlight Manifesto]] trip
