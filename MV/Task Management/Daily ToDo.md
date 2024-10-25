@@ -17,9 +17,9 @@ scheduled today
 
 - [x] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
 - [x] Follow up on [[HELOC]]
-- [ ] Buy night lights for kids room
-- [ ] [[Wild Kratts]] show tickets
-- [ ] good towels and hand towels
+- [x] Buy night lights for kids room
+- [x] [[Wild Kratts]] show tickets
+- [x] good towels and hand towels
 - [ ] Plan out [[Streetlight Manifesto]] trip
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
