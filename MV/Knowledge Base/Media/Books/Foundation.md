@@ -15,3 +15,7 @@ tags:
 - `="![Cover|200](" + this.cover + ")"`
 ---
 #### Notes 
+
+I read the series in [machete](https://www.reddit.com/r/asimov/wiki/seriesguide/) order, roughly. I robot has two different collections going on. I read the original
+
+Some of the audiobooks were hard to come by so I made them custom from youtube. I will have to recreate them.

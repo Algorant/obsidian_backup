@@ -15,11 +15,6 @@ scheduled today
 ---
 #### General
 
-- [x] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
-- [x] Follow up on [[HELOC]]
-- [x] Buy night lights for kids room
-- [x] [[Wild Kratts]] show tickets
-- [x] good towels and hand towels
 - [ ] Plan out [[Streetlight Manifesto]] trip
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
@@ -33,7 +28,7 @@ scheduled today
 	- [ ] [[Service Experts]]
 	- [ ] [[CBR]]
 	- [x] [[HOA]]
-	- [ ] [[Figure Lending]]
+	- [x] [[Figure Lending]]
 	- [x] [[Tesla]]
 - [ ] mess with [[Anbernic]] stuff
 	- [ ] look into custom firmware

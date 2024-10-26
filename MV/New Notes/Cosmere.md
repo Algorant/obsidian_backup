@@ -1,0 +1,15 @@
+- Sando says do something like [this](https://www.youtube.com/watch?v=0mC8dsQJK7w)
+- [[Misborn]] Trilogy
+- [[Warbreaker]]
+- [[Tress of the Emerald Sea]]
+- [[Elantris]]
+- [[Wax & Wayne]] Books 1-4 aka [[Mistborn]] 4-7
+- [[Stormlight 1]]
+- [[Yumi the Nightmare Painter]]
+- [[Stormlight 2]] 
+- [[Edgedancer]]
+- [[Stormlight 3]]
+- [[Dawnshard]]
+- [[Stormlight 4]]
+- [[The Sunlit Man]]
+- [[Stormlight 5]]

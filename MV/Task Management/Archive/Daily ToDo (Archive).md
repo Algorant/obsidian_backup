@@ -804,3 +804,9 @@ scheduled today
 - [x] look into opthalmology appt  
 - [x] [[Work]] do mallory prototype first, then work on [[Socket Tracing]]
 - [x] Talk to David about [[HELOC]] restructure
+#### October 25th 2024
+- [x] good towels and hand towels
+- [x] [[Wild Kratts]] show tickets 
+- [x] Buy night lights for kids room
+- [x] Follow up on [[HELOC]]
+- [x] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
