@@ -60,7 +60,7 @@
           },
           "insertAfter": {
             "enabled": true,
-            "after": "### Video",
+            "after": "## Links",
             "insertAtEnd": false,
             "considerSubsections": true,
             "createIfNotFound": true,
@@ -85,17 +85,17 @@
           "captureTo": "Daily Notes/{{DATE:MMMM Do YYYY}}.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
-            "enabled": false,
+            "enabled": true,
             "createWithTemplate": false,
             "template": ""
           },
           "format": {
             "enabled": true,
-            "format": "- {{value}}{{value}}"
+            "format": "- Type: Link\n     - Tags: \n     - Description: \n     - [Link]({{value}})"
           },
           "insertAfter": {
             "enabled": true,
-            "after": "### Links",
+            "after": "## Links",
             "insertAtEnd": true,
             "considerSubsections": false,
             "createIfNotFound": false,
@@ -151,7 +151,7 @@
     },
     {
       "id": "263a55f7-d482-4798-b1d0-5d5a72da0512",
-      "name": "ToDo",
+      "name": "Task",
       "type": "Multi",
       "command": false,
       "choices": [
@@ -296,7 +296,7 @@
           "openFileInMode": "default"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "682227fc-f5fb-4189-b50f-d67d7e511250",
@@ -446,50 +446,6 @@
         }
       ],
       "collapsed": false
-    },
-    {
-      "id": "e93f629c-25be-4062-8c40-b4994e2448a9",
-      "name": "Misc",
-      "type": "Multi",
-      "command": false,
-      "choices": [
-        {
-          "id": "3d45f72f-a5cc-4c5b-985e-5d0a7623c3a3",
-          "name": "💬  Quotes",
-          "type": "Capture",
-          "command": true,
-          "appendLink": false,
-          "captureTo": "Knowledge Base/💬 Quotes.md",
-          "captureToActiveFile": false,
-          "createFileIfItDoesntExist": {
-            "enabled": false,
-            "createWithTemplate": false,
-            "template": ""
-          },
-          "format": {
-            "enabled": true,
-            "format": "*\"{{value}}\"* | [[#quote-author]] | [[#quote-source]] "
-          },
-          "insertAfter": {
-            "enabled": false,
-            "after": "#### QuickAdd",
-            "insertAtEnd": false,
-            "considerSubsections": false,
-            "createIfNotFound": true,
-            "createIfNotFoundLocation": "bottom"
-          },
-          "prepend": true,
-          "task": false,
-          "openFileInNewTab": {
-            "enabled": false,
-            "direction": "vertical",
-            "focus": true
-          },
-          "openFile": false,
-          "openFileInMode": "default"
-        }
-      ],
-      "collapsed": true
     }
   ],
   "macros": [],
