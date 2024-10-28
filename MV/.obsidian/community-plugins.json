@@ -3,5 +3,9 @@
   "obsidian-file-color",
   "quickadd",
   "obsidian-task-archiver",
-  "dataview"
+  "dataview",
+  "obsidian-hider",
+  "obsidian-outliner",
+  "obsidian-book-search-plugin",
+  "obsidian-media-db-plugin"
 ]

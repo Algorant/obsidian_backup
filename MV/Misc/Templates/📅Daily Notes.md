@@ -14,11 +14,3 @@ LIMIT 5
 
 ---
 ## Mind-dump
-
-### Tweets
-
----
-### Videos
-
----
-### Links 
