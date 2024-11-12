@@ -91,3 +91,10 @@
 		- Other useful metrics
 		- How to update?
 			- replace sedation percentages, with total consumables, then when you hover you will see direct consumables vs philips consumables
+			- 
+- standalone = any hardware where 
+- targeting list
+	- anything over 110%
+	- monthly socket utilization: anything over 100 is unreliable
+		- can go to anything over 50 even if needed
+	- See what customer amounts are after that

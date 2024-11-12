@@ -505,3 +505,6 @@
 - [x] Create [[ACM Master DB]] template and mapping
 - [x] Update task planner
 	- [x] Audit (account update list) by tuesday the 15th
+#### November 1st 2024
+- [x] investigate issues and highlight 
+- [x] make report

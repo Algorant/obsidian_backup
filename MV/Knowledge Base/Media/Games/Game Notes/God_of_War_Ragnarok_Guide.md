@@ -5486,7 +5486,7 @@ Check that tunnel for 3 pouches:
 
  
 Go back, west use Blades to blow up the flammable keg
-Move up, kill 2 Grims
+Move up, kill 2 Grims 
 Combat tips:
 
 

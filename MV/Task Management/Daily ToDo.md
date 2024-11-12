@@ -11,11 +11,21 @@ scheduled today
 [[Blog]]
 [[League Organization API]]
 
+-Trump will murder political opponents
+-Trump will suspend the constitution
+-Trump will legislatively silence the media (executive order?)
+-Trump is a "dictator on day 1"
+
 
 ---
 #### General
 
-- [ ] Plan out [[Streetlight Manifesto]] trip
+- [ ] Open Enrollment Fixes for [[Bodin|Bo]] and [[Nova|Novi]]
+- [ ] closing
+	- [ ] figure
+	- [ ] amex
+	- [ ] chase
+	- [ ] service experts
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
 	- [ ] [[Roth]], [[Stephen]], and [[Ben]] presentations
@@ -30,7 +40,7 @@ scheduled today
 	- [x] [[HOA]]
 	- [x] [[Figure Lending]]
 	- [x] [[Tesla]]
-- [ ] mess with [[Anbernic]] stuff
+- [ ] mess with [[Anbernic]] stuff 
 	- [ ] look into custom firmware
 	- [ ] look into adding roms 
 		- [ ] nes, snes, n64 collections to start

@@ -810,3 +810,6 @@ scheduled today
 - [x] Buy night lights for kids room
 - [x] Follow up on [[HELOC]]
 - [x] [[HELOC]] get confirmation in writing from Dylan or other Disys person 
+#### November 8th 2024
+- [x] wheel of time for Michael 
+- [x] Plan out [[Streetlight Manifesto]] trip

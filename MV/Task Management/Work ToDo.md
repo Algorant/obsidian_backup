@@ -8,7 +8,44 @@
 ---
 
 ## Tasks
-- [ ] Make [[BIS INVOS TABLE AND DASHBOARD]] plan
+- [ ] Do [[Mallory]] work
+- [ ] do [[Zoll]] work
+	- [ ] US first
+	- [ ] Filter consumables vs hardware
+	- [ ] Infer Dates from Filename
+- [ ] [[Philips Consumables]] refactor
+	- [ ] Change Raw_Results to OEM
+	- [ ] add 'Source' as philips consumables
+	- [ ] Remove Matchfile as intermediate step, just take all the rows from OEM file (Name, City, State, Zip (as 5), Country, Comparison String )
+	- [ ] verify leading zeroes being used for match (as strings?)
+	- [ ] Create threshold and Split matched with unmatched and add metrics
+	- [ ] Figure out Override process (use old files for now)
+- [ ] Reuse the code and apply to Draeger and Nihon Kohden
+- [ ] Add everything to the same files
+	- [ ] One masterfile
+	- [ ] One Uploadfile
+- [ ] Create same process for GE_BISX and ApexPro
+- [[BIS INVOS TABLE AND DASHBOARD]]
+	- [ ] Create Master List and Populate
+		- Include Source File, Comparison String Format and OEM
+	- [ ] Create Uploading Creation File
+		- Get each individual OEM, then combine
+	- Create Master Unmatched File
+		- Inclu
+- [x] Make [[BIS INVOS TABLE AND DASHBOARD]] plan
+	- [ ] Ask [[Eric]] if we are going to get new procedural data for [[BIS INVOS TABLE AND DASHBOARD]]
+		- [ ] From Eric: new procedural data
+		- [ ] From Ivan/James: direct sales
+		- [ ] From Ivan: QA procedure and 
+	- [ ] Data matching
+	- [ ] Data Upload
+	- [ ] QA testing
+	- [ ] Add extra column on certified customers
+		- [ ] MATL Lv5 code is zcc50
+	- [[INVOS]] is the same as "Regional Saturation" 
+		- ZCB60 = BIS
+		- ZCR60 = INVOS
+		- ZCO60 = OXIMETRY
 - [ ] Make dashboard work checklist
 	- [ ] Create QA_Verification Page in [[OEM Data Modeling]] file
 	- [ ] Re-Run Philips Consumables and refactor to script

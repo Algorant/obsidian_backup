@@ -35,40 +35,58 @@ All should be mutually exclusive, meaning each veteran appears in only one
 		- Shows VISNs for each region
 
 - Columns
-	- ICN
+	- [x] ICN
 		- Patient Member id?
-	- VISN
+	- [x] VISN in Blue
+		- [ ] Acute Care Management: Breaks down 
 		- VA Location
 		- MemberId -> MemberFAcility -> RegionFacility -> Region
-	- Site (managed group)
+		- sproc: sel_FacilityByMemberId
+		- VISN is superset, Site would be the actual facility (city)
+			- Visn 11, could have miami and ft myers
+	- [x] Site (managed group) in Red
 		- MemberDetail.ManagedGroupId
 		- MemberId -> ManagedGroupId
-	- Platform
+		- In above sproc there is information relating to managed group
+	- [x] Platform in Purple
+		- sproc: sel_DeviceRegistration
 		- DeviceType for DeviceName
 		- DeviceRegistration for DeviceRegistrationId
 		- MemberId -> DeviceRegistration.DeviceRegistrationId, UnitID
-	- Primary DMP
+		- Note: Ask James about headless hub for teleresponse (tele with vsrn)
+	- [x] Primary DMP in Orange
+		- sproc: sel_DeviceRegistration
 		- Diabetes platform?
-		- Needs DiseaseProgram (for program name), 
+		- Needs DiseaseProgram (for program name),
+		- Split out DMP from number (which is a date for version control() 
 	- Comorbid DMP(s)
 		- FlexComorbidity.[Id, Name, Abbrev, DiseaseProgramId]
-	- Media version
+		- Can be multiple things, separated by comma
+	- [x] Media version in teal
 		- DeviceRegistration.DeviceRegistrationID, DeviceRegistration.MemberID, DeviceRegistration.MediaVersion
-	- Firmware version
+	- [x] Firmware version in teal
 		- DeviceRegistration.UnitVersion ??
 		- Just a guess
-	- Care Coordinator
+	- [x] Care Coordinator in Green
 		- Relationship.Profession (shows care coordinator)
 		- Relationship.RelationshipId
-	- Category of Care
+		- Lots of Empty Values
+		- Display as: First Name, Last name
+		- Clarify logic for System Assigned CC, not the other one, verify with Jim
+	- [ ] Category of Care
+		- Look at screenshot
+		- It's a VA term
 	- Days on Service
 		- ???
 		- Will do Current Date - Enrollment Date in days
-	- Enrollment Date
+	- [x] Enrollment Date
 		- MembersEnrolledInDateRange sproc
 		- MemberEnrollment.MemberID, MemberEnrollment.ActionDate where ActionID = 1 for date range
-	- Disenrollment Date
+	- [x] Disenrollment Date
 		- MemberEnrollment where not 1 for date range
+		- Enrollment Date - Disenrollment Date is DoS
+	- [ ] Possible Edge Case
+		- [ ] If previous enrollment, and also new enrollment, only keep most current
 
 ## Useful Tables
 - Relationship

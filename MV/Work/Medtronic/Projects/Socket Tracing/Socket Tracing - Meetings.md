@@ -1,4 +1,6 @@
-
+#### 2024-10-31
+- At risk accounts filter
+	- If standalone more than 10 and %age more than 100, filter out
 #### 2024-10-21 [[Socket Tracing]] Meeting 
 - Discussed Audit Log
 	- There was an unaligned under Baxter

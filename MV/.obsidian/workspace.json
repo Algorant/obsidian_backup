@@ -8,39 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8d1bf2b09ff59a2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/October 19th 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "October 19th 2024"
-            }
-          },
-          {
             "id": "0c0723cc24c336cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "God_of_War_Ragnarok_Guide"
-            }
-          },
-          {
-            "id": "aacc4cb80293af0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,22 +23,37 @@
             }
           },
           {
-            "id": "928f0fad147ce51c",
+            "id": "95163d12381ae828",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Notes/Bodin Typing Page.md",
+                "file": "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bodin Typing Page"
+              "title": "God_of_War_Ragnarok_Guide"
+            }
+          },
+          {
+            "id": "1f05436a132747c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/November 11th 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "November 11th 2024"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f47afba42c2230a",
@@ -143,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Daily Notes/October 28th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily ToDo"
+              "title": "Backlinks for October 28th 2024"
             }
           },
           {
@@ -162,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Daily Notes/October 28th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily ToDo"
+              "title": "Outgoing links from October 28th 2024"
             }
           },
           {
@@ -189,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Management/Daily ToDo.md"
+                "file": "Daily Notes/October 28th 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily ToDo"
+              "title": "Outline of October 28th 2024"
             }
           }
         ]
@@ -204,46 +186,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "aacc4cb80293af0f",
+  "active": "95163d12381ae828",
   "lastOpenFiles": [
+    "Daily Notes/November 12th 2024.md",
+    "Daily Notes/November 11th 2024.md",
+    "Daily Notes/November 10th 2024.md",
+    "Daily Notes/November 8th 2024.md",
+    "Task Management/Daily ToDo.md",
+    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
+    "Projects/Tech/Robochumba/axicli.md",
+    "Knowledge Base/Lists & Inventories/Books To-Read List.md",
+    "Daily Notes/November 7th 2024.md",
+    "Daily Notes/November 6th 2024.md",
+    "Daily Notes/October 31st 2024.md",
+    "Task Management/Work ToDo.md",
+    "Daily Notes/October 28th 2024.md",
+    "Daily Notes/October 29th 2024.md",
+    "New Notes/scribbles.md",
+    "Daily Notes/October 19th 2024.md",
+    "New Notes/Bodin Typing Page.md",
     "Daily Notes/October 27th 2024.md",
     "Daily Notes/2024-10-27.md",
     "New Notes/2024-10-27.md",
-    "New Notes/Bodin Typing Page.md",
     "New Notes/novi typing.md",
-    "Daily Notes/October 19th 2024.md",
     "New Notes/2024-10-24.md",
-    "Knowledge Base/Lists & Inventories/Books To-Read List.md",
     "New Notes/Cosmere.md",
     "Task Management/Archive/Books To-Read List (Archive).md",
     "Knowledge Base/Media/Books/Diaspora.md",
     "Knowledge Base/Media/Books/Foundation.md",
-    "Knowledge Base/Media/Books/The Quantum Thief.md",
-    "Task Management/Daily ToDo.md",
-    "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
-    "Daily Notes/October 24th 2024.md",
-    "New Notes/Movies/1776.md",
-    "Daily Notes/October 22nd 2024.md",
-    "Daily Notes/October 21st 2024.md",
-    "Daily Notes/October 20th 2024.md",
-    "New Notes/2024-10-19.md",
-    "Daily Notes/October 18th 2024.md",
-    "Daily Notes/October 10th 2024.md",
-    "Knowledge Base/Computers/Software/Prowlarr.md",
-    "New Notes/myanonymouse.md",
     "Untitled",
-    "Daily Notes/October 17th 2024.md",
     "Daily Notes/Archive/Sept 2024",
     "Daily Notes/Archive/August 2024",
     "Obsidian",
