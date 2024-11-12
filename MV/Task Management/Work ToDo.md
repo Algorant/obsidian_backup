@@ -8,11 +8,13 @@
 ---
 
 ## Tasks
-- [ ] Do [[Mallory]] work
+- [x] Do [[Mallory]] work
 - [ ] do [[Zoll]] work
 	- [ ] US first
 	- [ ] Filter consumables vs hardware
 	- [ ] Infer Dates from Filename
+- [ ] Writeup for [[Snowflake]] people
+	- [ ] what tables in which schema are being used
 - [ ] [[Philips Consumables]] refactor
 	- [ ] Change Raw_Results to OEM
 	- [ ] add 'Source' as philips consumables
