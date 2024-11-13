@@ -9,12 +9,19 @@
 
 ## Tasks
 - [x] Do [[Mallory]] work
+- [ ] Updates for tomorrow
+	- [ ] Push Full certification list for Microstream
+	- [ ] Fix various bugs in data
+	- [ ] 
 - [ ] do [[Zoll]] work
 	- [ ] US first
-	- [ ] Filter consumables vs hardware
-	- [ ] Infer Dates from Filename
+	- [ ] Infer Dates from Filename, set mid month
+	- [ ] Do fuzzy match
+	- [ ] categorize hardware, ask james for matching file if needed
 - [ ] Writeup for [[Snowflake]] people
 	- [ ] what tables in which schema are being used
+	- [ ] MITG, Global Main, others
+	- [ ] use Alteryx as a reference
 - [ ] [[Philips Consumables]] refactor
 	- [ ] Change Raw_Results to OEM
 	- [ ] add 'Source' as philips consumables
