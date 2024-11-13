@@ -12,7 +12,7 @@
 - [ ] Updates for tomorrow
 	- [ ] Push Full certification list for Microstream
 	- [ ] Fix various bugs in data
-	- [ ] 
+	- [ ] Find BIS hardware in direct sales
 - [ ] do [[Zoll]] work
 	- [ ] US first
 	- [ ] Infer Dates from Filename, set mid month
