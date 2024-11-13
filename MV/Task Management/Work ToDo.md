@@ -9,10 +9,14 @@
 
 ## Tasks
 - [x] Do [[Mallory]] work
+- [ ] Find what tables are used and what schema
+	- [ ] Glbl Main
+	- [ ] ES_MITG_COMMERCIAL_MAIN
 - [ ] Updates for tomorrow
 	- [ ] Push Full certification list for Microstream
-	- [ ] Fix various bugs in data
 	- [ ] Find BIS hardware in direct sales
+		- [ ] needs to be zcb50
+	- [ ] Fix various bugs in data
 - [ ] do [[Zoll]] work
 	- [ ] US first
 	- [ ] Infer Dates from Filename, set mid month
