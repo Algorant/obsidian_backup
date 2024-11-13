@@ -37,8 +37,7 @@
               "title": "November 11th 2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,12 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f05436a132747c6",
+  "active": "0c0723cc24c336cc",
   "lastOpenFiles": [
+    "Daily Notes/November 11th 2024.md",
     "Task Management/Daily ToDo.md",
     "Knowledge Base/Media/Games/Game Notes/God_of_War_Ragnarok_Guide.md",
     "Daily Notes/November 12th 2024.md",
-    "Daily Notes/November 11th 2024.md",
     "Daily Notes/November 10th 2024.md",
     "Daily Notes/November 8th 2024.md",
     "Projects/Tech/Robochumba/axicli.md",

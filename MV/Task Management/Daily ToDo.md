@@ -21,6 +21,10 @@ scheduled today
 #### General
 
 - [ ] Open Enrollment Fixes for [[Bodin|Bo]] and [[Nova|Novi]]
+- [ ] [[heloc]]
+	- [ ] 949-527-7091 tina nguyen
+	- [ ] 949-265-4593 tracy archuleta
+	- [ ] 
 - [ ] closing
 	- [ ] figure
 	- [ ] amex
