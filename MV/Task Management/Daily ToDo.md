@@ -67,9 +67,11 @@ scheduled today
 	- [ ] Return Home
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 #### Shop
+- [ ] Fix awning on Dollhouse
+- [ ] Create Solution for Picnic Table Birdfeeder
+- [ ] Build Workout Board
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
-- [ ] Build Workout Board
 - [ ] Build new [[Table Saw Table]]
 	- [ ] Index it to the right side to retain fence capabilities
 	- [ ] Cut MDF parts for front
