@@ -70,6 +70,7 @@ scheduled today
 - [ ] Fix awning on Dollhouse
 - [ ] Create Solution for Picnic Table Birdfeeder
 - [ ] Build Workout Board
+	- [ ] 24'' x 11''
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
 - [ ] Build new [[Table Saw Table]]
