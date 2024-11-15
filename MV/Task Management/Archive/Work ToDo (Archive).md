@@ -508,3 +508,27 @@
 #### November 1st 2024
 - [x] investigate issues and highlight 
 - [x] make report
+#### November 15th 2024
+- [x] Writeup for [[Snowflake]] people 
+	- [x] what tables in which schema are being used
+	- [x] MITG, Global Main, others
+	- [x] use Alteryx as a reference
+- [x] do [[Zoll]] work
+	- [x] US first
+	- [x] Infer Dates from Filename, set mid month
+	- [x] Do fuzzy match
+	- [x] categorize hardware, ask james for matching file if needed
+- [x] Updates for tomorrow
+	- [x] Push Full certification list for Microstream
+	- [x] Find BIS hardware in direct sales
+		- [x] needs to be zcb50
+	- [x] Fix various bugs in data 
+- [x] Find what tables are used and what schema
+	- [x] Glbl Main
+	- [x] ES_MITG_COMMERCIAL_MAIN
+- [x] Things not in global main
+	- [x] rep alignment
+	- [x] explore space stuff
+		- [x] we want a snowflake to hold this data, like in explore space
+		- [x] nobody is doing these
+- [x] Do [[Mallory]] work
