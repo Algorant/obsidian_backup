@@ -1,21 +1,10 @@
 
 ---
-### Recurring
-```tasks
-scheduled today
-```
-
 
 ## Quick Links
 
 [[Blog]]
 [[League Organization API]]
-
--Trump will murder political opponents
--Trump will suspend the constitution
--Trump will legislatively silence the media (executive order?)
--Trump is a "dictator on day 1"
-
 
 ---
 #### General
@@ -24,29 +13,12 @@ scheduled today
 - [ ] hours
 - [ ] bsky acct
 - [ ] unfurl project
-- [ ] [[heloc]]
-	- [ ] 949-527-7091 tina nguyen
-	- [ ] 949-265-4593 tracy archuleta
-	- [ ] 
-- [ ] closing
-	- [ ] figure
-	- [ ] amex
-	- [ ] chase
-	- [ ] service experts
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
 	- [ ] [[Roth]], [[Stephen]], and [[Ben]] presentations
 	- [ ] Stack rank year in review
 	- [ ] Plan for next year
 		- [ ] Movies again? then new genre
-- [ ] Bills
-	- [x] [[CSIDFL]]
-	- [x] [[FPL]]
-	- [ ] [[Service Experts]]
-	- [ ] [[CBR]]
-	- [x] [[HOA]]
-	- [x] [[Figure Lending]]
-	- [x] [[Tesla]]
 - [ ] mess with [[Anbernic]] stuff 
 	- [ ] look into custom firmware
 	- [ ] look into adding roms 

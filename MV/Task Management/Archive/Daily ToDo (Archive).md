@@ -813,3 +813,21 @@ scheduled today
 #### November 8th 2024
 - [x] wheel of time for Michael 
 - [x] Plan out [[Streetlight Manifesto]] trip
+#### November 18th 2024
+- [x] Bills
+	- [x] [[CSIDFL]]
+	- [x] [[FPL]]
+	- [x] [[Service Experts]] 
+	- [x] [[CBR]]
+	- [x] [[HOA]]
+	- [x] [[Figure Lending]]
+	- [x] [[Tesla]]
+- [x] closing
+	- [x] figure
+	- [x] amex 
+	- [x] chase
+	- [x] service experts
+- [x] [[heloc]]
+	- [x] 949-527-7091 tina nguyen
+	- [x] 949-265-4593 tracy archuleta
+	- [x] 
