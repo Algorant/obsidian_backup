@@ -21,6 +21,9 @@ scheduled today
 #### General
 
 - [ ] Open Enrollment Fixes for [[Bodin|Bo]] and [[Nova|Novi]]
+- [ ] hours
+- [ ] bsky acct
+- [ ] unfurl project
 - [ ] [[heloc]]
 	- [ ] 949-527-7091 tina nguyen
 	- [ ] 949-265-4593 tracy archuleta
