@@ -9,7 +9,9 @@
 
 ## Tasks
 - [ ] 3 Questions Ask
-- [ ] Reply to [[Jing]]
+- [x] Reply to [[Jing]]
+- [ ] Get info from [[Eric]] sedation procedure data
+- [ ] 
 - [ ] Zoll metrics work
 - [ ] Mallory mockup 
 - [ ] [[Philips Consumables]] refactor
