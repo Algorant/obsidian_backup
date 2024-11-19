@@ -1,0 +1,3 @@
+- Get secret gourd
+- Ring all the buddha bells
+- 
