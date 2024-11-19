@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +212,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d1099c32c1637f9",
+  "active": "7ca83122884878a9",
   "lastOpenFiles": [
+    "Projects/FF/League Organization API.md",
     "Task Management/Daily ToDo.md",
     "Daily Notes/November 18th 2024.md",
     "New Notes/Black Myth Wukong.md",
@@ -240,7 +241,6 @@
     "Daily Notes/Archive/Oct 2024/October 19th 2024.md",
     "New Notes/Bodin Typing Page.md",
     "Daily Notes/Archive/Oct 2024/October 27th 2024.md",
-    "New Notes/2024-10-27.md",
     "Untitled",
     "Daily Notes/Archive/Sept 2024",
     "Daily Notes/Archive/August 2024",
