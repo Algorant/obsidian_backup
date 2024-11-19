@@ -53,3 +53,12 @@
 - [x] Get league links: 
 	- [x] league_id, league_url from full_league_data
 - [x] Home
+#### November 19th 2024
+- [x] [[streamlit]] refactor
+	- [x] Players
+		- [x] Add player status to df (will require refactor to api calls)
+	- [x] Leagues 
+		- [x] Get relevant info for individual leagues, record, standings, etc
+- [x] See if you can get Roster on the Side when a league is clicked. 
+	- [x] will need logic for if league is sleeper or mfl
+		- [x] get for id in rosters, get the name, pipe to list, show it as df

@@ -1,13 +1,9 @@
 
-## Refactor Todo
-- [x] [[streamlit]] refactor
-	- [x] Players
-		- [ ] Add player status to df (will require refactor to api calls)
-	- [ ] Leagues
-		- [ ] Get relevant info for individual leagues, record, standings, etc
-- [ ] See if you can get Roster on the Side when a league is clicked.
-	- [ ] will need logic for if league is sleeper or mfl
-		- [ ] get for id in rosters, get the name, pipe to list, show it as df
+## Todos
+- Playoff picture
+	- Clinched? 
+	- In contention?
+	- Round 1 Bye?
 ---
 #### Next Steps
 - Create analysis
