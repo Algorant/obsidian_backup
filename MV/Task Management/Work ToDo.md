@@ -8,11 +8,9 @@
 ---
 
 ## Tasks
-- [ ] 3 Questions Ask
-- [x] Reply to [[Jing]]
+- [ ] GE to microstream
+- [ ] Create same process for GE_BISX and ApexPro
 - [ ] Get info from [[Eric]] sedation procedure data
-- [ ] 
-- [ ] Zoll metrics work
 - [ ] Mallory mockup 
 - [ ] [[Philips Consumables]] refactor
 	- [ ] Change Raw_Results to OEM
@@ -25,7 +23,6 @@
 - [ ] Add everything to the same files
 	- [ ] One masterfile
 	- [ ] One Uploadfile
-- [ ] Create same process for GE_BISX and ApexPro
 - [[BIS INVOS TABLE AND DASHBOARD]]
 	- [ ] Create Master List and Populate
 		- Include Source File, Comparison String Format and OEM

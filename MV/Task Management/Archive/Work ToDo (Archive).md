@@ -532,3 +532,7 @@
 		- [x] we want a snowflake to hold this data, like in explore space
 		- [x] nobody is doing these
 - [x] Do [[Mallory]] work
+#### November 20th 2024
+- [x] Zoll metrics work 
+- [x] Reply to [[Jing]]
+- [x] 3 Questions Ask
