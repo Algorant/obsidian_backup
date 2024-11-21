@@ -15,11 +15,11 @@
 	- [ ] Clothes
 		- [ ] Pants and shirt worn
 		- [ ] 2 shirts, 2 shorts, 1 pants, 2 socks
-	- [ ] Backpack
-	- [ ] Laptop & Charger
+	- [x] Backpack
+	- [x] Laptop & Charger
 	- [ ] Power Bank and Cords
 	- [ ] Charge Car
-	- [ ] Things for Kids
+	- [x] Things for Kids
 - [ ] unfurl project
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
