@@ -9,16 +9,18 @@
 ---
 #### General
 
+- [ ] Make out checks and send overnight
 - [ ] bsky acct 
 - [ ] Pack for Trip
+	- [ ] Charge Car
 	- [ ] Cash for Lisa
+	- [ ] Blanket
 	- [ ] Clothes
 		- [ ] Pants and shirt worn
 		- [ ] 2 shirts, 2 shorts, 1 pants, 2 socks
 	- [x] Backpack
 	- [x] Laptop & Charger
 	- [ ] Power Bank and Cords
-	- [ ] Charge Car
 	- [x] Things for Kids
 - [ ] unfurl project
 - [ ] [[🎥 Movieclub Movies]]
