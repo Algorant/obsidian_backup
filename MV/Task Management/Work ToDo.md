@@ -9,9 +9,17 @@
 
 ## Tasks
 - [ ] GE to microstream
+- [ ] BIS Dashboard
+	- [ ] All BIS should be capitalized, no 'Bis'
+	- [ ] Total Beds vs OR beds: ask stakeholders
+	- [ ] Same 3 calcs for microstream?
+- [ ] OEM Global Dashboard
+	- [ ] Only sockets
+	- [ ] US vs global
+	- [ ] Select individual OEMs
 - [ ] Create same process for GE_BISX and ApexPro
-- [ ] Get info from [[Eric]] sedation procedure data
-- [ ] Mallory mockup 
+- [x] Get info from [[Eric]] sedation procedure data
+- [x] Mallory mockup 
 - [ ] [[Philips Consumables]] refactor
 	- [ ] Change Raw_Results to OEM
 	- [ ] add 'Source' as philips consumables
