@@ -831,3 +831,6 @@ scheduled today
 	- [x] 949-527-7091 tina nguyen
 	- [x] 949-265-4593 tracy archuleta
 	- [x] 
+#### November 21st 2024
+- [x] hours
+- [x] Open Enrollment Fixes for [[Bodin|Bo]] and [[Nova|Novi]]

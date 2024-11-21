@@ -9,9 +9,17 @@
 ---
 #### General
 
-- [ ] Open Enrollment Fixes for [[Bodin|Bo]] and [[Nova|Novi]]
-- [ ] hours
-- [ ] bsky acct
+- [ ] bsky acct 
+- [ ] Pack for Trip
+	- [ ] Cash for Lisa
+	- [ ] Clothes
+		- [ ] Pants and shirt worn
+		- [ ] 2 shirts, 2 shorts, 1 pants, 2 socks
+	- [ ] Backpack
+	- [ ] Laptop & Charger
+	- [ ] Power Bank and Cords
+	- [ ] Charge Car
+	- [ ] Things for Kids
 - [ ] unfurl project
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
