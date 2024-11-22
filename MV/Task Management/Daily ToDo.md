@@ -11,17 +11,19 @@
 
 - [x] Make out checks and send overnight
 - [ ] bsky acct 
-- [ ] Pack for Trip
-	- [ ] Charge Car
-	- [ ] Cash for Lisa
+- [ ] Trip
+	- [ ] Shower and shave
+	- [ ] Verify app and ticket
 	- [ ] Blanket
+	- [ ] Things for Kids
+	- [ ] Power Bank and Cords
 	- [ ] Clothes
-		- [ ] Pants and shirt worn
-		- [ ] 2 shirts, 2 shorts, 1 pants, 2 socks
+		- [x] Pants and shirt worn
+		- [x] 2 shirts, 2 shorts, 1 pants, 2 socks
+	- [x] Charge Car
+	- [x] Cash for Lisa
 	- [x] Backpack
 	- [x] Laptop & Charger
-	- [ ] Power Bank and Cords
-	- [ ] Things for Kids
 - [ ] unfurl project
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
