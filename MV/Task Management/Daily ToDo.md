@@ -9,7 +9,7 @@
 ---
 #### General
 
-- [ ] Make out checks and send overnight
+- [x] Make out checks and send overnight
 - [ ] bsky acct 
 - [ ] Pack for Trip
 	- [ ] Charge Car
@@ -21,7 +21,7 @@
 	- [x] Backpack
 	- [x] Laptop & Charger
 	- [ ] Power Bank and Cords
-	- [x] Things for Kids
+	- [ ] Things for Kids
 - [ ] unfurl project
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
