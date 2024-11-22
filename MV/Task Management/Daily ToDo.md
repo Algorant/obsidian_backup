@@ -11,6 +11,7 @@
 
 - [x] Make out checks and send overnight
 - [ ] bsky acct 
+- [ ] PGA 87b
 - [ ] Trip
 	- [ ] Shower and shave
 	- [ ] Verify app and ticket
