@@ -14,6 +14,8 @@
 - [ ] Should I do [[VA]] paperwork again?
 - [ ] GE to microstream
 - [ ] BIS Dashboard
+	- [ ] Get 50 customers
+	- [ ] Filter customer list to BIS only
 	- [ ] All BIS should be capitalized, no 'Bis'
 	- [ ] Total Beds vs OR beds: ask stakeholders
 	- [ ] Same 3 calcs for microstream?
