@@ -11,14 +11,14 @@
 
 - [x] Make out checks and send overnight
 - [ ] bsky acct 
-- [ ] PGA 87b
-- [ ] Trip
-	- [ ] Shower and shave
-	- [ ] Verify app and ticket
-	- [ ] Blanket
-	- [ ] Things for Kids
-	- [ ] Power Bank and Cords
-	- [ ] Clothes
+- [x] PGA 87b
+- [x] Trip
+	- [x] Shower and shave
+	- [x] Verify app and ticket
+	- [x] Blanket
+	- [x] Things for Kids
+	- [x] Power Bank and Cords
+	- [x] Clothes
 		- [x] Pants and shirt worn
 		- [x] 2 shirts, 2 shorts, 1 pants, 2 socks
 	- [x] Charge Car
