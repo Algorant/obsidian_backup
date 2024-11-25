@@ -9,9 +9,11 @@
 
 ## Tasks
 - [ ] Hours
-- [ ] New Ask for [[Vickie]]
-- [ ] [[Stryker]] ask
 - [ ] Should I do [[VA]] paperwork again?
+	- [ ] respond to stephanie
+- [x] New Ask for [[Vickie]]
+	- [ ] Asking for [[Salesforce]] data
+- [x] [[Stryker]] ask
 - [ ] GE to microstream
 - [ ] BIS Dashboard
 	- [ ] Get 50 customers
