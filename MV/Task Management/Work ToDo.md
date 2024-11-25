@@ -8,6 +8,10 @@
 ---
 
 ## Tasks
+- [ ] Hours
+- [ ] New Ask for [[Vickie]]
+- [ ] [[Stryker]] ask
+- [ ] Should I do [[VA]] paperwork again?
 - [ ] GE to microstream
 - [ ] BIS Dashboard
 	- [ ] All BIS should be capitalized, no 'Bis'
