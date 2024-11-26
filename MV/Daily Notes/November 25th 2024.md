@@ -12,5 +12,12 @@ LIMIT 5
 ---
 ## Journal
 
+There should be 5 organic conversations per week
+details:
+-10+ back and forths (so 5 messages each if 2 people, much less if more people)
+-2+ people
+-not started by me
+-not directed at me
+
 ---
 ## Links
