@@ -8,7 +8,7 @@
 ---
 
 ## Tasks
-- [ ] Hours
+- [x] Hours
 - [ ] Should I do [[VA]] paperwork again?
 	- [ ] respond to stephanie
 - [x] New Ask for [[Vickie]]
