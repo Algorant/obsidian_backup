@@ -10,9 +10,11 @@
 #### General
 
 - [ ] Workout
+- [ ] panthers game tickets
+- [ ] buy stamps
+- [ ] [[Robochumba]] [[Luckyland]]
 - [ ] Get Tree Down
 - [ ] bsky acct 
-- [ ] unfurl project
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
 	- [ ] [[Roth]], [[Stephen]], and [[Ben]] presentations
