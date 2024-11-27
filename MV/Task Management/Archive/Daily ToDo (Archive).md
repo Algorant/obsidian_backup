@@ -834,3 +834,19 @@ scheduled today
 #### November 21st 2024
 - [x] hours
 - [x] Open Enrollment Fixes for [[Bodin|Bo]] and [[Nova|Novi]]
+#### November 27th 2024
+- [x] Trip
+	- [x] Shower and shave
+	- [x] Verify app and ticket
+	- [x] Blanket
+	- [x] Things for Kids
+	- [x] Power Bank and Cords
+	- [x] Clothes
+		- [x] Pants and shirt worn
+		- [x] 2 shirts, 2 shorts, 1 pants, 2 socks
+	- [x] Charge Car
+	- [x] Cash for Lisa
+	- [x] Backpack
+	- [x] Laptop & Charger
+- [x] PGA 87b
+- [x] Make out checks and send overnight 
