@@ -10,10 +10,11 @@
 #### General
 
 - [ ] Workout
+- [ ] get checks back from cards
 - [ ] panthers game tickets
 - [ ] buy stamps
 - [ ] [[Robochumba]] [[Luckyland]]
-- [ ] Get Tree Down
+- [x] Get Tree Down
 - [ ] bsky acct 
 - [ ] [[🎥 Movieclub Movies]]
 	- [ ] Agenda
