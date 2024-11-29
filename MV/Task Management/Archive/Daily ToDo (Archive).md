@@ -850,3 +850,6 @@ scheduled today
 	- [x] Laptop & Charger
 - [x] PGA 87b
 - [x] Make out checks and send overnight 
+#### November 29th 2024
+- [x] Get Tree Down
+- [x] panthers game tickets
