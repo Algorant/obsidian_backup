@@ -11,7 +11,7 @@
 
 - [ ] Workout
 - [ ] get checks back from cards
-- [ ] panthers game tickets
+- [x] panthers game tickets
 - [ ] buy stamps
 - [ ] [[Robochumba]] [[Luckyland]]
 - [x] Get Tree Down
