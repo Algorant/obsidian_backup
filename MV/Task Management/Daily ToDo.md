@@ -29,6 +29,7 @@
 ---
 
 #### HoneyDos
+- [ ] fix drawer
 - [ ] caulk bathtub 
 - [ ] check ceiling leak
 - [ ] hang bird feeder 
@@ -43,10 +44,10 @@
 	- [ ] Return Home
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 #### Shop
-- [ ] Fix awning on Dollhouse
+- [x] Fix awning on Dollhouse
 - [ ] Create Solution for Picnic Table Birdfeeder
-- [ ] Build Workout Board
-	- [ ] 24'' x 11''
+- [x] Build Workout Board
+	- [x] 24'' x 11''
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
 - [ ] Build new [[Table Saw Table]]
