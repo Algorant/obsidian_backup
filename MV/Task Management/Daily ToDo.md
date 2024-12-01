@@ -10,7 +10,12 @@
 #### General
 
 - [x] Workout 
-- [ ] Advent of code
+- [ ] b-fi
+- [ ] tap42
+- [ ] bigbear
+- [ ] sarku
+- [ ] chipotle
+- [ ] [ ] Advent of code
 - [ ] get checks back from cards
 - [ ] lights fix
 - [ ] buy stamps
