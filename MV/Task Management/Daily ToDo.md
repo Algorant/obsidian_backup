@@ -11,7 +11,8 @@
 
 - [x] Workout 
 - [ ] get checks back from cards
-- [ ] lights
+- [ ] lights fix
+- [ ] Advent of code
 - [ ] buy stamps
 - [ ] [[Robochumba]] [[Luckyland]]
 - [ ] bsky acct 
