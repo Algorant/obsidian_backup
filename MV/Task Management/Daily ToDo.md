@@ -9,8 +9,9 @@
 ---
 #### General
 
-- [ ] Workout 
+- [x] Workout 
 - [ ] get checks back from cards
+- [ ] lights
 - [ ] buy stamps
 - [ ] [[Robochumba]] [[Luckyland]]
 - [ ] bsky acct 
