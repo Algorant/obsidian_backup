@@ -10,9 +10,9 @@
 #### General
 
 - [x] Workout 
+- [ ] Advent of code
 - [ ] get checks back from cards
 - [ ] lights fix
-- [ ] Advent of code
 - [ ] buy stamps
 - [ ] [[Robochumba]] [[Luckyland]]
 - [ ] bsky acct 
