@@ -853,3 +853,9 @@ scheduled today
 #### November 29th 2024
 - [x] Get Tree Down
 - [x] panthers game tickets
+#### December 2nd 2024
+- [x] Build Workout Board
+	- [x] 24'' x 11''
+- [x] Fix awning on Dollhouse
+- [x] lights fix
+- [x] Workout 

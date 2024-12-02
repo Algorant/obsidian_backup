@@ -9,16 +9,9 @@
 ---
 #### General
 
-- [x] Workout 
-- [ ] b-fi
-- [ ] tap42
-- [ ] bigbear
-- [ ] sarku
-- [ ] chipotle
-- [ ] [ ] Advent of code
 - [ ] get checks back from cards
-- [ ] lights fix
-- [ ] buy stamps
+- [ ]  Advent of code 
+- [x] buy stamps
 - [ ] [[Robochumba]] [[Luckyland]]
 - [ ] bsky acct 
 - [ ] [[🎥 Movieclub Movies]]
@@ -51,10 +44,7 @@
 	- [ ] Return Home
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 #### Shop
-- [x] Fix awning on Dollhouse
 - [ ] Create Solution for Picnic Table Birdfeeder
-- [x] Build Workout Board
-	- [x] 24'' x 11''
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
 - [ ] Build new [[Table Saw Table]]
