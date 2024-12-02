@@ -13,7 +13,6 @@
 	- [ ] 
 - [ ] get checks back from cards
 - [ ]  Advent of code 
-- [x] buy stamps
 - [ ] [[Robochumba]] [[Luckyland]]
 - [ ] bsky acct 
 - [ ] [[🎥 Movieclub Movies]]
@@ -84,19 +83,16 @@
 	- [ ] [[Rust By Practice]] 
 ##### Neovim
 - [ ] Things to configure
-	- [x] Terminal / toggleterm
-	- [x] flash
-		- [ ] learn the hotkeys better
 	- [ ] Harpoon 
-	- [x] blink for [[cmp]]
-	- [ ] mini.indentlines
-	- [x] Surround
-		- [ ] learn hotkeys better
 	- [ ] Whichkey update
 	- [ ] dadbod
-- [ ] need functionality to highlight functions python treesitter
-	- [ ] seems like I need to configure treesitter-textobjects
-	- [ ] use this [video](https://www.youtube.com/watch?v=CEMPq_r8UYQ)
+	- [ ] Annoying Caps lock thing
+	- [ ] Annoying comment under previous comment thing
+	- [ ] Figure out  how to use mini surround (conflicts with flash?)
+	- [x] flash
+		- [ ] learn the hotkeys better
+	- [x] Surround
+		- [ ] learn hotkeys better 
 ##### Obsidian
 - [ ] Create '/meeting' macro or shortcut or quickadd thing
 	- [ ] Date fill in as same day
@@ -114,7 +110,6 @@
 	- [ ]  [[Snatoms]]
 	- [ ] Crunch Labs
 	- [ ] KiwiCo  
-	- [x] Handheld gaming thing
 	- [ ] Tablet ideas
 - [ ] Kids passports
 - [ ] [[Bodin|Bo]] Rollerblading

@@ -854,6 +854,14 @@ scheduled today
 - [x] Get Tree Down
 - [x] panthers game tickets
 #### December 2nd 2024
+- [x] need functionality to highlight functions python treesitter
+	- [x] seems like I need to configure treesitter-textobjects
+	- [x] use this [video](https://www.youtube.com/watch?v=CEMPq_r8UYQ)
+- [x] Handheld gaming thing
+- [x] mini.indentlines
+- [x] blink for [[cmp]]
+- [x] Terminal / toggleterm 
+- [x] buy stamps
 - [x] Build Workout Board
 	- [x] 24'' x 11''
 - [x] Fix awning on Dollhouse
