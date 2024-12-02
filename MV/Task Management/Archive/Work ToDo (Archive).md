@@ -537,6 +537,9 @@
 - [x] Reply to [[Jing]]
 - [x] 3 Questions Ask
 #### December 2nd 2024
+- [x] Hours 
+	- [x] Should I do [[VA]] paperwork again?
+		- [x] respond to stephanie
 - [x] Mallory mockup 
 - [x] Get info from [[Eric]] sedation procedure data
 - [x] [[Stryker]] ask

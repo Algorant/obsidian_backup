@@ -8,12 +8,18 @@
 ---
 
 ## Tasks
-- [x] Hours
-	- [ ] Should I do [[VA]] paperwork again?
-		- [x] respond to stephanie
-- [ ] Matching BIS to Audit percentage %
+- [ ] Update Philips Consumables
+- [ ] Update Draeger and Nihon Kohden Microstream
+	- [ ] Keep separate for now, consolidate as one upload later
+- [ ] Create and modify the Audit log
+	- [ ] Matching BIS to Audit percentage %
 	- [ ] Come up with table to match file upload system and add it to data
-- [ ] Add TBD to Sedation Procedure in BIS
+	- [ ] Add TBD to Sedation Procedure in BIS
+- [ ] Respond to Mallory about VA stuff
+- [ ] BIS Stretch goals
+	- [ ] Add Zoll
+	- [ ] Add GE
+	- [ ] Add Draeger BIS
 - [ ] GE to microstream
 - [ ] BIS Dashboard
 	- [ ] Get 50 customers
