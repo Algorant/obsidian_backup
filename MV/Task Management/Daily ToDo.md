@@ -14,6 +14,10 @@
 	- [ ] Day 04
 	- [ ] Day 05
 - [ ] Check back on [[Fliff]]
+- [ ] Pay bills
+	- [ ] cord blood
+	- [ ] massey
+	- [ ] tolls
 - [ ] get checks back from cards
 	- [ ] call back for amex on 12/6
 	- [ ] chase will send an email or send the check
