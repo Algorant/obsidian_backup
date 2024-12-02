@@ -1,3 +1,7 @@
+
+#### 2024-12-02
+- Meeting with [[Jing]] about wednesday business meeting
+- 
 #### 2024-10-31
 - At risk accounts filter
 	- If standalone more than 10 and %age more than 100, filter out
