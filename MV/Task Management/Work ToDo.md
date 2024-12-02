@@ -9,11 +9,11 @@
 
 ## Tasks
 - [x] Hours
-- [ ] Should I do [[VA]] paperwork again?
-	- [ ] respond to stephanie
-- [x] New Ask for [[Vickie]]
-	- [ ] Asking for [[Salesforce]] data
-- [x] [[Stryker]] ask
+	- [ ] Should I do [[VA]] paperwork again?
+		- [x] respond to stephanie
+- [ ] Matching BIS to Audit percentage %
+	- [ ] Come up with table to match file upload system and add it to data
+- [ ] Add TBD to Sedation Procedure in BIS
 - [ ] GE to microstream
 - [ ] BIS Dashboard
 	- [ ] Get 50 customers
@@ -26,8 +26,6 @@
 	- [ ] US vs global
 	- [ ] Select individual OEMs
 - [ ] Create same process for GE_BISX and ApexPro
-- [x] Get info from [[Eric]] sedation procedure data
-- [x] Mallory mockup 
 - [ ] [[Philips Consumables]] refactor
 	- [ ] Change Raw_Results to OEM
 	- [ ] add 'Source' as philips consumables

@@ -536,3 +536,9 @@
 - [x] Zoll metrics work 
 - [x] Reply to [[Jing]]
 - [x] 3 Questions Ask
+#### December 2nd 2024
+- [x] Mallory mockup 
+- [x] Get info from [[Eric]] sedation procedure data
+- [x] [[Stryker]] ask
+- [x] New Ask for [[Vickie]]
+	- [x] Asking for [[Salesforce]] data 
