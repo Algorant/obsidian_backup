@@ -854,6 +854,9 @@ scheduled today
 - [x] Get Tree Down
 - [x] panthers game tickets
 #### December 2nd 2024
+- [x] [[Roth]], [[Stephen]], and [[Ben]] presentations
+- [x] Agenda 
+- [x] bsky acct  
 - [x] need functionality to highlight functions python treesitter
 	- [x] seems like I need to configure treesitter-textobjects
 	- [x] use this [video](https://www.youtube.com/watch?v=CEMPq_r8UYQ)

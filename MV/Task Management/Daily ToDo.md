@@ -9,15 +9,16 @@
 ---
 #### General
 
-- [ ] Create solution for File Updates
-	- [ ] 
+- Advent of code 
+	- [ ] Day 03
+	- [ ] Day 04
+	- [ ] Day 05
+- [ ] Check back on [[Fliff]]
 - [ ] get checks back from cards
-- [ ]  Advent of code 
+	- [ ] call back for amex on 12/6
+	- [ ] chase will send an email or send the check
 - [ ] [[Robochumba]] [[Luckyland]]
-- [ ] bsky acct 
-- [ ] [[🎥 Movieclub Movies]]
-	- [ ] Agenda
-	- [ ] [[Roth]], [[Stephen]], and [[Ben]] presentations
+- [x] [[🎥 Movieclub Movies]]
 	- [ ] Stack rank year in review
 	- [ ] Plan for next year
 		- [ ] Movies again? then new genre
@@ -31,9 +32,9 @@
 
 #### HoneyDos
 - [ ] fix drawer
+- [ ] hang bird feeder 
 - [ ] caulk bathtub 
 - [ ] check ceiling leak
-- [ ] hang bird feeder 
 
 #### RoboChumba
 - [ ] [[Pulsz]] templates
