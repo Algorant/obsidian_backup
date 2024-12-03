@@ -17,8 +17,9 @@
 	- [ ] Inferred last date
 	- [ ] In system? (Estimate 15th or 30th)
 - [ ] Update Philips Consumables
+- [ ] Add GE Microstream
 - [ ] Updates on the 15th and 30th (end of month)
-- [ ] Update Draeger and Nihon Kohden Microstream
+- [ ] Update Draeger BIS
 	- [ ] Keep separate for now, consolidate as one upload later
 - [ ] Create and modify the Audit log
 	- [ ] Matching BIS to Audit percentage %
@@ -29,7 +30,6 @@
 	- [ ] Add Zoll
 	- [ ] Add GE
 	- [ ] Add Draeger BIS
-- [ ] GE to microstream
 - [ ] BIS Dashboard
 	- [ ] Get 50 customers
 	- [ ] Filter customer list to BIS only
