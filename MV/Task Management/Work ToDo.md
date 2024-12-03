@@ -8,7 +8,16 @@
 ---
 
 ## Tasks
+- [ ] Create Modified Audit Log
+	- [ ] Get all OEMs
+	- [ ] All Filetypes
+	- [ ] All things Contained therein
+	- [ ] Update Frequency
+	- [ ] Latest File
+	- [ ] Inferred last date
+	- [ ] In system? (Estimate 15th or 30th)
 - [ ] Update Philips Consumables
+- [ ] Updates on the 15th and 30th (end of month)
 - [ ] Update Draeger and Nihon Kohden Microstream
 	- [ ] Keep separate for now, consolidate as one upload later
 - [ ] Create and modify the Audit log
