@@ -8,6 +8,11 @@
 ---
 
 ## Tasks
+- [ ] Update Philips Consumables
+	- [ ] Process April-Sept
+- [ ] Add GE Microstream 
+- [ ] Update Draeger BIS and Nellcor
+	- [ ] Keep separate for now, consolidate as one upload later
 - [ ] Create Modified Audit Log
 	- [ ] Get all OEMs
 	- [ ] All Filetypes
@@ -16,11 +21,7 @@
 	- [ ] Latest File
 	- [ ] Inferred last date
 	- [ ] In system? (Estimate 15th or 30th)
-- [ ] Update Philips Consumables
-- [ ] Add GE Microstream
-- [ ] Updates on the 15th and 30th (end of month)
-- [ ] Update Draeger BIS
-	- [ ] Keep separate for now, consolidate as one upload later
+	- [ ] Updates on the 15th and 30th (end of month)
 - [ ] Create and modify the Audit log
 	- [ ] Matching BIS to Audit percentage %
 	- [ ] Come up with table to match file upload system and add it to data
@@ -29,7 +30,6 @@
 - [ ] BIS Stretch goals
 	- [ ] Add Zoll
 	- [ ] Add GE
-	- [ ] Add Draeger BIS
 - [ ] BIS Dashboard
 	- [ ] Get 50 customers
 	- [ ] Filter customer list to BIS only
