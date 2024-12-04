@@ -1,3 +1,7 @@
+#### 2024-12-04
+
+- Sarah Martin
+	- Show which sockets are 
 
 #### 2024-12-02
 - Meeting with [[Jing]] about wednesday business meeting
