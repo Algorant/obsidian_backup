@@ -10,10 +10,13 @@
 #### General
 
 - Advent of code 
-	- [ ] Day 03
+	- [x] Day 03
 	- [ ] Day 04
 	- [ ] Day 05
-- [ ] Check back on [[Fliff]]
+- [x] Check back on [[Fliff]]
+- [ ] soda stream
+- [ ] broward market for meat (thurs?)
+- [ ] contacts
 - [ ] Pay bills
 	- [ ] cord blood
 	- [ ] massey
