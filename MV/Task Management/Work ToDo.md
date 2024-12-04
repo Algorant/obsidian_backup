@@ -11,6 +11,9 @@
 - [ ] Update Philips Consumables
 	- [ ] Process April-Sept
 - [ ] Add GE Microstream 
+- [ ] Pending Items 
+	- [ ] IDN metrics
+	- [ ] Reps accuracy
 - [ ] Update Draeger BIS and Nellcor
 	- [ ] Keep separate for now, consolidate as one upload later
 - [ ] Create Modified Audit Log
