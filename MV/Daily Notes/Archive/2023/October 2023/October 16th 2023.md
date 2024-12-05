@@ -38,7 +38,7 @@ Work is going well. There is a transition happening, where our department got co
 
 We are probably going to move to an all new tech stack, including tools I am thus far unfamilar with such as [[Alteryx]] and [[redshift]], but as always I love learning new tools, and using [[Obsidian]] makes it super easy to keep track of where I'm at and where I'm going for each individual thing. 
 
-Desk Organization continues to be a struggle. I've switched to the laptop during a work meeting to see how typing longform is on here. Not to bad. Still not relaxed but getting there. But ok, my desk. I made the decision to have kind of a "server corner" in the back corner. That should have the router, the laptop dock, the [[Blockclock]], the [[Nodebox]], and any kind of #nas situation I create in the future. I also should consider making the [[pihole]] and other things back there.
+Desk Organization continues to be a struggle. I've switched to the laptop during a work meeting to see how typing longform is on here. Not to bad. Still not relaxed but getting there. But ok, my desk. I made the decision to have kind of a "server corner" in the back corner. That should have the router, the laptop dock, the [[Blockclock Micro]], the [[Nodebox]], and any kind of #nas situation I create in the future. I also should consider making the [[pihole]] and other things back there.
 
 On the other side, there's plenty of bills and stuff I need to move out of here. And finally with all of that is wiring. I can probably remove the [[Nodebox]] from HDMI and get it out from under the desk. But, slowly but surely I will make progress on it!
 

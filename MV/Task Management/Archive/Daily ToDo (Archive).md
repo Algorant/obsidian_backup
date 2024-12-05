@@ -198,7 +198,7 @@
 - [x] shower / shave 
 #### November 7th 2023
 - [x] Dishwasher
-- [x] Fix [[Blockclock]] 
+- [x] Fix [[Blockclock Micro]] 
 - [x] Switch Office Door Handle Around
 - [x] Print some [[Luckyland]] templates
 #### November 9th 2023
