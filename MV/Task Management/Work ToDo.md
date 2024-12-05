@@ -8,6 +8,7 @@
 ---
 
 ## Tasks
+- [ ] Add tasks to planner 
 - [ ] Update Philips Consumables
 	- [ ] Process April-Sept
 - [ ] Add GE Microstream 
