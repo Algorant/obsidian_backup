@@ -14,11 +14,13 @@
 	- [x] Day 04
 	- [ ] Day 05
 - [x] Check back on [[Fliff]]
+- [ ] Eric Pop
 - [ ] soda stream
 - [ ] broward market for meat (thurs?)
 - [ ] go to vietnamese place this weekend
 - [ ] contacts
 - [ ] Pay bills
+	- [ ] verizon
 	- [ ] cord blood
 	- [ ] massey
 	- [ ] tolls
