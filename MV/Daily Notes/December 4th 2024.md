@@ -14,3 +14,9 @@ LIMIT 5
 
 ---
 ## Links
+
+[metmo Grips](https://www.metmo.co.uk/collections/grips)
+
+#iwantathing
+
+cool wrench thing

@@ -3,7 +3,7 @@
 - Playoff picture
 	- Clinched? 
 	- In contention?
-	- Round 1 Bye?
+	- Round 1 Bye? 
 ---
 #### Next Steps
 - Create analysis
