@@ -4,7 +4,7 @@
 ## Quick Links
 
 [[Blog]]
-[[League Organization API]]
+[[League Organization API]] 
 
 ---
 #### General
@@ -20,10 +20,10 @@
 - [ ] go to vietnamese place this weekend
 - [ ] contacts
 - [ ] Pay bills
-	- [ ] verizon
+	- [x] verizon
 	- [ ] cord blood
 	- [ ] massey
-	- [ ] tolls
+	- [x] tolls
 - [ ] get checks back from cards
 	- [ ] call back for amex on 12/6
 	- [ ] chase will send an email or send the check
