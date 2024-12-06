@@ -12,10 +12,10 @@
 - Advent of code 
 	- [x] Day 03
 	- [x] Day 04
-	- [ ] Day 05
+	- [x] Day 05
 - [x] Check back on [[Fliff]]
-- [ ] Eric Pop
-- [ ] soda stream
+- [x] Eric Pop
+- [x] soda stream
 - [ ] broward market for meat (thurs?)
 - [ ] go to vietnamese place this weekend
 - [ ] contacts

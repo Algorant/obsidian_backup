@@ -52,8 +52,7 @@
               "title": "Work ToDo"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +197,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72234994eece9ef5",
+  "active": "1d1099c32c1637f9",
   "lastOpenFiles": [
+    "New Notes/Black Myth Wukong.md",
+    "Task Management/Work ToDo.md",
     "Daily Notes/December 5th 2024.md",
     "Knowledge Base/Manuals/Blockclock Micro.md",
-    "New Notes/Black Myth Wukong.md",
     "Task Management/Daily ToDo.md",
-    "Task Management/Work ToDo.md",
     "Knowledge Base/Computers/Software/Prowlarr.md",
     "Daily Notes/December 4th 2024.md",
     "Projects/FF/League Organization API.md",
