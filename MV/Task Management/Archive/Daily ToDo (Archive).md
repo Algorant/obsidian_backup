@@ -870,3 +870,13 @@ scheduled today
 - [x] Fix awning on Dollhouse
 - [x] lights fix
 - [x] Workout 
+#### December 7th 2024
+- [x] go to vietnamese place this weekend
+- [x] tolls
+- [x] verizon
+- [x] Day 05 
+- [x] Day 04
+- [x] Day 03
+- [x] soda stream
+- [x] Eric Pop
+- [x] Check back on [[Fliff]]

@@ -10,20 +10,13 @@
 #### General
 
 - Advent of code 
-	- [x] Day 03
-	- [x] Day 04
-	- [x] Day 05
-- [x] Check back on [[Fliff]]
-- [x] Eric Pop
-- [x] soda stream
-- [ ] broward market for meat (thurs?)
-- [ ] go to vietnamese place this weekend
+	- day 07
+- [ ] broward market for meat
+- [ ] Buy christmas tree after season 
 - [ ] contacts
 - [ ] Pay bills
-	- [x] verizon
 	- [ ] cord blood
 	- [ ] massey
-	- [x] tolls
 - [ ] get checks back from cards
 	- [ ] call back for amex on 12/6
 	- [ ] chase will send an email or send the check

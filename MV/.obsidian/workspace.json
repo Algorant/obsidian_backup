@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/December 5th 2024.md",
+                "file": "Daily Notes/December 4th 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "December 5th 2024"
+              "title": "December 4th 2024"
             }
           },
           {
@@ -104,13 +104,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f47afba42c2230a",
@@ -199,10 +197,10 @@
   },
   "active": "1d1099c32c1637f9",
   "lastOpenFiles": [
+    "Daily Notes/December 5th 2024.md",
     "Daily Notes/December 6th 2024.md",
     "New Notes/Black Myth Wukong.md",
     "Task Management/Work ToDo.md",
-    "Daily Notes/December 5th 2024.md",
     "Knowledge Base/Manuals/Blockclock Micro.md",
     "Task Management/Daily ToDo.md",
     "Knowledge Base/Computers/Software/Prowlarr.md",
