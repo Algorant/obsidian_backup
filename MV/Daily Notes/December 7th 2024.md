@@ -14,3 +14,7 @@ LIMIT 5
 
 ---
 ## Links
+
+https://x.com/SMB_Attorney/status/1619702182072426498?t=r_5h-9EeSP0dSMucvpl-NA&s=19
+
+Buying a smb #business #investing #smb #twitter 
