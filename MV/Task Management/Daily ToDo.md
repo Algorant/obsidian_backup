@@ -12,6 +12,7 @@
 - Advent of code 
 	- day 07
 - [ ] broward market for meat
+- [ ] look into sink dryer 
 - [ ] Buy christmas tree after season 
 - [ ] contacts
 - [ ] Pay bills
