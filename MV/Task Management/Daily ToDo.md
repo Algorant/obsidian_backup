@@ -12,6 +12,9 @@
 - Advent of code 
 	- day 07
 - [x] broward market for meat
+- [ ] return rocks to Hd
+- [ ] Amazon return
+- [ ] Break down picnic table 
 - [ ] look into yoto custom
 - [ ] look into sink dryer 
 - [ ] Buy christmas tree after season 
