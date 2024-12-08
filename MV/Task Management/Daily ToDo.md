@@ -11,7 +11,8 @@
 
 - Advent of code 
 	- day 07
-- [ ] broward market for meat
+- [x] broward market for meat
+- [ ] look into yoto custom
 - [ ] look into sink dryer 
 - [ ] Buy christmas tree after season 
 - [ ] contacts
