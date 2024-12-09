@@ -24,8 +24,8 @@
 - [ ] Pay bills
 	- [ ] cord blood
 	- [ ] massey
-- [ ] get checks back from cards
-	- [ ] call back for amex on 12/6
+- [x] get checks back from cards
+	- [x] call back for amex on 12/6
 	- [x] chase will send an email or send the check
 - [ ] [[Robochumba]] [[Luckyland]]
 - [x] [[🎥 Movieclub Movies]]
