@@ -8,12 +8,14 @@
 ---
 
 ## Tasks
-- [ ] Add tasks to planner 
+- [ ] Update Tasks
+- [ ] Hours
+- [ ] Alteryx thing
 - [ ] Update Philips Consumables
-	- [ ] Process April-Sept
-- [ ] Add GE Microstream 
+	- [ ] Process April-Oct
 - [ ] Update Draeger BIS and Nellcor
 	- [ ] Keep separate for now, consolidate as one upload later
+- [ ] Ask james to upload Draeger and GE
 - [ ] Pending Items 
 	- [ ] IDN metrics
 	- [ ] Reps accuracy

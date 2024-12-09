@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/December 4th 2024.md",
+                "file": "Daily Notes/Archive/Nov 2024/November 6th 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "December 4th 2024"
+              "title": "November 6th 2024"
+            }
+          },
+          {
+            "id": "4744234abea44c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Management/Daily ToDo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily ToDo"
             }
           },
           {
@@ -52,7 +67,8 @@
               "title": "Work ToDo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f47afba42c2230a",
@@ -195,34 +212,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d1099c32c1637f9",
+  "active": "4744234abea44c94",
   "lastOpenFiles": [
+    "Task Management/Work ToDo.md",
+    "Task Management/Daily ToDo.md",
+    "Daily Notes/Archive/Nov 2024/November 6th 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 30th 2024.md",
+    "Daily Notes/Archive/Nov 2024",
+    "Daily Notes/December 4th 2024.md",
     "Daily Notes/December 8th 2024.md",
     "Daily Notes/December 7th 2024.md",
     "Daily Notes/December 5th 2024.md",
     "Daily Notes/December 6th 2024.md",
     "New Notes/Black Myth Wukong.md",
-    "Task Management/Work ToDo.md",
     "Knowledge Base/Manuals/Blockclock Micro.md",
-    "Task Management/Daily ToDo.md",
     "Knowledge Base/Computers/Software/Prowlarr.md",
-    "Daily Notes/December 4th 2024.md",
     "Projects/FF/League Organization API.md",
     "New Notes/Things I Would Like.md",
     "Daily Notes/December 2nd 2024.md",
     "Projects/Tech/Robochumba/Luckyland.md",
     "Daily Notes/December 1st 2024.md",
-    "Daily Notes/November 30th 2024.md",
-    "Daily Notes/November 28th 2024.md",
-    "Daily Notes/November 25th 2024.md",
-    "Daily Notes/November 24th 2024.md",
-    "Daily Notes/November 22nd 2024.md",
-    "Daily Notes/November 21st 2024.md",
-    "Daily Notes/November 19th 2024.md",
-    "Daily Notes/November 18th 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 28th 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 25th 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 24th 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 22nd 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 21st 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 19th 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 18th 2024.md",
     "Daily Notes/Archive/Oct 2024/October 1st 2024.md",
-    "Daily Notes/November 13th 2024.md",
-    "Daily Notes/November 15th 2024.md",
+    "Daily Notes/Archive/Nov 2024/November 13th 2024.md",
     "Daily Notes/Archive/Oct 2024",
     "Untitled",
     "Daily Notes/Archive/Sept 2024",
@@ -233,7 +251,6 @@
     "Work/Medtronic/Projects/Archive",
     "Misc/Media/Pasted Image 20240922160939_335.png",
     "Knowledge Base/Media/Games/Game Notes/Street Fighter 6",
-    "Daily Notes/Archive/July 2024",
     "Misc/Media/Pasted image 20240319093702.png",
     "Dashboards/Canvas/Task Canvas.canvas",
     "Misc/Media/pngtree-an-old-bookcase-in-a-library-image_2642908.png",

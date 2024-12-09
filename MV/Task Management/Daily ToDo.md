@@ -10,8 +10,10 @@
 #### General
 
 - Advent of code 
-	- day 07
+	- [ ] day 09
 - [x] broward market for meat
+- [ ] Stamps
+- [ ] [[Lisa]] gifts
 - [ ] return rocks to Hd
 - [ ] Amazon return
 - [ ] Break down picnic table 
@@ -24,7 +26,7 @@
 	- [ ] massey
 - [ ] get checks back from cards
 	- [ ] call back for amex on 12/6
-	- [ ] chase will send an email or send the check
+	- [x] chase will send an email or send the check
 - [ ] [[Robochumba]] [[Luckyland]]
 - [x] [[🎥 Movieclub Movies]]
 	- [ ] Stack rank year in review
