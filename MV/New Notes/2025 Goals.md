@@ -6,6 +6,8 @@
 	- Gap on front door and garage door, re-do the door stop rubber stuff
 - Garage
 	- Fix lighting
+- Upstairs
+	- New rug for kids bedroom
 ### Outdoor/Patio
 - Shade solution
 - Side of house reno
@@ -29,4 +31,5 @@
 ## Trips/Travel
 - West coast of florida trip (Naples or whatever else)
 - Kennedy space center trip
-- Winter trip planning
+- - Kennedy space center trip
+Winter trip planning
