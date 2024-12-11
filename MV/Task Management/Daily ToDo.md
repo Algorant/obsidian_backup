@@ -9,34 +9,23 @@
 ---
 #### General
 
-- Advent of code 
-	- [ ] day 09
-- [x] broward market for meat
+- [ ] Advent of code 
 - [ ] Stamps
 - [ ] [[Lisa]] gifts
 - [ ] return rocks to Hd
 - [ ] Amazon return
-- [ ] Break down picnic table 
+- [ ] Get Propane
 - [ ] look into yoto custom
-- [ ] look into sink dryer 
-- [ ] Buy christmas tree after season 
 - [ ] contacts
 - [ ] Pay bills
 	- [ ] cord blood
 	- [ ] massey
-- [x] get checks back from cards
-	- [x] call back for amex on 12/6
-	- [x] chase will send an email or send the check
-- [ ] [[Robochumba]] [[Luckyland]]
-- [x] [[🎥 Movieclub Movies]]
-	- [ ] Stack rank year in review
-	- [ ] Plan for next year
-		- [ ] Movies again? then new genre
-- [ ] mess with [[Anbernic]] stuff 
+- [ ] mess with [[Anbernic]] stuff  
 	- [ ] look into custom firmware
 	- [ ] look into adding roms 
 		- [ ] nes, snes, n64 collections to start
-- [ ] buy hot water filter
+- [ ] Buy christmas tree after season 
+- [ ] buy filter for hot water tank
 
 ---
 

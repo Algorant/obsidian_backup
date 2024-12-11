@@ -880,3 +880,15 @@ scheduled today
 - [x] soda stream
 - [x] Eric Pop
 - [x] Check back on [[Fliff]]
+#### December 11th 2024
+- [x] [[🎥 Movieclub Movies]]
+	- [x] Stack rank year in review 
+	- [x] Plan for next year
+		- [x] Movies again? then new genre
+- [x] [[Robochumba]] [[Luckyland]]
+- [x] get checks back from cards
+	- [x] call back for amex on 12/6
+	- [x] chase will send an email or send the check
+- [x] look into sink dryer 
+- [x] Break down picnic table 
+- [x] broward market for meat
