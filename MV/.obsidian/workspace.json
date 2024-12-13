@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/December 8th 2024.md",
+                "file": "Task Management/Daily ToDo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "December 8th 2024"
+              "title": "Daily ToDo"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "Black Myth Wukong"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,16 +196,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ca83122884878a9",
+  "active": "1d1099c32c1637f9",
   "lastOpenFiles": [
-    "New Notes/FF.md",
+    "Daily Notes/December 13th 2024.md",
+    "Task Management/Daily ToDo.md",
     "Daily Notes/December 8th 2024.md",
+    "Daily Notes/December 12th 2024.md",
+    "New Notes/FF.md",
     "New Notes/2025 Goals.md",
     "Daily Notes/December 9th 2024.md",
     "Daily Notes/Archive/Nov 2024/November 6th 2024.md",
     "New Notes/Black Myth Wukong.md",
     "Task Management/Work ToDo.md",
-    "Task Management/Daily ToDo.md",
     "Daily Notes/Archive/Nov 2024/November 30th 2024.md",
     "Daily Notes/Archive/Nov 2024",
     "Daily Notes/December 4th 2024.md",
@@ -224,8 +225,6 @@
     "Daily Notes/Archive/Nov 2024/November 25th 2024.md",
     "Daily Notes/Archive/Nov 2024/November 24th 2024.md",
     "Daily Notes/Archive/Nov 2024/November 22nd 2024.md",
-    "Daily Notes/Archive/Nov 2024/November 21st 2024.md",
-    "Daily Notes/Archive/Nov 2024/November 19th 2024.md",
     "Daily Notes/Archive/Oct 2024",
     "Untitled",
     "Daily Notes/Archive/Sept 2024",

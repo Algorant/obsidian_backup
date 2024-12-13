@@ -545,3 +545,10 @@
 - [x] [[Stryker]] ask
 - [x] New Ask for [[Vickie]]
 	- [x] Asking for [[Salesforce]] data 
+#### December 12th 2024
+- [x] Ask james to upload Draeger and GE
+- [x] Update Draeger BIS and Nellcor
+	- [x] Keep separate for now, consolidate as one upload later
+- [x] Alteryx thing
+- [x] Hours
+- [x] Update Tasks

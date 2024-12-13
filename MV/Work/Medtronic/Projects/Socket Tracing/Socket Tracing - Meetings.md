@@ -1,3 +1,12 @@
+
+#### 2024-12-12
+- Draeger bug fixed, now showing 2024
+- Procedure volume Received
+	- EEG is BIS
+	- SO2 is INVOS
+- GE Microstream does not seem to have Modules, only cables
+
+
 #### 2024-12-04
 
 - Sarah Martin

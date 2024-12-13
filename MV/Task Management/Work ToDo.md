@@ -8,18 +8,16 @@
 ---
 
 ## Tasks
-- [ ] Update Tasks
-- [ ] Hours
-- [ ] Alteryx thing
-- [ ] Update Philips Consumables
+- [ ] Update Philips Consumables 
 	- [ ] Process April-Oct
-- [ ] Update Draeger BIS and Nellcor
-	- [ ] Keep separate for now, consolidate as one upload later
-- [ ] Ask james to upload Draeger and GE
+- [ ] [[GE]] [[BIS]] and [[Microstream]]
+	- [ ] OCT-NOV 
+		- BIS has no US customers, no way to handle that in audit currently
+		- Microstream no US customers
 - [ ] Pending Items 
 	- [ ] IDN metrics
 	- [ ] Reps accuracy
-- [ ] Create Modified Audit Log
+- [ ] Create Modified Audit Log 
 	- [ ] Get all OEMs
 	- [ ] All Filetypes
 	- [ ] All things Contained therein

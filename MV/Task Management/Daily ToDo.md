@@ -14,12 +14,14 @@
 - [ ] [[Lisa]] gifts
 - [ ] return rocks to Hd
 - [ ] Amazon return
+- [ ] sodastream
 - [ ] Get Propane
 - [ ] look into yoto custom
 - [ ] contacts
 - [ ] Pay bills
 	- [ ] cord blood
 	- [ ] massey
+	- [ ] student loan
 - [ ] mess with [[Anbernic]] stuff  
 	- [ ] look into custom firmware
 	- [ ] look into adding roms 
