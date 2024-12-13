@@ -51,24 +51,9 @@
               "icon": "lucide-file",
               "title": "Black Myth Wukong"
             }
-          },
-          {
-            "id": "e06280898a7376c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Notes/FF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FF"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e06280898a7376c2",
+  "active": "7ca83122884878a9",
   "lastOpenFiles": [
     "New Notes/FF.md",
     "Daily Notes/December 8th 2024.md",
