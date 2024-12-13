@@ -10,8 +10,7 @@
 #### General
 
 - [ ] Advent of code 
-- [ ] Stamps
-- [ ] [[Lisa]] gifts
+- [ ] food saver 
 - [ ] return rocks to Hd
 - [ ] Amazon return
 - [ ] sodastream
@@ -32,7 +31,7 @@
 ---
 
 #### HoneyDos
-- [ ] fix drawer
+- [ ] fix pantry drawer
 - [ ] hang bird feeder 
 - [ ] caulk bathtub 
 - [ ] check ceiling leak

@@ -892,3 +892,6 @@ scheduled today
 - [x] look into sink dryer 
 - [x] Break down picnic table 
 - [x] broward market for meat
+#### December 13th 2024
+- [x] [[Lisa]] gifts
+- [x] Stamps
