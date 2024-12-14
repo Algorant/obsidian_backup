@@ -10,12 +10,13 @@
 #### General
 
 - [ ] Advent of code 
+- [ ] fertility book for lisa
 - [ ] Get credit from service experts back
 - [ ] food saver 
 - [ ] return rocks to Hd
 - [ ] Amazon return
-- [x] sodastream
 - [ ] Get Propane
+- [x] sodastream
 - [ ] look into yoto custom
 - [ ] contacts
 - [ ] Pay bills
