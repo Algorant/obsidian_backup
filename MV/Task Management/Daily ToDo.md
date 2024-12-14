@@ -10,10 +10,11 @@
 #### General
 
 - [ ] Advent of code 
+- [ ] Get credit from service experts back
 - [ ] food saver 
 - [ ] return rocks to Hd
 - [ ] Amazon return
-- [ ] sodastream
+- [x] sodastream
 - [ ] Get Propane
 - [ ] look into yoto custom
 - [ ] contacts
