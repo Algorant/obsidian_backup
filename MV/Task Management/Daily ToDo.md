@@ -11,6 +11,7 @@
 
 - [ ] Advent of code 
 - [x] fertility book for lisa
+- [ ] hours
 - [ ] Get credit from service experts back
 - [ ] propose most points in #ff
 - [ ] food saver 
@@ -31,7 +32,7 @@
 ---
 
 #### HoneyDos
-- [ ] fix pantry drawer
+- [x] fix pantry drawer
 - [ ] hang bird feeder 
 - [ ] caulk bathtub 
 - [ ] check ceiling leak
