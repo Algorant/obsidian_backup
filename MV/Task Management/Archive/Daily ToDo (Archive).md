@@ -895,3 +895,7 @@ scheduled today
 #### December 13th 2024
 - [x] [[Lisa]] gifts
 - [x] Stamps
+#### December 15th 2024
+- [x] sodastream 
+- [x] Amazon return
+- [x] return rocks to Hd
