@@ -12,6 +12,7 @@
 - [ ] Advent of code 
 - [x] fertility book for lisa
 - [ ] Get credit from service experts back
+- [ ] propose most points in #ff
 - [ ] food saver 
 - [ ] Get Propane
 - [ ] look into yoto custom
