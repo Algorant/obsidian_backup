@@ -11,6 +11,7 @@
 
 - [ ] Advent of code 
 - [x] fertility book for lisa
+- [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets
 - [ ] hours
 - [ ] Get credit from service experts back
 - [ ] propose most points in #ff
