@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f47afba42c2230a",
@@ -165,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5694dde33e4d795b",
+  "active": "1d1099c32c1637f9",
   "lastOpenFiles": [
     "Knowledge Base/Lists & Inventories/Things in Attic and Above Garage.md",
     "Daily Notes/Archive/2023/December 2023/December 30th 2023.md",

@@ -12,7 +12,7 @@
 - [ ] Advent of code 
 - [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets
 - [ ] propose most points in #ff
-- [ ] food saver 
+- [x] food saver 
 - [ ] look into yoto custom 
 - [ ] contacts
 - [ ] Pay bills
