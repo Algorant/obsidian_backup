@@ -23,12 +23,7 @@ LIMIT 5
 ---
 ## Thoughts
 
-- stuff in attic
-	- futon
-	- winter stuff
-	- big water bottle for camping 
-	- Medtronic computer stuff 
-	- floor sweep entrance dark wood things
+
 
 ---
 ## Captures

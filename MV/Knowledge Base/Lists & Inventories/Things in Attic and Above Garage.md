@@ -1,4 +1,4 @@
-
+### Above Garage
 - bicycle helmets
 - two dining chairs
 - Christmas stuff
@@ -19,6 +19,13 @@
 - multiple box fans
 - bee and scooter 
 - lg OLED base
+
+### In Attic 
+- futon
+- winter stuff
+- big water bottle for camping 
+- Medtronic computer stuff 
+- floor sweep entrance dark wood things
 ------
 Things to change
 - buy Katz Moses router table
