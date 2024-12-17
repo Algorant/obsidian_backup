@@ -899,3 +899,9 @@ scheduled today
 - [x] sodastream 
 - [x] Amazon return
 - [x] return rocks to Hd
+#### December 17th 2024
+- [x] fix pantry drawer
+- [x] Get Propane
+- [x] Get credit from service experts back
+- [x] hours
+- [x] fertility book for lisa
