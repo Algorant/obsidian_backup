@@ -9,6 +9,8 @@
 
 ## Tasks
 - [ ] [[GE]] [[BIS]] and [[Microstream]]
+	- [ ] Do [[BIS]] and [[Microstream]]
+	- [ ] get help for [[INVOS]] and [[Nellcor]]
 - [ ] Value of a Socket Pilot
 	- [ ] Filter first for accurate data
 	- [ ] Then do VOAS Calculation
