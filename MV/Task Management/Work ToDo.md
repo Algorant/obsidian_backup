@@ -8,15 +8,16 @@
 ---
 
 ## Tasks
+- [ ] [[GE]] [[BIS]] and [[Microstream]]
+- [ ] Value of a Socket Pilot
+	- [ ] Filter first for accurate data
+	- [ ] Then do VOAS Calculation
 - [ ] Update Philips Consumables 
 	- [ ] Process April-Oct
-- [ ] [[GE]] [[BIS]] and [[Microstream]]
-	- [ ] OCT-NOV 
-		- BIS has no US customers, no way to handle that in audit currently
-		- Microstream no US customers
 - [ ] Pending Items 
+	- [ ] Reps alignment and accuracy
+	- [ ] VOAS Work
 	- [ ] IDN metrics
-	- [ ] Reps accuracy
 - [ ] Create Modified Audit Log 
 	- [ ] Get all OEMs
 	- [ ] All Filetypes
@@ -30,7 +31,7 @@
 	- [ ] Matching BIS to Audit percentage %
 	- [ ] Come up with table to match file upload system and add it to data
 	- [ ] Add TBD to Sedation Procedure in BIS
-- [ ] Respond to Mallory about VA stuff
+- [x] Respond to Mallory about VA stuff
 - [ ] BIS Stretch goals
 	- [ ] Add Zoll
 	- [ ] Add GE
@@ -44,7 +45,7 @@
 	- [ ] Only sockets
 	- [ ] US vs global
 	- [ ] Select individual OEMs
-- [ ] Create same process for GE_BISX and ApexPro
+- [x] Create same process for GE_BISX and ApexPro
 - [ ] [[Philips Consumables]] refactor
 	- [ ] Change Raw_Results to OEM
 	- [ ] add 'Source' as philips consumables
@@ -56,23 +57,7 @@
 - [ ] Add everything to the same files
 	- [ ] One masterfile
 	- [ ] One Uploadfile
-- [[BIS INVOS TABLE AND DASHBOARD]]
-	- [ ] Create Master List and Populate
-		- Include Source File, Comparison String Format and OEM
-	- [ ] Create Uploading Creation File
-		- Get each individual OEM, then combine
-	- Create Master Unmatched File
-		- Inclu
 - [x] Make [[BIS INVOS TABLE AND DASHBOARD]] plan
-	- [ ] Ask [[Eric]] if we are going to get new procedural data for [[BIS INVOS TABLE AND DASHBOARD]]
-		- [ ] From Eric: new procedural data
-		- [ ] From Ivan/James: direct sales
-		- [ ] From Ivan: QA procedure and 
-	- [ ] Data matching
-	- [ ] Data Upload
-	- [ ] QA testing
-	- [ ] Add extra column on certified customers
-		- [ ] MATL Lv5 code is zcc50
 	- [[INVOS]] is the same as "Regional Saturation" 
 		- ZCB60 = BIS
 		- ZCR60 = INVOS
