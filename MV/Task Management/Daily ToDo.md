@@ -9,10 +9,12 @@
 ---
 #### General
 
+- [ ] Office
+	- [ ] Clean 
+	- [ ] Desk organization things
+	- [ ] Sell Red Chair
 - [ ] Workout
 - [ ] Shower n shave
-- [ ] Desk organization things
-- [ ] Clean Office
 - [ ] Wrap Presents
 - [ ] [[Knowledge Base/Finances/Loans/Mortgage|Mortgage]] and [[Tesla]]
 - [ ] Advent of code 
