@@ -9,16 +9,19 @@
 ---
 #### General
 
-- [ ] [[Knowledge Base/Finances/Loans/Mortgage|Mortgage]] and [[Tesla]]
-- [ ] Desk organization things
 - [ ] Workout
 - [ ] Shower n shave
+- [ ] Desk organization things
+- [ ] Clean Office
+- [ ] Wrap Presents
+- [ ] [[Knowledge Base/Finances/Loans/Mortgage|Mortgage]] and [[Tesla]]
 - [ ] Advent of code 
 - [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets
 - [ ] propose most points in #ff
 - [ ] look into yoto custom 
 - [ ] contacts
 - [ ] Pay bills
+	- [ ] CC payoff
 	- [ ] cord blood
 	- [ ] massey
 	- [ ] student loan
