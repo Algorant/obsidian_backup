@@ -11,6 +11,8 @@
 
 - [ ] [[Knowledge Base/Finances/Loans/Mortgage|Mortgage]] and [[Tesla]]
 - [ ] Desk organization things
+- [ ] Workout
+- [ ] Shower n shave
 - [ ] Advent of code 
 - [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets
 - [ ] propose most points in #ff
