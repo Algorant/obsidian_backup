@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Daily Notes/December 19th 2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily ToDo"
+              "title": "December 19th 2024"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f47afba42c2230a",
@@ -168,10 +167,11 @@
   },
   "active": "1d1099c32c1637f9",
   "lastOpenFiles": [
+    "Task Management/Daily ToDo.md",
+    "Daily Notes/December 19th 2024.md",
     "Knowledge Base/Lists & Inventories/Things in Attic and Above Garage.md",
     "Daily Notes/Archive/2023/December 2023/December 30th 2023.md",
     "New Notes/Black Myth Wukong.md",
-    "Task Management/Daily ToDo.md",
     "Daily Notes/December 15th 2024.md",
     "Daily Notes/December 13th 2024.md",
     "Daily Notes/December 8th 2024.md",
@@ -194,7 +194,6 @@
     "Daily Notes/December 2nd 2024.md",
     "Projects/Tech/Robochumba/Luckyland.md",
     "Daily Notes/December 1st 2024.md",
-    "Daily Notes/Archive/Nov 2024/November 28th 2024.md",
     "Daily Notes/Archive/Oct 2024",
     "Untitled",
     "Daily Notes/Archive/Sept 2024",
