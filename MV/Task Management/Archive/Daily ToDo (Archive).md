@@ -907,3 +907,7 @@ scheduled today
 - [x] fertility book for lisa
 #### December 19th 2024
 - [x] food saver 
+#### December 21st 2024
+- [x] [[Knowledge Base/Finances/Loans/Mortgage|Mortgage]] and [[Tesla]]
+- [x] Shower n shave
+- [x] Workout

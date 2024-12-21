@@ -13,12 +13,9 @@
 	- [ ] Clean 
 	- [ ] Desk organization things
 	- [ ] Sell Red Chair
-- [ ] Workout
-- [ ] Shower n shave
 - [ ] Wrap Presents
-- [ ] [[Knowledge Base/Finances/Loans/Mortgage|Mortgage]] and [[Tesla]]
 - [ ] Advent of code 
-- [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets
+- [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets 
 - [ ] propose most points in #ff
 - [ ] look into yoto custom 
 - [ ] contacts
