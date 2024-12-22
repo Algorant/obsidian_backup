@@ -9,6 +9,7 @@
 ---
 #### General
 
+- [ ] Fix Epson Printer
 - [ ] Office
 	- [ ] Clean 
 	- [ ] Desk organization things
