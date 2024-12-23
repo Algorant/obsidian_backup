@@ -11,11 +11,12 @@
 
 - [ ] Fix Epson Printer
 - [ ] Office
-	- [ ] Clean 
+	- [x] Clean 
 	- [ ] Desk organization things
 	- [ ] Sell Red Chair
 - [x] Wrap Presents
 - [ ] Advent of code 
+- [ ] reorganize [[Seedbox]] and clean up [[Movieclub selections]]
 - [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets 
 - [ ] propose most points in #ff
 - [ ] look into yoto custom 
