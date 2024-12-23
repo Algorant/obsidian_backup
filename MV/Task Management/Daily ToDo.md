@@ -14,7 +14,7 @@
 	- [ ] Clean 
 	- [ ] Desk organization things
 	- [ ] Sell Red Chair
-- [ ] Wrap Presents
+- [x] Wrap Presents
 - [ ] Advent of code 
 - [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets 
 - [ ] propose most points in #ff
