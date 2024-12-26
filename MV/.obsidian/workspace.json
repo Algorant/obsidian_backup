@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "Daily ToDo"
             }
+          },
+          {
+            "id": "b5210599ca0100ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Notes/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,11 +197,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069b347321cdd23d",
+  "active": "b5210599ca0100ae",
   "lastOpenFiles": [
+    "New Notes/Untitled.md",
+    "Task Management/Daily ToDo.md",
+    "Daily Notes/December 26th 2024.md",
     "Daily Notes/December 21st 2024.md",
     "Daily Notes/December 19th 2024.md",
-    "Task Management/Daily ToDo.md",
     "Knowledge Base/Lists & Inventories/Things in Attic and Above Garage.md",
     "Daily Notes/Archive/2023/December 2023/December 30th 2023.md",
     "New Notes/Black Myth Wukong.md",
@@ -209,8 +226,6 @@
     "Knowledge Base/Computers/Software/Prowlarr.md",
     "Projects/FF/League Organization API.md",
     "New Notes/Things I Would Like.md",
-    "Daily Notes/December 2nd 2024.md",
-    "Projects/Tech/Robochumba/Luckyland.md",
     "Daily Notes/Archive/Oct 2024",
     "Untitled",
     "Daily Notes/Archive/Sept 2024",
