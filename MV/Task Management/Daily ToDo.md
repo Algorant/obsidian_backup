@@ -9,23 +9,30 @@
 ---
 #### General
 
+- [ ] buy bodin's batteries and charger
 - [ ] Fix Epson Printer
-- [ ] Office
-	- [x] Clean 
-	- [ ] Desk organization things
-	- [ ] Sell Red Chair
-- [x] Wrap Presents
+- [ ] Nails for novi's door name thing
 - [ ] Advent of code 
-- [ ] reorganize [[Seedbox]] and clean up [[Movieclub selections]]
-- [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets 
-- [ ] propose most points in #ff
-- [ ] look into yoto custom 
-- [ ] contacts
 - [ ] Pay bills
+	- [ ] fpl
+	- [ ] tesla
 	- [ ] CC payoff
 	- [ ] cord blood
 	- [ ] massey
 	- [ ] student loan
+- [ ] Office
+	- [x] Clean 
+	- [ ] Desk organization things
+	- [ ] Sell Red Chair
+- [ ] reorganize [[Seedbox]] and clean up [[Movieclub selections]]
+	- [ ] order HDDs and make actual storage
+- [ ] look into yoto custom 
+	- [ ] oldies
+	- [ ] mama & dada music
+	- [ ] metal
+- [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets 
+- [ ] propose most points in #ff
+- [ ] contacts
 - [ ] mess with [[Anbernic]] stuff  
 	- [ ] look into custom firmware
 	- [ ] look into adding roms 

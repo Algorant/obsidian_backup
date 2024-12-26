@@ -911,3 +911,5 @@ scheduled today
 - [x] [[Knowledge Base/Finances/Loans/Mortgage|Mortgage]] and [[Tesla]]
 - [x] Shower n shave
 - [x] Workout
+#### December 25th 2024
+- [x] Wrap Presents 
