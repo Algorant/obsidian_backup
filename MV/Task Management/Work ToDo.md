@@ -61,9 +61,7 @@
 	- [ ] One Uploadfile
 - [x] Make [[BIS INVOS TABLE AND DASHBOARD]] plan
 	- [[INVOS]] is the same as "Regional Saturation" 
-		- ZCB60 = BIS
-		- ZCR60 = INVOS
-		- ZCO60 = OXIMETRY
+		
 - [ ] Make dashboard work checklist
 	- [ ] Create QA_Verification Page in [[OEM Data Modeling]] file
 	- [ ] Re-Run Philips Consumables and refactor to script
