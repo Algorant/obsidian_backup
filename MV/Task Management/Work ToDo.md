@@ -8,6 +8,13 @@
 ---
 
 ## Tasks
+- Refactor
+	- [x] Process Direct Sales
+	- [x] Process Standalone
+		- [ ] Add product component
+		- [ ] Just maps material number id to product type as a lookup table
+	- Combine with Consumables
+	- Find whats missing and document
 - [x] [[GE]] [[BIS]] and [[Microstream]]
 	- [x] Do [[BIS]] and [[Microstream]]
 	- [ ] get help for [[INVOS]] and [[Nellcor]]
