@@ -30,6 +30,6 @@
 
 #### Misc Issues
 - OEM_Ctry was missing from direct sales when translated from SQL to python
-- You need to add in the Install Base Filter to the flow at some later point, removed it for now
+- Standalone has many products which are not categorized anywhere yet, can find them with Material ID where Product Name is Nan (and can be filled in using lookup table that matches product names. Cap 20, capt 35, etc)
 - 
 
