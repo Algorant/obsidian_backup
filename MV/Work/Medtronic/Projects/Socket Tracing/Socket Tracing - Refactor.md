@@ -23,3 +23,8 @@
 - Creating Master Data List (with date and OEM Source included)
 - Populating Master Table with OEM Info for each OEM
 
+#### Misc Issues
+- OEM_Ctry was missing from direct sales when translated from SQL to python
+- You need to add in the Install Base Filter to the flow at some later point, removed it for now
+- 
+
