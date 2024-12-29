@@ -14,3 +14,10 @@ LIMIT 5
 
 ---
 ## Links
+- Description:: - Ghostty config
+- Link::[Tweet](https://x.com/Adib_Hanna/status/1872657615131693350?t=Ol76QQiMsdS20m8mEk3VKw&s=19)
+- Tags:: #tweet #ghostty
+- Embed:: 
+	- ![](https://x.com/Adib_Hanna/status/1872657615131693350?t=Ol76QQiMsdS20m8mEk3VKw&s=19)
+
+ --- 
