@@ -15,13 +15,18 @@
 #### Knime / Alteryx Integrations
 - Individual scripts should be usable inside of these programs
 
-### Parts needed:
+#### Parts needed:
 
-- Creation of Structured Data with set columns
-- Fuzzy Match of that Data
-- Separating Matched and Unmatched Data
-- Creating Master Data List (with date and OEM Source included)
-- Populating Master Table with OEM Info for each OEM
+- Components from SQL
+	- Direct Sales
+	- Standalone Install Base
+	- Bed and Procedures
+	- MID Columns
+- Components from lookup (current excel, should be SQL)
+	- Override Table
+	- Product Matching Table
+	- Customer Validation Table
+	- 
 
 #### Misc Issues
 - OEM_Ctry was missing from direct sales when translated from SQL to python
