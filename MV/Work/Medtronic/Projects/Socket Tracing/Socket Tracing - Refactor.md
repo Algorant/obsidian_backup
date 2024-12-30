@@ -22,14 +22,17 @@
 	- Standalone Install Base
 	- Bed and Procedures
 	- MID Columns
+	- Geolocation columns
+	- Time columns
+	- Cust_ID columns
 - Components from lookup (current excel, should be SQL)
 	- Override Table
 	- Product Matching Table
 	- Customer Validation Table
-	- 
+	- Account Director Lookup (needs to be created)
 
 #### Misc Issues
 - OEM_Ctry was missing from direct sales when translated from SQL to python
 - Standalone has many products which are not categorized anywhere yet, can find them with Material ID where Product Name is Nan (and can be filled in using lookup table that matches product names. Cap 20, capt 35, etc)
-- 
+- Need account director lookup created (Linda berry, kiyo, robin keene, etc)
 
