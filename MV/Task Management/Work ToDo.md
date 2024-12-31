@@ -20,24 +20,24 @@
 	- [ ] Process April-Oct
 - [ ] Pending Items 
 	- [ ] Reps alignment and accuracy
+		- [ ] Create Modified Audit Log 
+			- [ ] Get all OEMs
+			- [ ] All Filetypes
+			- [ ] All things Contained therein
+			- [ ] Update Frequency
+			- [ ] Latest File
+			- [ ] Inferred last date
+			- [ ] In system? (Estimate 15th or 30th)
+			- [ ] Updates on the 15th and 30th (end of month)
+		- [ ] Create and modify the Audit log
+			- [ ] Matching BIS to Audit percentage %
+				- [ ] BIS Stretch goals
+					- [ ] Add Zoll
+					- [ ] Add GE
+			- [ ] Come up with table to match file upload system and add it to data
+			- [ ] Add TBD to Sedation Procedure in BIS
 	- [ ] VOAS Work
 	- [ ] IDN metrics
-- [ ] Create Modified Audit Log 
-	- [ ] Get all OEMs
-	- [ ] All Filetypes
-	- [ ] All things Contained therein
-	- [ ] Update Frequency
-	- [ ] Latest File
-	- [ ] Inferred last date
-	- [ ] In system? (Estimate 15th or 30th)
-	- [ ] Updates on the 15th and 30th (end of month)
-- [ ] Create and modify the Audit log
-	- [ ] Matching BIS to Audit percentage %
-	- [ ] Come up with table to match file upload system and add it to data
-	- [ ] Add TBD to Sedation Procedure in BIS
-- [ ] BIS Stretch goals
-	- [ ] Add Zoll
-	- [ ] Add GE
 - [ ] BIS Dashboard
 	- [ ] Get 50 customers
 	- [ ] Filter customer list to BIS only
@@ -48,7 +48,6 @@
 	- [ ] Only sockets
 	- [ ] US vs global
 	- [ ] Select individual OEMs
-- [ ] [[Philips Consumables]] refactor
 - [ ] Get location of salesforce data from [[Allison]]
 - [[BIS INVOS TABLE AND DASHBOARD]]
 	- Documentation
@@ -68,7 +67,9 @@
 
 
 # Secondary
-
+- [[Invos]] dashboard
+- Implement global tracking and tracing, US only right now
+- Snowflake transition
 
 
 

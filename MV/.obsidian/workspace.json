@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,8 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08f8a3d2f2cf52ff",
+  "active": "90d981e59e07e7b4",
   "lastOpenFiles": [
+    "Task Management/Daily ToDo.md",
+    "Knowledge Base/Media/Games/Persona 5 Royal.md",
     "Knowledge Base/Parenting/Milestones.md",
     "Knowledge Base/Parenting/Untitled.md",
     "Knowledge Base/Media/Games/Black Myth - Wukong (2023).md",
@@ -223,7 +225,6 @@
     "Task Management/Work ToDo.md",
     "Daily Notes/December 30th 2024.md",
     "Daily Notes/December 21st 2024.md",
-    "Task Management/Daily ToDo.md",
     "Daily Notes/December 29th 2024.md",
     "New Notes/Untitled 1.md",
     "Daily Notes/December 28th 2024.md",
@@ -239,7 +240,6 @@
     "Daily Notes/December 8th 2024.md",
     "Daily Notes/December 12th 2024.md",
     "New Notes/FF.md",
-    "New Notes/2025 Goals.md",
     "Daily Notes/Archive/Nov 2024",
     "Daily Notes/Archive/Oct 2024",
     "Untitled",
