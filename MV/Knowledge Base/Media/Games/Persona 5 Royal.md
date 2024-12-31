@@ -9,5 +9,6 @@
 
 #### Notes
 - books
-	- zorro, then illsury popess
+	- tidying the heart
+	- illsury popess
 	- 
