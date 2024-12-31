@@ -21,3 +21,10 @@ LIMIT 5
 	- ![](https://x.com/blakeir/status/1873924201717059883?t=3JdpNVjm9o_gT-i5c4Nt0A&s=19)
 
  --- 
+- Description:: - learn all of high school math in a year
+- Link::[Tweet](https://x.com/tracewoodgrains/status/1873877065457647761?t=hdxXBCjCreBlXCuOH9V95w&s=19)
+- Tags:: #tweet #math #education 
+- Embed:: 
+	- ![](https://x.com/tracewoodgrains/status/1873877065457647761?t=hdxXBCjCreBlXCuOH9V95w&s=19)
+
+ --- 
