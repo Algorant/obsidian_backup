@@ -7,11 +7,17 @@
 [[League Organization API]] 
 
 ---
-#### General
+## General
 
-- [ ] buy bodin's batteries and charger
-- [ ] Fix Epson Printer
 - [ ] Nails for novi's door name thing
+- [ ] take down decorations
+- [x] buy bodin's batteries and charger
+- [ ] firefox general navigation
+	- [ ] firefox right click menu
+	- go between tabs?
+	- cycle up and down?
+	- consider checking zen browser
+- [ ] Fix Epson Printer
 - [ ] Advent of code 
 - [ ] Pay bills
 	- [ ] fpl
@@ -31,7 +37,6 @@
 	- [ ] mama & dada music
 	- [ ] metal
 - [ ] pay [[Al]] for [[Streetlight Manifesto]] tickets 
-- [ ] propose most points in #ff
 - [ ] contacts
 - [ ] mess with [[Anbernic]] stuff  
 	- [ ] look into custom firmware
@@ -42,12 +47,12 @@
 
 ---
 
-#### HoneyDos
+## HoneyDos
 - [ ] hang bird feeder 
 - [ ] caulk bathtub 
 - [ ] check ceiling leak
 
-#### RoboChumba
+## RoboChumba
 - [ ] [[Pulsz]] templates
 	- [ ] Envelopes
 	- [ ] Cards
@@ -56,7 +61,7 @@
 	- [ ] Enable or Disable Motors
 	- [ ] Return Home
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
-#### Shop
+## Shop
 - [ ] Create Solution for Picnic Table Birdfeeder
 - [ ] Fix spacing on the casters
 - [ ] Add locks to modular tables
@@ -69,18 +74,18 @@
 	- Thin rip jig
 	- Honing guide
 	-  #woodworking #giftideas
-#### Patio / Outdoor
+## Patio / Outdoor
 - [ ] graffiti remover for patio
 - [ ] Look into powerful pressure washer from funny carpenter [video](https://youtu.be/1uxSc7z5op8?si=jWCol5TJ98pq0HoT)
 - [ ] Finish [[Picnic Table]] 
-#### Blog / Projects
+## Blog / Projects
 - [ ] Explore [[Zola]]
 - [ ] Update [[Github]] site
 - [ ] Create [[x8|Exate]] Site
 - [ ] Create blog
 	- [ ] Create schedule for blog updates
 	- [ ] One topic per week
-#### Comptuer / Desktop 
+## Comptuer / Desktop 
 - [ ] Make custom layout on [[corne]]
 - [ ] remap caps-lock
 - [ ] Buy larger HDDs and create a #nas
@@ -111,7 +116,7 @@
 	- [ ] Points
 	- [ ] Questions
 	- [ ] Tasks
-#### Kiddos
+## Kiddos
 - [ ] Activities with [[Bodin|Bo]]
 	- [ ] Music ?
 		- [ ] Keyboard?
@@ -126,7 +131,7 @@
 - [ ] Kids passports
 - [ ] [[Bodin|Bo]] Rollerblading
 - [ ] [[Nova]] reading
-#### The Boys
+## The Boys
 - [ ] Reviews
 	- [ ] Toilet seat with built-in review
 	- [ ] Sodastream review 
