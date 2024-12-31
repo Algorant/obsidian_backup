@@ -201,9 +201,6 @@
 30. [[The Bands of Mourning|Mistborn Book 6]] [[The Bands of Mourning]]
 31. [[The Lost Metal|Mistborn Book 7]] [[The Lost Metal]]
 32. [[Yumi and the Nightmare Painter]]
-33. [[The Sunlit Man]] [[The Well of Ascension]]
-ok
-Mistborn 7
-Yumi
-Sunlit man
+33. [[The Sunlit Man]] 
+34. [[Anathem]]
 

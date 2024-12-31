@@ -3,8 +3,6 @@
 
 ## Projects
 - [[Socket Tracing]]
-- [[VA Work]] 
-- [[Commercial Wind-Down | Client Termination]]
 ---
 
 ## Tasks
@@ -15,9 +13,6 @@
 		- [ ] Just maps material number id to product type as a lookup table
 	- Combine with Consumables
 	- Find whats missing and document
-- [x] [[GE]] [[BIS]] and [[Microstream]]
-	- [x] Do [[BIS]] and [[Microstream]]
-	- [ ] get help for [[INVOS]] and [[Nellcor]]
 - [ ] Value of a Socket Pilot
 	- [ ] Filter first for accurate data
 	- [ ] Then do VOAS Calculation
@@ -40,7 +35,6 @@
 	- [ ] Matching BIS to Audit percentage %
 	- [ ] Come up with table to match file upload system and add it to data
 	- [ ] Add TBD to Sedation Procedure in BIS
-- [x] Respond to Mallory about VA stuff
 - [ ] BIS Stretch goals
 	- [ ] Add Zoll
 	- [ ] Add GE
@@ -54,37 +48,7 @@
 	- [ ] Only sockets
 	- [ ] US vs global
 	- [ ] Select individual OEMs
-- [x] Create same process for GE_BISX and ApexPro
 - [ ] [[Philips Consumables]] refactor
-	- [ ] Change Raw_Results to OEM
-	- [ ] add 'Source' as philips consumables
-	- [ ] Remove Matchfile as intermediate step, just take all the rows from OEM file (Name, City, State, Zip (as 5), Country, Comparison String )
-	- [ ] verify leading zeroes being used for match (as strings?)
-	- [ ] Create threshold and Split matched with unmatched and add metrics
-	- [ ] Figure out Override process (use old files for now)
-- [ ] Reuse the code and apply to Draeger and Nihon Kohden
-- [ ] Add everything to the same files
-	- [ ] One masterfile
-	- [ ] One Uploadfile
-- [x] Make [[BIS INVOS TABLE AND DASHBOARD]] plan
-	- [[INVOS]] is the same as "Regional Saturation" 
-		
-- [ ] Make dashboard work checklist
-	- [ ] Create QA_Verification Page in [[OEM Data Modeling]] file
-	- [ ] Re-Run Philips Consumables and refactor to script
-		- [ ] Separate Creating source file vs updating
-		- [ ] Will need an excel file with
-			- [ ] All matches, all unmatches
-	- [ ] Re-Run Testing Suite on ACM prod usage and refactor to script
-	- [ ] Status report 
-- [ ] ACM Re-factor
-	- [ ] Try Example Row and Fill it out with sql data
-	- [ ] Fill out sql updates in sql ide
-	- [ ] Get SQL Updates and run from python local
-	- [ ] add to script
-- [ ] Update [[Philips]] consumables data and apply the override file
-	- [ ] Apply on comparison string, might need multiple
-	- [ ] Alternatively: name and cust_id combo
 - [ ] Get location of salesforce data from [[Allison]]
 - [[BIS INVOS TABLE AND DASHBOARD]]
 	- Documentation
@@ -103,56 +67,10 @@
 
 
 
-### Other
-- For OEM
-	- Match Intellivue as Product Name
-	- Match MP5 as Product Name
-- Process for checking what source it's coming from:
-	- Check Channels: MDT is medtronic, or OEM is OEM, go to the customer
-		- Check consumables after that, if consumable column is yes, then direct sales
-		- if no then its install base
-- Process for top 200 checklist
-	- check for dups in name, ie if phoenix children's, search phoenix children's in rest of it
-	- verify numbers in raw data file
-	- validate bed data 
-		- coming into dataset
-		- and bed data googlable? and how far off is it
-	- check raw procedure file data
-	- is this idn level or is this sold to?
-		- check consumable piece and it will tell you
-		- if its 0 consumables, flag that its 0 idn
-	- 
-- OEM part ID, mat_lvl6_num, only the hardware
-	- install base num from hardware
-	- filter
-	- agg and sort by 
-- idn vs mid analysis
-- [ ] Create Master Uploader
-	- [ ] Create Way to Update individual Clients
-		- [ ] Take master file for each, have an "update" function for each one
-		- [ ] Spit out Matched, Unmatched, and Transactions for each one
-		- [ ] Once created, can make a consolidated CID file
-		- [ ] Document specifics on each client in plain english
-		- [ ] Create QA flow for anyone wanting to update unmatched things or etc
-		- [ ] Once uploaded, create change table or monitor table
-		- [ ] Test new uploads
-	- [ ] Flow into master upload file
-	- [ ] Monitor changes, which OEM, and what type (socket or consumable)
-	- [ ] Push that into ES_MITG table
-- Meeting Discussion 5/13
-	- [ ] [[TODO]] Top 100, 200, 500, 1000
-		- Standalone install base + oem descending
-			- note: philips should not show up as a customer there
-	- Certified customer field:
-		- Once checked, gives a yes/no or 1/0, whatever to mean that it's clean and good for the dataset
-	- Critera of top 200
-		- Sort by standalone desc
-		- sort by oem desc
-		- sort with both added together
-		- have a column showing what they have in common
-		- Sort by philips sockets, install 
-	- Summary for direct sales:
-		- At month transaction level per customer per item
+# Secondary
+
+
+
 
 
 ---

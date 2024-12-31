@@ -552,3 +552,12 @@
 - [x] Alteryx thing
 - [x] Hours
 - [x] Update Tasks
+#### December 31st 2024
+- [x] Make [[BIS INVOS TABLE AND DASHBOARD]] plan
+	- [[INVOS]] is the same as "Regional Saturation" 
+		
+- [x] Create same process for GE_BISX and ApexPro
+- [x] Respond to Mallory about VA stuff
+- [x] [[GE]] [[BIS]] and [[Microstream]]
+	- [x] Do [[BIS]] and [[Microstream]]
+	- [x] get help for [[INVOS]] and [[Nellcor]] 
