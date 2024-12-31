@@ -5,3 +5,9 @@
 ## Time Played:: 100h
 ## Complete:: No
 ## Tags:: #gods #persona #jrpg #slice-of-life #pc #ps4
+
+
+#### Notes
+- books
+	- ghost encounters
+	- 
