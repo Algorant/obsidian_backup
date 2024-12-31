@@ -11,6 +11,7 @@
 
 - [ ] Nails for novi's door name thing
 - [ ] take down decorations
+- [ ] clean up [[AUR]] stuff (llm is for rustformers, not the simon willison project, etc)
 - [x] buy bodin's batteries and charger
 - [ ] firefox general navigation
 	- [ ] firefox right click menu
