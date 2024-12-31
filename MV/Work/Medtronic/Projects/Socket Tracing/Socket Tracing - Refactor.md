@@ -1,25 +1,19 @@
 
 # Components
 
-- Components from SQL
-	- [[Direct Sales]]
-	- [[Standalone Install Base]]
-	- [[Bed and Procedures]]
-	- [[MID Columns]]
-	- [[Geolocation columns]]
-	- [[Time columns]]
-	- [[Cust_ID columns]]
-- Components from lookup (current excel, should be SQL)
-	- [[Override Table]]
-	- [[Product Matching Table]]
-	- [[Customer Validation Table]]
-	- [[Account Director Lookup Table]] (needs to be created)
+- [[Direct Sales]]
+- [[Standalone Install Base]]
+- [[OEM Sales]]
+- [[Product Matching]]
+- [[Customer Validation]]
+- [[Overrides]]
+- [[Account Director and Sales Reps]]
+- [[Cust_ID columns]]
+- [[MID Columns]]
+- [[Bed and Procedures]]
+- [[Geolocation columns]]
+- [[Time columns]]
 
-### Parsing / Cleaning / Filtering
-- Create empty ACM Table
-- Create Updatable Master Fuzzy File
-- Organized by [[Socket Tracing - Documentation#Client List ||Client]]
-- Creating [[Testing Suite]] for Processing
 ### Uploading
 - Updating Master List
 - Updating Matched and Unmatched Lists
