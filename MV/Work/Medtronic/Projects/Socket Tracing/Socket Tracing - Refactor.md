@@ -30,4 +30,5 @@
 - OEM_Ctry was missing from direct sales when translated from SQL to python
 - Standalone has many products which are not categorized anywhere yet, can find them with Material ID where Product Name is Nan (and can be filled in using lookup table that matches product names. Cap 20, capt 35, etc)
 - Need account director lookup created (Linda berry, kiyo, robin keene, etc)
+- Note: Override needs to be before the Cust_ID column matching because lots of things are joined downstream of it
 
