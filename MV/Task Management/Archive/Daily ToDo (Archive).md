@@ -913,3 +913,14 @@ scheduled today
 - [x] Workout
 #### December 25th 2024
 - [x] Wrap Presents 
+#### January 1st 2025
+- [x] firefox general navigation
+	- [x] firefox right click menu
+	- go between tabs?
+	- cycle up and down?
+	- consider checking zen browser
+- [x] clean up [[AUR]] stuff (llm is for rustformers, not the simon willison project, etc)
+- [x] Clean 
+- [x] tesla
+- [x] fpl
+- [x] buy bodin's batteries and charger

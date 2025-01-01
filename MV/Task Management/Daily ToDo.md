@@ -9,26 +9,16 @@
 ---
 ## General
 
-- [ ] Nails for novi's door name thing
+- [ ] Nails for novi's door name thing 
 - [ ] take down decorations
-- [ ] clean up [[AUR]] stuff (llm is for rustformers, not the simon willison project, etc)
-- [x] buy bodin's batteries and charger
-- [ ] firefox general navigation
-	- [ ] firefox right click menu
-	- go between tabs?
-	- cycle up and down?
-	- consider checking zen browser
 - [ ] Fix Epson Printer
 - [ ] Advent of code 
 - [ ] Pay bills
-	- [ ] fpl
-	- [ ] tesla
-	- [ ] CC payoff
+	- [ ] CC payoff 
 	- [ ] cord blood
 	- [ ] massey
 	- [ ] student loan
 - [ ] Office
-	- [x] Clean 
 	- [ ] Desk organization things
 	- [ ] Sell Red Chair
 - [ ] reorganize [[Seedbox]] and clean up [[Movieclub selections]]
