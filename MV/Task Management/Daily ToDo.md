@@ -10,8 +10,10 @@
 ## General
 
 - [ ] Nails for novi's door name thing 
-- [ ] take down decorations
+- [ ] rolls for bodins camera
 - [ ] Fix Epson Printer
+	- [ ] buy printer kit
+- [ ] take down decorations
 - [ ] Advent of code 
 - [ ] Pay bills
 	- [ ] CC payoff 
@@ -39,6 +41,7 @@
 ---
 
 ## HoneyDos
+- [ ] fix mailbox
 - [ ] hang bird feeder 
 - [ ] caulk bathtub 
 - [ ] check ceiling leak
