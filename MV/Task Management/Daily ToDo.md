@@ -9,12 +9,13 @@
 ---
 ## General
 
-- [ ] Nails for novi's door name thing 
+- [x] Nails for novi's door name thing 
 - [ ] rolls for bodins camera
 - [ ] Fix Epson Printer
 	- [ ] buy printer kit
 - [ ] take down decorations
 - [ ] Advent of code 
+- [ ] Mailbox Post
 - [ ] Pay bills
 	- [ ] CC payoff 
 	- [ ] cord blood
