@@ -32,5 +32,5 @@
 - Need account director lookup created (Linda berry, kiyo, robin keene, etc)
 - Note: Override needs to be before the Cust_ID column matching because lots of things are joined downstream of it
 -  COL Check Step 9 vs alteryx: Missing certified cust and regular date (modified ac.gi date) columns, 40 vs 42
-- 
+- Beds and procedures need to be summed and grouped by cust_mid (can be done in sql query)
 
