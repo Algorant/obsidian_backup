@@ -27,8 +27,17 @@
 - Process into duck_db or leave as csv (with timestamp)
 
 # Action Items
-- Override List
-- Product Group List
+- IDNs
+	- solidify who and maintain appropriately
+- Override List and other things that should be Maintained
+	- IDNs
+	- Matching Table
+	- Product Group List
+- OEM follow up and missing pieces
+	- Create relationships with each
+	- Automate drops if possible
+	- Zoll missing dates
+	- Missing entire things for jacobi and alaris/bd
 - Rep Alignment Sanity Check
 
 
