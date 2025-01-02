@@ -22,7 +22,14 @@
 # Knime / Alteryx Integrations
 - Individual scripts should be usable inside of these programs
 
-# Parts needed:
+# Todo
+- Automate nightly sql downloads
+- Process into duck_db or leave as csv (with timestamp)
+
+# Action Items
+- Override List
+- Product Group List
+- Rep Alignment Sanity Check
 
 
 
@@ -33,4 +40,5 @@
 - Note: Override needs to be before the Cust_ID column matching because lots of things are joined downstream of it
 -  COL Check Step 9 vs alteryx: Missing certified cust and regular date (modified ac.gi date) columns, 40 vs 42
 - Beds and procedures need to be summed and grouped by cust_mid (can be done in sql query)
+- Step 9in the OEM_ORIG_CUST_NM I have an error, think I did string of "sold_to_customer_name" instead of the column
 
