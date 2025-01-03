@@ -3,6 +3,8 @@
 
 ## Projects
 - [[Socket Tracing]]
+- [[Snowflake]] migration
+- 
 ---
 
 ## Tasks
