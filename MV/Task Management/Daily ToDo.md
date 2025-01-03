@@ -17,7 +17,7 @@
 - [ ] Advent of code 
 - [ ] Mailbox Post
 - [ ] Pay bills
-	- [ ] CC payoff 
+	- [x] CC payoff 
 	- [ ] cord blood
 	- [ ] massey
 	- [ ] student loan
