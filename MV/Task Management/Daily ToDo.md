@@ -14,6 +14,7 @@
 - [ ] Fix Epson Printer
 	- [ ] buy printer kit
 - [ ] take down decorations
+- [ ] call old homeowners insurance for refund
 - [ ] Advent of code 
 - [ ] Mailbox Post
 - [ ] Pay bills
