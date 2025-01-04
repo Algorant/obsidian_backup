@@ -11,4 +11,7 @@
 - books
 	- tidying the heart
 	- illsury popess
+- arcana
+	- hanged man 5
+		- after this, need to do an affinity for next rankup
 	- 
