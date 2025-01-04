@@ -10,6 +10,7 @@
 ## General
 
 - [x] Nails for novi's door name thing 
+- [ ] medicine dose for [[Lisa]]
 - [ ] buy Ikea shoe thing 
 - [ ] return wiggle car
 - [ ] reorganize black and yellow chests 
