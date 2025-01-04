@@ -10,6 +10,9 @@
 ## General
 
 - [x] Nails for novi's door name thing 
+- [ ] buy Ikea shoe thing 
+- [ ] return wiggle car
+- [ ] reorganize black and yellow chests 
 - [ ] rolls for bodins camera
 - [ ] Fix Epson Printer
 	- [ ] buy printer kit
