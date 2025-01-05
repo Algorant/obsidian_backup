@@ -11,9 +11,9 @@
 
 - [ ] medicine dose for [[Lisa]]
 - [ ] buy Ikea shoe thing 
-- [ ] rolls for bodins camera 
+- [x] rolls for bodins camera 
 - [ ] Fix Epson Printer
-	- [ ] buy printer kit
+	- [x] buy printer kit
 - [ ] call old homeowners insurance for refund
 - [ ] Advent of code 
 - [ ] Mailbox Post
@@ -60,6 +60,7 @@
 ## Shop
 - [ ] Create Solution for Picnic Table Birdfeeder
 - [ ] Fix spacing on the casters
+- [ ] Organize 
 - [ ] Add locks to modular tables
 - [ ] Build new [[Table Saw Table]]
 	- [ ] Index it to the right side to retain fence capabilities
