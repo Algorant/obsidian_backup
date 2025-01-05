@@ -924,3 +924,8 @@ scheduled today
 - [x] tesla
 - [x] fpl
 - [x] buy bodin's batteries and charger
+#### January 4th 2025
+- [x] take down decorations
+- [x] reorganize black and yellow chests 
+- [x] return wiggle car
+- [x] Nails for novi's door name thing 
