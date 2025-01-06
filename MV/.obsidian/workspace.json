@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,13 +212,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069b347321cdd23d",
+  "active": "08f8a3d2f2cf52ff",
   "lastOpenFiles": [
+    "Task Management/Daily ToDo.md",
+    "Daily Notes/January 6th 2025.md",
     "Knowledge Base/Media/Games/Persona 5 Royal.md",
     "Daily Notes/January 5th 2025.md",
     "Daily Notes/January 4th 2025.md",
     "Work/Medtronic/Glossary/Snowflake.md",
-    "Task Management/Daily ToDo.md",
     "Daily Notes/December 21st 2024.md",
     "Daily Notes/Archive/2023/July 2023/July 10th 2023.md",
     "Daily Notes/Archive/2023/July 2023/July 25th 2023.md",
@@ -239,7 +240,6 @@
     "Daily Notes/Archive/2023/June 2023/June 19th 2023.md",
     "Daily Notes/Archive/2023/June 2023/June 17th 2023.md",
     "Daily Notes/Archive/2023/June 2023/June 16th 2023.md",
-    "Daily Notes/Archive/2023/June 2023/June 11th 2023.md",
     "Daily Notes/Archive/Nov 2024",
     "Daily Notes/Archive/Oct 2024",
     "Untitled",

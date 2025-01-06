@@ -39,6 +39,8 @@
 	- Zoll missing dates
 	- Missing entire things for jacobi and alaris/bd
 - Rep Alignment Sanity Check
+- Allison Priority
+	- 
 
 
 
