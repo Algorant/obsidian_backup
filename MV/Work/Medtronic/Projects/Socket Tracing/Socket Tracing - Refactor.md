@@ -51,4 +51,5 @@
 - Beds and procedures need to be summed and grouped by cust_mid (can be done in sql query)
 - Step 9: in the OEM_ORIG_CUST_NM I have an error, think I did string of "sold_to_customer_name" instead of the column
 - Step 12, the global location columns, GSDM_GEOGRAPHY are missing (Geo region and geo sub region)
+- The GE OEM file is not complete on product matching, you have approx 893 items that do not match. Will remove for now.
 

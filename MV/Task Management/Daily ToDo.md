@@ -26,7 +26,7 @@
 	- [ ] Desk organization things
 	- [ ] Sell Red Chair
 - [ ] reorganize [[Seedbox]] and clean up [[Movieclub selections]]
-	- [ ] order HDDs and make actual storage
+	- [x] order HDDs and make actual storage
 - [ ] look into yoto custom 
 	- [ ] oldies
 	- [ ] mama & dada music
@@ -58,14 +58,15 @@
 	- [ ] Return Home
 - [ ] Put [[Robochumba]] on dedicated machine and just ssh into it
 ## Shop
-- [ ] Create Solution for Picnic Table Birdfeeder
-- [ ] Fix spacing on the casters
-- [ ] Organize 
-- [ ] Add locks to modular tables
+- [ ] Reorganize Storage Bins
+- [ ] Cut off right side storage if needed
 - [ ] Build new [[Table Saw Table]]
-	- [ ] Index it to the right side to retain fence capabilities
-	- [ ] Cut MDF parts for front
-	- [ ] Get dimensions for back
+- [ ] Drawers for Main Workbench
+- [ ] Finish Pirate Treasure Chest
+- [ ] Birdfeeder
+- [ ] Kitchen Pullouts 
+- [ ] Create Solution for Picnic Table
+- [ ] Add locks to modular tables
 - GoHelper tools
 	- 3D square
 	- Thin rip jig
