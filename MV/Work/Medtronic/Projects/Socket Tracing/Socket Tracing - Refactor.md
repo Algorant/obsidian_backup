@@ -50,5 +50,5 @@
 -  COL Check Step 9 vs alteryx: Missing certified cust and regular date (modified ac.gi date) columns, 40 vs 42
 - Beds and procedures need to be summed and grouped by cust_mid (can be done in sql query)
 - Step 9: in the OEM_ORIG_CUST_NM I have an error, think I did string of "sold_to_customer_name" instead of the column
-- 
+- Step 12, the global location columns, GSDM_GEOGRAPHY are missing (Geo region and geo sub region)
 
