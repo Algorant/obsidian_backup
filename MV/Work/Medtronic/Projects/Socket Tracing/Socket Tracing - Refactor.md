@@ -40,7 +40,10 @@
 	- Missing entire things for jacobi and alaris/bd
 - Rep Alignment Sanity Check
 - Allison Priority
-	- 
+- Date Alignment
+	- Take maximum date for old OEM
+		- Will call cutoff date, most recent complete date
+		- 
 
 
 
