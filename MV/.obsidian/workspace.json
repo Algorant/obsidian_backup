@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,11 +212,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08f8a3d2f2cf52ff",
+  "active": "069b347321cdd23d",
   "lastOpenFiles": [
+    "Knowledge Base/Media/Games/Persona 5 Royal.md",
     "Task Management/Daily ToDo.md",
     "Daily Notes/January 6th 2025.md",
-    "Knowledge Base/Media/Games/Persona 5 Royal.md",
     "Daily Notes/January 5th 2025.md",
     "Daily Notes/January 4th 2025.md",
     "Work/Medtronic/Glossary/Snowflake.md",

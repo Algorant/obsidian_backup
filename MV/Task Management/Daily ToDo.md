@@ -23,6 +23,7 @@
 	- [ ] massey
 	- [ ] student loan
 - [ ] Office
+	- [ ] new wheels/casters
 	- [ ] Desk organization things
 	- [ ] Sell Red Chair
 - [ ] reorganize [[Seedbox]] and clean up [[Movieclub selections]]
