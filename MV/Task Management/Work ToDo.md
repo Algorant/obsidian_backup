@@ -2,19 +2,14 @@
 # Primary
 
 ## Projects
-- [[Socket Tracing]]
+- [[Socket Tracing - Refactor]]
 - [[Snowflake]] migration
-- 
 ---
 
 ## Tasks
-- Refactor
-	- [x] Process Direct Sales
-	- [x] Process Standalone
-		- [ ] Add product component
-		- [ ] Just maps material number id to product type as a lookup table
-	- Combine with Consumables
-	- Find whats missing and document
+- [[Socket Tracing - Refactor]]
+	- [ ] Rep Alignment
+	- [ ] Customer Validation
 - [ ] Value of a Socket Pilot
 	- [ ] Filter first for accurate data
 	- [ ] Then do VOAS Calculation
@@ -51,21 +46,6 @@
 	- [ ] US vs global
 	- [ ] Select individual OEMs
 - [ ] Get location of salesforce data from [[Allison]]
-- [[BIS INVOS TABLE AND DASHBOARD]]
-	- Documentation
-		- Give the specifics for each OEM
-			- what dates we have info for
-			- what their main business is (bis, invos, microstream) (percentage?)
-			- whether mostly us or mostly international (percentage?)
-			- date last updated
-	- Create standardized columns for table
-		- Add Date Processed and Date Uploaded
-	- Organize OEMs into this format
-	- Create One big upload function
-	- Upload to table
-	- Refactors
-	- Update Files and Get Date Timestamps
-
 
 
 # Secondary
