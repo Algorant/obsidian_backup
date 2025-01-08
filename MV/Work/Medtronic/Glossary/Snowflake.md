@@ -3,12 +3,15 @@
 
 ## Questions
 - What Environments available to use
+	- It seems like I can create schemas, but not view them
 - Basic flow for testing Table and CRUD
 - How to access [[S3]]
 - How to make repo in [[Gitlab]]
 - How to push from [[Gitlab]]
 
 ## S3 Access
+- Login Process of AWSUSE1P1?
+- Locked out of Keys still
 - What environment and how to connect to Snowflake
 ## Gitlab
 - How to make repo or project
