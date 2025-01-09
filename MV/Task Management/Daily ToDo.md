@@ -9,7 +9,7 @@
 ---
 ## General
 
-- [ ] medicine dose for [[Lisa]]
+- [x] medicine dose for [[Lisa]]
 - [ ] buy Ikea shoe thing 
 - [x] rolls for bodins camera 
 - [ ] Fix Epson Printer
@@ -17,6 +17,7 @@
 - [ ] call old homeowners insurance for refund
 - [ ] Advent of code 
 - [ ] Mailbox Post
+- [ ] Treasure Chest
 - [ ] Pay bills
 	- [x] CC payoff 
 	- [ ] cord blood
