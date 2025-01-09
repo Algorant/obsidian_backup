@@ -10,6 +10,8 @@
 - [[Socket Tracing - Refactor]]
 	- [ ] Rep Alignment
 	- [ ] Customer Validation
+- [ ] BIS Procedures are General Anesthesia
+- [ ] VOAS description should be 
 - [ ] Value of a Socket Pilot
 	- [ ] Filter first for accurate data
 	- [ ] Then do VOAS Calculation
