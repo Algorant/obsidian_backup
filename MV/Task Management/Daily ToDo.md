@@ -11,6 +11,8 @@
 
 - [x] medicine dose for [[Lisa]]
 - [ ] buy Ikea shoe thing 
+- [ ] deep clean printer
+- [ ] print 50 more LuckyLand
 - [x] rolls for bodins camera 
 - [ ] Fix Epson Printer
 	- [x] buy printer kit

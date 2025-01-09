@@ -66,9 +66,24 @@
               "icon": "lucide-file",
               "title": "Snowflake"
             }
+          },
+          {
+            "id": "31af5cbd50fa605a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Computers/Software/Prowlarr.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prowlarr"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,10 +227,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069b347321cdd23d",
+  "active": "31af5cbd50fa605a",
   "lastOpenFiles": [
-    "Daily Notes/January 8th 2025.md",
+    "Daily Notes/January 9th 2025.md",
+    "Knowledge Base/Computers/Software/Prowlarr.md",
+    "New Notes/myanonymouse.md",
     "Task Management/Daily ToDo.md",
+    "Daily Notes/January 8th 2025.md",
     "New Notes/Movieclub Round 4.md",
     "Knowledge Base/Media/Games/Persona 5 Royal.md",
     "Daily Notes/January 6th 2025.md",
@@ -237,9 +255,6 @@
     "Daily Notes/Archive/2023/June 2023/June 28th 2023.md",
     "Daily Notes/Archive/2023/June 2023/June 26th 2023.md",
     "Daily Notes/Archive/2023/June 2023/June 24th 2023.md",
-    "Daily Notes/Archive/2023/June 2023/June 25th 2023.md",
-    "Daily Notes/Archive/2023/June 2023/June 18th 2023.md",
-    "Daily Notes/Archive/2023/June 2023/June 19th 2023.md",
     "Daily Notes/Archive/Nov 2024",
     "Daily Notes/Archive/Oct 2024",
     "Untitled",
