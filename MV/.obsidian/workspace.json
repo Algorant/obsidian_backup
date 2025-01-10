@@ -81,9 +81,24 @@
               "icon": "lucide-file",
               "title": "Prowlarr"
             }
+          },
+          {
+            "id": "b56c959547322edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Tech/Homelab/OpenMediaVault.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenMediaVault"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,19 +242,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31af5cbd50fa605a",
+  "active": "b56c959547322edc",
   "lastOpenFiles": [
-    "Daily Notes/January 9th 2025.md",
+    "Knowledge Base/Media/Games/Persona 5 Royal.md",
+    "Work/Medtronic/Glossary/Snowflake.md",
     "Knowledge Base/Computers/Software/Prowlarr.md",
+    "Daily Notes/January 9th 2025.md",
     "New Notes/myanonymouse.md",
     "Task Management/Daily ToDo.md",
     "Daily Notes/January 8th 2025.md",
     "New Notes/Movieclub Round 4.md",
-    "Knowledge Base/Media/Games/Persona 5 Royal.md",
     "Daily Notes/January 6th 2025.md",
     "Daily Notes/January 5th 2025.md",
     "Daily Notes/January 4th 2025.md",
-    "Work/Medtronic/Glossary/Snowflake.md",
     "Daily Notes/December 21st 2024.md",
     "Daily Notes/Archive/2023/July 2023/July 10th 2023.md",
     "Daily Notes/Archive/2023/July 2023/July 25th 2023.md",

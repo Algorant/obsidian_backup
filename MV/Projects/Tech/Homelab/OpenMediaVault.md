@@ -21,5 +21,7 @@ aliases:
 
 ### Connect from Windows
 - Add the drive, pick whatever letter, mount as \\{ip}\{folder name}
+	- For example I called my shared folder 'bignas' and therefore: `\\192.168.68.60\bignas` 
 - it'll ask you for credentials, on [[OpenMediaVault]] this is the machine's credentials, but you can change them under Users
-- 
+- Map network drive the same way
+- This [video](https://www.youtube.com/watch?v=oOvb5w5q-Uk&t=533s) is a good reference
