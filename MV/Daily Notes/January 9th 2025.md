@@ -14,3 +14,7 @@ LIMIT 5
 
 ---
 ## Links
+- Type: Link
+     - Tags: #lesswrong #education #video
+     - Description: Less wrong post on best links on every subject 
+     - [Link](https://www.lesswrong.com/posts/SXJGSPeQWbACveJhs/the-best-tacit-knowledge-videos-on-every-subject)
