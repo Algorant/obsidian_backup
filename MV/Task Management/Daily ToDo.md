@@ -10,6 +10,8 @@
 ## General
 
 - [x] buy Ikea shoe thing 
+- [ ] wiper fluid
+- [ ] cup holder Tesla 
 - [ ] print 50 more LuckyLand
 - [ ] move red chair
 - [ ] attic storage from office
