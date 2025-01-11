@@ -15,10 +15,10 @@
 - [ ] attic storage from office
 - [ ] deep clean printer
 - [ ] call old homeowners insurance for refund
-- [ ] Advent of code 
+- [ ] finish [[Advent of Code]]
 - [ ] Mailbox Post
-
-- [ ] Treasure Chest
+- [ ] Treasure Chest Plan solidify and verify
+	- [ ] caulk insides
 - [ ] Pay bills
 	- [x] CC payoff 
 	- [ ] cord blood
@@ -79,6 +79,7 @@
 - [ ] Finish [[Picnic Table]] 
 - [ ] Fix big storage thing
 - [ ] Add frame and casters
+- [ ] caulk insides
 ## Blog / Projects
 - [ ] Explore [[Zola]]
 - [ ] Update [[Github]] site
