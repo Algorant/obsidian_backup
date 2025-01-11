@@ -14,7 +14,10 @@ LIMIT 5
 
 ---
 ## Links
-- Type: Link
-     - Tags: #lesswrong #education #videos 
-     - Description: Less wrong post on best links on every subject 
-     - [Link](https://www.lesswrong.com/posts/SXJGSPeQWbACveJhs/the-best-tacit-knowledge-videos-on-every-subject)
+- Description:: - LLM usage with #uv
+- Link::[Tweet](https://x.com/charliermarsh/status/1877808597855310320?t=2X3ONuB8MNE9knvByn-sOQ&s=19)
+- Tags:: #tweet #uv #python #cli #llms 
+- Embed:: 
+	- ![](https://x.com/charliermarsh/status/1877808597855310320?t=2X3ONuB8MNE9knvByn-sOQ&s=19)
+
+ --- 

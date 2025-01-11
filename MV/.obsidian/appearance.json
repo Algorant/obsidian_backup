@@ -4,6 +4,5 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "translucency": false,
-  "enabledCssSnippets": [],
-  "showRibbon": false
+  "enabledCssSnippets": []
 }
