@@ -9,13 +9,11 @@
 ---
 ## General
 
-- [x] medicine dose for [[Lisa]]
 - [ ] buy Ikea shoe thing 
-- [x] deep clean printer
 - [ ] print 50 more LuckyLand
-- [x] rolls for bodins camera 
-- [ ] Fix Epson Printer
-	- [x] buy printer kit
+- [ ] move red chair
+- [ ] attic storage from office
+- [ ] deep clean printer
 - [ ] call old homeowners insurance for refund
 - [ ] Advent of code 
 - [ ] Mailbox Post
@@ -25,12 +23,10 @@
 	- [ ] cord blood
 	- [ ] massey
 	- [ ] student loan
-- [ ] Office
+- [ ] Office 
 	- [ ] new wheels/casters
 	- [ ] Desk organization things
 	- [ ] Sell Red Chair
-- [ ] reorganize [[Seedbox]] and clean up [[Movieclub selections]]
-	- [x] order HDDs and make actual storage
 - [ ] look into yoto custom 
 	- [ ] oldies
 	- [ ] mama & dada music

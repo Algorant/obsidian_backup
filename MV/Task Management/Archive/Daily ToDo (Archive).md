@@ -929,3 +929,10 @@ scheduled today
 - [x] reorganize black and yellow chests 
 - [x] return wiggle car
 - [x] Nails for novi's door name thing 
+#### January 10th 2025
+- [x] reorganize [[Seedbox]] and clean up [[Movieclub selections]]
+	- [x] order HDDs and make actual storage
+- [x] Fix Epson Printer
+	- [x] buy printer kit
+- [x] rolls for bodins camera 
+- [x] medicine dose for [[Lisa]]
