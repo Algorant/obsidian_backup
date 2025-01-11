@@ -9,7 +9,7 @@
 ---
 ## General
 
-- [ ] buy Ikea shoe thing 
+- [x] buy Ikea shoe thing 
 - [ ] print 50 more LuckyLand
 - [ ] move red chair
 - [ ] attic storage from office
@@ -17,6 +17,7 @@
 - [ ] call old homeowners insurance for refund
 - [ ] Advent of code 
 - [ ] Mailbox Post
+
 - [ ] Treasure Chest
 - [ ] Pay bills
 	- [x] CC payoff 
@@ -76,6 +77,8 @@
 - [ ] graffiti remover for patio
 - [ ] Look into powerful pressure washer from funny carpenter [video](https://youtu.be/1uxSc7z5op8?si=jWCol5TJ98pq0HoT)
 - [ ] Finish [[Picnic Table]] 
+- [ ] Fix big storage thing
+- [ ] Add frame and casters
 ## Blog / Projects
 - [ ] Explore [[Zola]]
 - [ ] Update [[Github]] site
