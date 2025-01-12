@@ -10,6 +10,8 @@
 ## General
 
 - [x] buy Ikea shoe thing 
+- [ ] call to get VIP Wild Kratts tickets
+	- [ ] 954-344-5991
 - [ ] wiper fluid
 - [ ] cup holder Tesla 
 - [ ] print 50 more LuckyLand
