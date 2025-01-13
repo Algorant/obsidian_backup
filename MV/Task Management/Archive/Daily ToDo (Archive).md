@@ -936,3 +936,7 @@ scheduled today
 	- [x] buy printer kit
 - [x] rolls for bodins camera 
 - [x] medicine dose for [[Lisa]]
+#### January 12th 2025
+- [x] move red chair
+- [x] cup holder Tesla 
+- [x] buy Ikea shoe thing 

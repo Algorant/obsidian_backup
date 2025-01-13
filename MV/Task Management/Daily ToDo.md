@@ -9,14 +9,12 @@
 ---
 ## General
 
-- [x] buy Ikea shoe thing 
 - [ ] call to get VIP Wild Kratts tickets
 	- [ ] 954-344-5991
 - [ ] wiper fluid
-- [ ] cup holder Tesla 
-- [ ] print 50 more LuckyLand
-- [ ] move red chair
-- [ ] attic storage from office
+- [ ] foot peel
+- [ ] print 100  [[Luckyland]]
+- [ ] attic storage from office 
 - [ ] deep clean printer
 - [ ] call old homeowners insurance for refund
 - [ ] finish [[Advent of Code]]
