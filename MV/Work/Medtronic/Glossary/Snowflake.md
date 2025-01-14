@@ -1,6 +1,8 @@
 
 [Workspace URL](https://app.snowflake.com/mdtplc/awsuse1p1/dashboards)
 
+- If I am creating a schema, the permissions for that schema need to be granted by the owner of the object.
+
 
 ## Questions
 - What Environments available to use
@@ -18,10 +20,18 @@
 - How to make repo or project
 ## Schema Change
 - Think I have the basic gist, will experiment
+- For version, by convention use yyyy-mm-dd because it will only process once
+- R__is repeatable 
+	- 
+- A__ is always, will always run no matter what
+- Migration/scripts is where object deployment will live
+- 
 ## Snowpark
 - Do we have access to this or notebooks in general
 
 ## Snowpipe
+
+
 
 
 Questions for [[Babu]]
