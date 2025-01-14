@@ -7,10 +7,13 @@
 ---
 
 ## Tasks
+- [ ] Add [[Mindray]] accounts
+- [ ] BIS Procedures are General Anesthesia Upload
+- [ ] Global View Upload
+- [ ] Mess with [[Snowflake]]
 - [[Socket Tracing - Refactor]]
 	- [ ] Rep Alignment
-	- [ ] Customer Validation
-- [ ] BIS Procedures are General Anesthesia
+	- [x] Customer Validation
 - [ ] Create "Executive Summary Date Range"
 - [ ] VOAS description should be 
 - [ ] Value of a Socket Pilot
