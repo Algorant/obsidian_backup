@@ -82,7 +82,8 @@
               "title": "OpenMediaVault"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,8 +227,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069b347321cdd23d",
+  "active": "08f8a3d2f2cf52ff",
   "lastOpenFiles": [
+    "Daily Notes/January 13th 2025.md",
+    "Knowledge Base/Media/Movies/The Mummy.md",
+    "Task Management/Daily ToDo.md",
     "Projects/Tech/Homelab/OpenMediaVault.md",
     "Daily Notes/January 11th 2025.md",
     "Daily Notes/January 10th 2025.md",
@@ -236,7 +240,6 @@
     "Knowledge Base/Computers/Software/Prowlarr.md",
     "Daily Notes/January 9th 2025.md",
     "New Notes/myanonymouse.md",
-    "Task Management/Daily ToDo.md",
     "Daily Notes/January 8th 2025.md",
     "New Notes/Movieclub Round 4.md",
     "Daily Notes/January 6th 2025.md",
@@ -252,8 +255,6 @@
     "Daily Notes/Archive/2023/July 2023/July 3rd 2023.md",
     "Daily Notes/Archive/2023/June 2023/June 23rd 2023.md",
     "Daily Notes/Archive/2023/June 2023/June 21st 2023.md",
-    "Daily Notes/Archive/2023/June 2023/June 30th 2023.md",
-    "Daily Notes/Archive/2023/June 2023/June 29th 2023.md",
     "Daily Notes/Archive/Nov 2024",
     "Daily Notes/Archive/Oct 2024",
     "Untitled",
