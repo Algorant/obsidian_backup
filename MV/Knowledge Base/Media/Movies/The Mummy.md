@@ -42,4 +42,5 @@ personalRating: 0
 - didn't know it was a remake
 - 30% 25%! Funny works for me
 - Lisa knows every like, highly recommended watching it with her if you can 
+- melting and scarab scene, rill bad
 - 
