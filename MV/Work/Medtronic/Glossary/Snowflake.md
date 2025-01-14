@@ -2,10 +2,6 @@
 [Workspace URL](https://app.snowflake.com/mdtplc/awsuse1p1/dashboards)
 
 
-todo
-write email to brad with questions
-cc babu, tanbeer, david
-
 ## Questions
 - What Environments available to use
 	- It seems like I can create schemas, but not view them
