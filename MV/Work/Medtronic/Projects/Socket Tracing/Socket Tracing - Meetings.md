@@ -4,7 +4,9 @@
 	- Hopefully have something tomorrow or Thursday
 - Override list should probably be able to filter 
 - Next Steps
-	- VOAS, Global
+	- VOAS, Global by Jan 30
+- Consolidate Product Lookup Sources
+	- By Sku, compensation, philips product lookup
 - 
 
 #### 2024-12-16
