@@ -44,4 +44,5 @@ personalRating: 0
 - Lisa knows every like, highly recommended watching it with her if you can 
 - melting and scarab scene, rill bad
 - yeeting the chair at Beni was so good
-- 
+- yelling back at the mummy 
+- whole thing really works, 
