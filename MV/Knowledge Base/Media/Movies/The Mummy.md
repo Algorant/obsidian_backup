@@ -45,4 +45,5 @@ personalRating: 0
 - melting and scarab scene, rill bad
 - yeeting the chair at Beni was so good
 - yelling back at the mummy 
-- whole thing really works, 
+- whole thing really works, Imhotep in general 
+- does he not help ben
