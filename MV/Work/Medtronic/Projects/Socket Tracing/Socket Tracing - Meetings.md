@@ -1,3 +1,12 @@
+
+#### 2025-01-14
+- Rep Alignment preview
+	- Hopefully have something tomorrow or Thursday
+- Override list should probably be able to filter 
+- Next Steps
+	- VOAS, Global
+- 
+
 #### 2024-12-16
 - Loose Ends File meeting
 	- 

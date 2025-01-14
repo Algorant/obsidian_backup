@@ -11,6 +11,7 @@
 	- [ ] Rep Alignment
 	- [ ] Customer Validation
 - [ ] BIS Procedures are General Anesthesia
+- [ ] Create "Executive Summary Date Range"
 - [ ] VOAS description should be 
 - [ ] Value of a Socket Pilot
 	- [ ] Filter first for accurate data
