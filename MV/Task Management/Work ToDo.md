@@ -4,21 +4,27 @@
 ## Projects
 - [[Socket Tracing - Refactor]]
 - [[Snowflake]] migration
+- For [[Tanbeer]]
+	- Rep alignment and all updates
+	- Some issues with VA requests data we are still responsible for
+	- Get percentage of data and latest anchor date for [[Allison]]
+	- Focus on BIS for meeting Monday
+		- Add Zoll and Stryker
 ---
 
 ## Tasks
 - [ ] Add [[Mindray]] accounts
 - [ ] BIS Procedures are General Anesthesia Upload
+- [ ] Create "Executive Summary Date Range"
 - [ ] Global View Upload
 - [ ] Mess with [[Snowflake]]
-- [[Socket Tracing - Refactor]]
-	- [ ] Rep Alignment
-	- [x] Customer Validation
-- [ ] Create "Executive Summary Date Range"
-- [ ] VOAS description should be 
 - [ ] Value of a Socket Pilot
 	- [ ] Filter first for accurate data
 	- [ ] Then do VOAS Calculation
+- [[Socket Tracing - Refactor]]
+	- [ ] Rep Alignment
+	- [x] Customer Validation
+- [ ] VOAS description should be 
 - [ ] Update Philips Consumables 
 	- [ ] Process April-Oct
 - [ ] Pending Items 
