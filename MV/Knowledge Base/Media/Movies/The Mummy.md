@@ -46,4 +46,5 @@ personalRating: 0
 - yeeting the chair at Beni was so good
 - yelling back at the mummy 
 - whole thing really works, Imhotep in general 
-- does he not help ben
+- does he not help Beni on purpose?
+- 
