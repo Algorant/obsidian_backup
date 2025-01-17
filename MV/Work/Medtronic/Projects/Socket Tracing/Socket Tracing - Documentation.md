@@ -20,3 +20,7 @@
 - ZCR60 = INVOS
 - ZCO60 = OXIMETRY
 - ZCB60 = BIS
+#### Largest Issues
+- MDM related customer-match issues
+- Global view vs US only view
+- 

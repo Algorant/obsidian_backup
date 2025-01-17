@@ -6,7 +6,7 @@
 - [[Socket Tracing - Meetings]]
 - [[Socket Tracing - Documentation]]
 - [[Socket Tracing - Testing Suite]]
-- 
+- [[Socket Tracing - Global View]]
 
 ---
 ## Misc

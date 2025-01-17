@@ -9,11 +9,7 @@
 ---
 ## General
 
-- [x] call to get VIP Wild Kratts tickets
-	- [x] 954-344-5991
-- [ ] wiper fluid
-- [x] foot peel
-- [x] print 100  [[Luckyland]]
+- [ ] wiper fluid 
 - [ ] attic storage from office 
 - [ ] deep clean printer
 - [ ] call old homeowners insurance for refund

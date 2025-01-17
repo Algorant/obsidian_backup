@@ -940,3 +940,8 @@ scheduled today
 - [x] move red chair
 - [x] cup holder Tesla 
 - [x] buy Ikea shoe thing 
+#### January 17th 2025
+- [x] print 100  [[Luckyland]]
+- [x] foot peel
+- [x] call to get VIP Wild Kratts tickets
+	- [x] 954-344-5991

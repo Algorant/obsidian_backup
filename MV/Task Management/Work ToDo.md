@@ -13,10 +13,20 @@
 ---
 
 ## Tasks
-- [ ] Put File Updates at the top
-- [ ] Add [[Mindray]] accounts
-- [ ] BIS Procedures are General Anesthesia Upload
-- [ ] Create "Executive Summary Date Range"
+- [ ] Clean up [[Mallory]] Script for [[Kyle]]
+- [ ] [[Socket Tracing - Refactor]]
+	- [ ] Create SQL Updating Script
+	- [ ] Create Global File Process
+	- [ ] Downstream Create US File Process
+	- [ ] Create Fuzzy Matching File Process
+	- [ ] Create Processing Script
+	- [ ] Add [[Mindray]] accounts
+	- [ ] Add Philips Consumable Accounts Update
+- [ ] Create "Executive Summary Date Range" Metrics
+	- [ ] Get Percentage by OEM of Dataset metrics
+	- [ ] compare with entire dataset vs fuzzy matched (by quantity and raw)
+- [ ] [[Socket Tracing]] [[BIS]] Specific tasks
+	- [ ] BIS Procedures are General Anesthesia Upload
 - [ ] Global View Upload
 - [ ] Mess with [[Snowflake]]
 - [ ] Value of a Socket Pilot
