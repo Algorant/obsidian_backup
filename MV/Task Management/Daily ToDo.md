@@ -9,6 +9,11 @@
 ---
 ## General
 
+- [ ] pep scholarship
+- [ ] watch for my boo
+	- [ ] tracking for: steps, sleep, 
+	- [ ] timer, alarm
+	- [ ] switchable band
 - [ ] wiper fluid 
 - [ ] attic storage from office 
 - [ ] deep clean printer

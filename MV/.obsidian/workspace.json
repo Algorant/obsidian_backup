@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Management/Daily ToDo.md",
+                "file": "Task Management/Work ToDo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily ToDo"
+              "title": "Work ToDo"
             }
           },
           {
@@ -82,8 +82,7 @@
               "title": "OpenMediaVault"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,16 +226,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08f8a3d2f2cf52ff",
+  "active": "069b347321cdd23d",
   "lastOpenFiles": [
     "Daily Notes/January 17th 2025.md",
+    "Task Management/Daily ToDo.md",
     "New Notes/Education Tools.md",
     "Work/Medtronic/Projects/Socket Tracing/Socket Tracing - Global View.md",
     "Knowledge Base/Media/Games/Persona 5 Royal.md",
     "Daily Notes/January 15th 2025.md",
     "Daily Notes/January 13th 2025.md",
     "Knowledge Base/Media/Movies/The Mummy.md",
-    "Task Management/Daily ToDo.md",
     "Projects/Tech/Homelab/OpenMediaVault.md",
     "Daily Notes/January 11th 2025.md",
     "Daily Notes/January 10th 2025.md",
