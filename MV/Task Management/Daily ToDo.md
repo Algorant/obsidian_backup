@@ -9,7 +9,7 @@
 ---
 ## General
 
-- [ ] pep scholarship
+- [ ] [[PEP Scholarship]]
 - [ ] watch for my boo
 	- [ ] tracking for: steps, sleep, 
 	- [ ] timer, alarm
