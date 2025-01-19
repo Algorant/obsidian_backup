@@ -59,3 +59,20 @@
 - Step 12, the global location columns, GSDM_GEOGRAPHY are missing (Geo region and geo sub region)
 - The GE OEM file is not complete on product matching, you have approx 893 items that do not match. Will remove for now.
 
+## Standalone Python
+- Current structure
+	- main.py
+		- utils
+			- data_processor.py class
+			- data_merger.py class
+			- file_utils.py
+			- db_utils.py
+
+
+## Misc
+
+Alright now we will do our first merge using DataMerger. I have a dir in main called PREPROCESSED_DIR and within it are two files: processed_direct_sales_data_0119.csv and processed_standalone_data_0119.csv. These are the output of the previous data processing steps 1 and 2.
+
+I would like to use the same latest_file and prefix structure to read in these files when needed. I will also be merging dataframes directly from the reference_files dir without needing to process them, so I need functionality to read in both.
+
+The first actual merge would be merging standalone and direct sales. I would like to print out the columns of each dataframe read in before beginning for debugging purposes and to catch errors, and then begin the merges.
