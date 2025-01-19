@@ -21,14 +21,14 @@ dataSource: OMDbAPI
 id: tt4263482
 producer: Robert Eggers
 duration: 92 min
-onlineRating: 7
+onlineRating: 14
 actors:
   - Anya Taylor-Joy
   - Ralph Ineson
   - Kate Dickie
 image: https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_SX300.jpg
 released: true
-watched: false
+watched: true
 personalRating: 0
 ---
 
