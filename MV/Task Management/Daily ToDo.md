@@ -15,7 +15,7 @@
 	- [ ] meats
 		- [ ] shortrib
 		- [ ] ground beef
-		- [ ] ribeyes
+		- [ ] ribeyes 
 		- [ ] pork roast
 		- [ ] whole chickens
 		- [ ] bscb or thighs
