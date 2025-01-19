@@ -12,6 +12,8 @@
 - [x] [[PEP Scholarship]]
 - [ ] Shopping list
 	- [ ] oatmeal
+	- [ ] cilantro 
+	- [ ] lemon juice 
 	- [ ] meats
 		- [ ] shortrib
 		- [ ] ground beef
