@@ -9,7 +9,16 @@
 ---
 ## General
 
-- [ ] [[PEP Scholarship]]
+- [x] [[PEP Scholarship]]
+- [ ] Shopping list
+	- [ ] oatmeal
+	- [ ] meats
+		- [ ] shortrib
+		- [ ] ground beef
+		- [ ] ribeyes
+		- [ ] pork roast
+		- [ ] whole chickens
+		- [ ] bscb or thighs
 - [ ] watch for my boo
 	- [ ] tracking for: steps, sleep, 
 	- [ ] timer, alarm
