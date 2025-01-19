@@ -38,10 +38,15 @@ Winter trip planning
 ## 2024 Recap
 - plus
 	- finances in order
+	- read 35 books! including all of #cosmere
+	- [[rust]] expertise way up (ty llms)
+	- much better software engineer, shored up plenty of holes
 - minus
 	- Solder and/or 3dprint 
 	- serious attempt at $ ideas
 	- "having an online presence"
+	- no career change or pivot or groundwork for one
+	- no long term living plan, but this is more neutral than anything negative really
 ## Personal
 - blog, 
 	- 1 article per month, including jan and feb which are prob a wash rn
