@@ -41,4 +41,6 @@ personalRating: 0
 ---
 ## Notes
 - Cool voice guy. Sick
+- glad I didn't watch this with L
+- rabbit has crazy eyes
 - 
