@@ -204,3 +204,7 @@
 33. [[The Sunlit Man]] 
 34. [[Anathem]]
 
+## 2025
+- [[Wind and Truth]]
+- [[Reamde]]
+

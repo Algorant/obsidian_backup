@@ -33,3 +33,19 @@
 - Kennedy space center trip
 - - Kennedy space center trip
 Winter trip planning
+
+
+## 2024 Recap
+- plus
+	- finances in order
+- minus
+	- Solder and/or 3dprint 
+	- serious attempt at $ ideas
+	- "having an online presence"
+## Personal
+- blog, 
+	- 1 article per month, including jan and feb which are prob a wash rn
+- 3kp Site and metrics flow
+- 2 boys trips, 2 family trips
+- no eating after 10pm
+- revise, edit, and publish novel
