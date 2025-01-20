@@ -14,3 +14,10 @@ LIMIT 5
 
 ---
 ## Links
+- Description:: - Learn DSA from competitive programmer
+- Link::[Tweet](https://x.com/ChShersh/status/1881074349794627739?t=dzjT5tUNoeKN3us9S7lcLw&s=19)
+- Tags:: #tweet #cs #dsa 
+- Embed:: 
+	- ![](https://x.com/ChShersh/status/1881074349794627739?t=dzjT5tUNoeKN3us9S7lcLw&s=19)
+
+ --- 
