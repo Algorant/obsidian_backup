@@ -15,13 +15,13 @@
 ## Tasks
 - [ ] Clean up [[Mallory]] Script for [[Kyle]]
 - [ ] [[Socket Tracing - Refactor]]
-	- [ ] Create SQL Updating Script
+	- [ ] Create Processing Script
 	- [ ] Create Global File Process
 	- [ ] Downstream Create US File Process
 	- [ ] Create Fuzzy Matching File Process
-	- [ ] Create Processing Script
 	- [ ] Add [[Mindray]] accounts
 	- [ ] Add Philips Consumable Accounts Update
+	- [x] Create SQL Updating Script
 - [ ] Create "Executive Summary Date Range" Metrics
 	- [ ] Get Percentage by OEM of Dataset metrics
 	- [ ] compare with entire dataset vs fuzzy matched (by quantity and raw)
@@ -35,7 +35,6 @@
 - [[Socket Tracing - Refactor]]
 	- [ ] Rep Alignment
 	- [x] Customer Validation
-- [ ] VOAS description should be 
 - [ ] Update Philips Consumables 
 	- [ ] Process April-Oct
 - [ ] Pending Items 
